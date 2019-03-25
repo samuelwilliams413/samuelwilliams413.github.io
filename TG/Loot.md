@@ -1,4 +1,4 @@
-# Loot
+# **[SECRET]** - Loot
 1. [Loot 50 GP](#loot-50-gp)
 1. [Loot 500 GP](#loot-500-gp)
 1. [Loot 2000 GP](#loot-2000-gp)
