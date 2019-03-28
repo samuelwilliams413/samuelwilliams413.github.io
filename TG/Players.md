@@ -413,9 +413,11 @@ Cost of Scroll: Spell Level^2 * 100
 
 # Combat
 ## Initiative
-To determine who acts in what order, at the start of combat each entity rolls 1d20. If the result is less than your dexterity score, use your dexterity score instead. Entities act in order of highest to lowest result.
+To determine who acts in what order, at the start of combat each side rolls a d6. Whoever rolls highest gos first. Sides take turns.
 
-You may choose to act at a lower initiative, but this becomes your new initiative for the rest of the combat.
+- If one side is surpised they go second.
+- If one side has a better change to go first they may roll muliple d6 and chose the highest.
+- Characters on each side act in any order within their turn.
 
 ## Dual Wielding
 You may wield two weapons at the same time:
