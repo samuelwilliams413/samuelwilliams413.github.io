@@ -31,6 +31,8 @@ This document outlines houserules and gives a summary of characer creation. We u
 1. [Combat](#combat)
 	1. [Initiative](#initiative)
 	1. [Dual Wielding](#dual-wielding)
+	1. [Two handed weapons](#two-handed-weapons)
+	1. [Sword and Board](#sword-and-board)
 	1. [Ranged Combat](#ranged-combat)
 	1. [Two Handed Spears](#two-handed-spears)
 1. [Miscellanous](#miscellanous)
@@ -48,7 +50,6 @@ This document outlines houserules and gives a summary of characer creation. We u
 		1. [Investments](#investments)
 
 1. [FAQ](#faq)
-
 
 # Character Creation
 
@@ -263,8 +264,8 @@ When you attack you may *hamstring* or *go for the kill*:
 |Leather|100|-|4 Armor Points|
 |Chain Mail|350|-|6 Armor Points|
 |Plate & Mail|600|-|8 Armor Points|
-|Shield, Small|50|-|2 Armor Points|
-|Shield, Large|100|-|4 Armor Points|
+|Shield, Small|50|-|2 Armor Points, 1 Damage Reduction|
+|Shield, Large|100|-|4 Armor Points, 2 Damage Reduction|
 |-|-|-|-|
 |Acid (vial)|25|d4|-|
 |Antitoxin (vial)|50|d4|-|
@@ -420,9 +421,22 @@ You may choose to act at a lower initiative, but this becomes your new initiativ
 You may wield two weapons at the same time:
 
 - Both weapons must be one handed.
-- Your offhand weapon uses a ```1d12 + 10``` for attack rolls
-- Your offhand weapon's attack die is reduced by 1 (```d12>d10>d8>d6>d4>1```)
-- When using a shield as a offhand weapon it no longer provides an armour bonus until the end of your next turn
+- Every time you would normally be able to attack you may attack with each weapon.
+- Both weapon's attack die is reduced by 1 (```d12>d10>d8>d6>d4>1```)
+
+## Two handed weapons
+You may wield a weapon with two hands:
+
+- Weapon must be two handed.
+- When you deal damage, deal bonus damage equal to your total number of attacks per round. E.g L3 Warrior = 1d8 + 3
+
+## Sword and Board
+You may wield a shield and 1 handed weapon at the same time:
+
+- Shields provide AP as normal
+- Shield provide damage reduction. When you take damage reduce tha mount take by your current damage reduction.
+- You may not deal damage with a shield.
+
 
 ## Ranged Combat
 
@@ -442,7 +456,7 @@ A crossbow may be fired with one hand but requires two hands to load.
 
 ## Two Handed Spears
 
-Two handed spears function differently from normal 2 handed weapons. When using a two handed spear you do not add +2 to any dice rolled with them. Instead, when standing behind an ally you may attack an enemy immediately in front of that ally.
+Two handed spears function differently from normal 2 handed weapons. Instead, when standing behind an ally you may attack an enemy immediately in front of that ally.
 
 
 # Miscellaneous

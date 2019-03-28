@@ -1,6 +1,4 @@
 # Start Page
 
-1. [Wedding](Wedding.md)
-1. [Tabletop](Tabletop.md)
-1. [Projects](Projects.md)
-1. [Thoughts](Thoughts.md)
+- [**Wedding**: Emily and I are getting married. Details here.](Wedding.md)
+- [**Tabletop**: Dnd, the back hack, OSR, etc...](Tabletop.md)
