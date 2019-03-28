@@ -446,7 +446,7 @@ You may wield a shield and 1 handed weapon at the same time:
 
 When firing into a melee that includes allies; roll to hit normally, but if you miss the attack resolves against a random ally (ally rolls DEX check to avoid damage normally).
 
-### Thown weapons
+### Thrown weapons
 
 Thrown weapons may be used normally when *close* to an enemy. STR or DEX may be used to attack an enemy if they are *close* or *nearby*.
 

@@ -1,3 +1,4 @@
+# The God-Machine
 Behind the scenes, quietly maintaining the miserable status quo of the World is a vast, nigh-insurmountable entity known as the God-Machine, a subtle, unknowable occult supercomputer with the power of God. This is not the God of the Bible, or the Qu'ran, or the Buddha, or innumerable pagan deities. No, the God-Machine's power flows from utter and undisputed mastery of physics, both mundane and not. Nobody knows its real agenda, not even its legions of angels, the sapient autonomous probes and programs that carry out its will.
 
 Perhaps that is why so many of them turn on it.
