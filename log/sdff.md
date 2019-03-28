@@ -1,4 +1,5 @@
-# Should I just lock the players in?
+# 0001
+## Should I just lock the players in?
 
 So Gygax had this idea that there can be no menaingful campaign without timekeeping.
 
@@ -16,7 +17,7 @@ Basically you have three choices:
 1. Parties are able to recover resources at some interval
 
 
-## Full resources every time
+### Full resources every time
 
 - Always have nukes and mega abilities
 - Always have nukes and mega abilities
@@ -24,7 +25,7 @@ Basically you have three choices:
 - encounters need to be life or death, or they become meaningless
 - damage becomes meaningless once combat is over
 
-## Never Recover
+### Never Recover
 
 - Attrition
 - Encounters can't be too deadly
@@ -35,4 +36,4 @@ Basically you have three choices:
 
 
 
-Basically, need a method of preventing them from 
+Basically, need a method of preventing them from
