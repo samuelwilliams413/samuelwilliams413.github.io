@@ -416,7 +416,7 @@ Cost of Scroll: Spell Level^2 * 100
 To determine who acts in what order, at the start of combat each side rolls a d6. Whoever rolls highest gos first. Sides take turns.
 
 - If one side is surpised they go second.
-- If one side has a better change to go first they may roll muliple d6 and chose the highest.
+- If one side has a better chance to go first they may roll muliple d6 and choose the highest.
 - Characters on each side act in any order within their turn.
 
 ## Dual Wielding
