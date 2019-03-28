@@ -1,5 +1,5 @@
 # 0002
-##Wtf the fuck am I doing with my time
+## Wtf the fuck am I doing with my time
 
 I was thinking about this while watching videos of some Canadian build a log cabin.
 
@@ -10,9 +10,9 @@ I was thinking about this while watching videos of some Canadian build a log cab
 
 > [My Self reliance](https://www.youtube.com/channel/UCIMXKin1fXXCeq2UJePJEog/videos?flow=grid&view=0&sort=p)
 
-Anyways, I was looking in the side bar and all the youtube suggestions were for people doing the same thing. Learning survival skills or self-reliance or building a cabin or whatever. It seems like every tom, dick, and harry who's involved in survival stuff. It got me thinking.
+Anyways, I was looking in the side bar and all the youtube suggestions were for people doing the same thing. Learning survival skills or self-reliance or building a cabin or whatever. It seems like every tom, dick, and harry who's involved in survival stuff is making videos about it. It got me thinking.
 
-The answer came pretty quick (in part because the ending of every video is the guy doing a reflection). When you have something good and of value you tend to want to share it. Anything with doing is worth sharing and passing one. I think everything i'm doing as well as not accumulating to anything is also pretty self-centered.
+The answer came pretty quick (in part because the ending of every video is the guy doing a reflection). When you have something good and of value you tend to want to share it. Anything with doing is worth sharing and passing on. I think everything i'm doing, as well as not accumulating to anything, is also pretty self-centered.
 
 DND feels like:
 
@@ -110,4 +110,51 @@ My role in this would be to define:
 - Create a complication
 - Play fair (crosshairs on everyone)
 
+## What to do?
 
+- Work on creating goals and hooks with more bite. Make the players have drive beyond loot, xp, and implict consent.
+  - Kill dogs
+  - Steal princeses
+  - Destroy cars
+- Think about intel gathering and really create a good sandbox with lots of parts.
+  - Not just a string of rooms.
+  - Predators Camp
+  - Things to interact with
+  - Patterns to indentify
+  - Fog of war
+- Think of all the ways that things can go wrong.
+  - Don't thrawt the players, just make sure that murphy's law is always in play
+- Play fair
+  - Kill npcs
+  - Kill players
+  - Don't pick a side
+  - holding back ruins it for everyone
+
+**Think**
+
+- Predator
+- Assasins creed
+- Goblin outpost fight
+- Ogre Cave Fight
+- Dragin lair fight
+- Solitario
+- Metal Gear Solid
+- Heists
+
+Maybe a heist is the way to go. A series of mini missions each session to get info. Then the final climax.
+
+- Floorplan
+- Guard details
+- Traps & Countermeasures
+- Locks & Portals
+- Disabling key systems
+- Distractions
+- Entrance
+- Fencing
+- Other
+  - Don't know what it is, just the room that its kept
+  - Don't know how to make it valuable
+  - Put it back (C4, jewels) / replace it (art fake)
+  - Assasinate
+
+This is an interesting idea to play around with, i have content for the next session. Week after engagement I'll do a heist.
