@@ -1,7 +1,7 @@
 - [You can find a copy of the Black Hack Ruleset here](https://the-black-hack.jehaisleprintemps.net/english/)
 - [Digital character sheets **(NEW)**](https://docs.google.com/spreadsheets/d/1giTFF2fVelQ5ngqvBPMDBLHZKMGfN4baAK_eNjTA_DY/edit?usp=sharing)
-- [Rules for the outdoors](https://gist.github.com/samuelwilliams413/93f45764865ea5522c5dafd5e8518668)
-- [Rules for the religion](https://gist.github.com/samuelwilliams413/8b3ed0bc37ef29c8726fb9c72c1e3381)
+- [Rules for the outdoors](/Wild.md)
+- [Rules for the religion](/Faith.md)
 
 This document outlines houserules and gives a summary of characer creation. We use the [equipment list here](#equipment), not the official one from the black hack.
 
@@ -127,7 +127,7 @@ Stats are generated with `3d6` in the following order Strength (STR), Dexterity 
 
 [You can find a copy of the Black Hack Ruleset which includes the spell list here,](https://the-black-hack.jehaisleprintemps.net/english/)
 
-> Have you considered our lord and saviour [Elondelus, God of Blacksmithing and Justice](https://gist.github.com/samuelwilliams413/8b3ed0bc37ef29c8726fb9c72c1e3381) .
+> Have you considered our lord and saviour [Elondelus, God of Blacksmithing and Justice](/Faith.md) .
 > - Sam
 
 ## **Conjurer**
@@ -409,7 +409,7 @@ Cost of Scroll: Spell Level^2 * 100
 > e.g. Scroll of Fireball > 3rd level spell = `3*3*100 = 900 gp`
 
 ## Faith
-[Religion is handled on a seperate page](https://gist.github.com/samuelwilliams413/8b3ed0bc37ef29c8726fb9c72c1e3381)
+[Religion is handled on a seperate page](/Faith.md)
 
 # Combat
 ## Initiative
