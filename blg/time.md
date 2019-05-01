@@ -1,0 +1,28 @@
+# What can I be doing with my time?
+
+- Wedding
+	- Tux
+	- Music
+	- Photos
+	- Pick Meals
+- 40k
+- DnD
+- Book Club
+	- 7 Principles
+	- Boy's Book
+	- Boy's Album
+	- Bible
+- Run
+- Weights
+- Clean
+	- Bed
+	- Bath
+	- Kitchen
+	- Living
+	- Downstairs
+- Washing
+- Spanish
+- Aslan
+- bluetooth project
+- stair lights
+- parking indicator
