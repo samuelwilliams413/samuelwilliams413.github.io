@@ -26,3 +26,8 @@
 - bluetooth project
 - stair lights
 - parking indicator
+- Vi
+- Shell
+- C
+- Networking
+- Linux
