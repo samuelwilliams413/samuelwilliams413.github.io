@@ -31,3 +31,11 @@
 - C
 - Networking
 - Linux
+- sew on patch
+- baby monitor
+- 3D printing
+- Typing
+- Driving
+- Drawing 
+- Painting
+
