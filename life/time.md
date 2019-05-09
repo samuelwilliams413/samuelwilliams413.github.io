@@ -1,5 +1,11 @@
 # What can I be doing with my time?
 
+- Index funds
+- podcast
+- move mum
+- skate
+- blog
+- pet feeder
 - Wedding
 	- Tux
 	- Music
@@ -38,4 +44,8 @@
 - Driving
 - Drawing 
 - Painting
+- mutt
+- tmux
+- ranger
+- hipchat
 
