@@ -48,4 +48,7 @@
 - tmux
 - ranger
 - hipchat
+- headphones
+	- Jaybird X3 Wireless Headphones 
+	- Jabra Elite 65T Wireless Earbuds
 
