@@ -4,7 +4,7 @@
 
 1. Come up with a concept
 1. Create a stand ability. Get a cost from the DM.
-1. Purchase stand user's abilities (45 pts)
+1. Purchase stand user's abilities (40 pts)
 1. Purchase stand abilities (60 pts, includes stand cost)
 1. Specify a personal effect/item
 
@@ -57,3 +57,43 @@ If you wish to work with an ally roll all of your dice together. But for every a
 ### Reaction
 
 Outside of your turn you may take one small action. Examples include: 5ft step, drop an item, press a button.
+
+
+
+# Example
+
+## Death Shits
+
+The idea of this stand comes from the song Guilotine by Death Grips, specifically the repeated line "IT GOES IT GOES IT GOES. GUILOTINE!"
+My user Ride's stand creates slow unstopable steel blades that travel through the air. To constrain the abilty the DM and I agree the blades can only ever move at walking speed. Because of this we agree that the stand is class C.
+
+Picking my stands stats I want the blades to be powerful, so I make power A. It doesn't need to be fast, or have a super long range, so i make speed and range both C. I know that i want to do all kinds of ass pullery (e.g. standing on the blades to levitate, using the blades to pull open things) so I'll make potential an A. That leaves me 15 points. Basically a B and a C between precision and durability. Precision feels important, so I make it a B.
+
+I follow a similar to make my user Ride into a wiry and tough guy who makes a lot of bad decisions. This means that my final stats look like.
+
+|Guilotine|60 pts|
+|:-|:-|
+|Power|A|
+|Speed|C|
+|Precision|B|
+|Durability|C|
+|Range|C|
+|Potential|A|
+|Stand|C|
+
+Stand Ability: *IT GOES*
+
+Create slow moving unstobbable metal blades of any size that cut through anything (they can be dismissed).
+
+|Ride|39 pts|
+|:-|:-|
+|Strength|B|
+|Dexterity|C|
+|Consitution|A|
+|Wisdom|E|
+|Intelligence|D|
+|Charisma|C|
+
+
+
+As personal effects I decide that my character smokes and carries a lighter & smokes.
