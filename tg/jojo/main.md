@@ -1,4 +1,4 @@
-# SuckMaDick Crusaders
+# Muda Muda Crusaders
 
 ## Character Creation
 
