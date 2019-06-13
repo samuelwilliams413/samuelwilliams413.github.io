@@ -38,6 +38,12 @@
 - *Potential* - Ass pulls. Used to for ability interpretation.
 - *Stand* - Stand ability strength
 
+### Techniques
+
+You may also spend 5 points to create a technqiue. A technqiue is an extension or specific use case of stand. A technqiue can be used to allow a tenuous intepretation of your stand to be canon, or to give your stand new abilities.
+
+E.g. I have a stand that allows me to give life to things. I would like to be able to use this to crate flesh and heal people. Obviously this is bullshit, so I ask the DM if I can make it a technique. They say yes, now without having to roll potential I can take physical objects and use them to heal.
+
 ## Rules
 
 ### Resolution
@@ -58,14 +64,26 @@ If you wish to work with an ally roll all of your dice together. But for every a
 
 Outside of your turn you may take one small action. Examples include: 5ft step, drop an item, press a button.
 
+### Conflict
 
+Combat needs to be cinematic. As long as you have resolve you can keep fighting, how this translates is a best first-to-three. Players and enemeies will do combat, describing actions, and countering each other. If they manage to make it past their enemies and hurt them, they win the trade. If you repeatedly make it past their defences (3 times) they are defeated, if you manage to completely bypass their defences you may Ora-Ora.
+
+E.g.
+
+Combat 1
+
+
+
+Combat 2
+
+After 
 
 # Example
 
 ## Death Shits
 
 The idea of this stand comes from the song Guilotine by Death Grips, specifically the repeated line "IT GOES IT GOES IT GOES. GUILOTINE!"
-My user Ride's stand creates slow unstopable steel blades that travel through the air. To constrain the abilty the DM and I agree the blades can only ever move at walking speed. Because of this we agree that the stand is class C.
+My user Ride's stand creates slow unstoppable steel blades that travel through the air. To constrain the abilty the DM and I agree the blades can only ever move at walking speed. Because of this we agree that the stand is class C.
 
 Picking my stands stats I want the blades to be powerful, so I make power A. It doesn't need to be fast, or have a super long range, so i make speed and range both C. I know that i want to do all kinds of ass pullery (e.g. standing on the blades to levitate, using the blades to pull open things) so I'll make potential an A. That leaves me 15 points. Basically a B and a C between precision and durability. Precision feels important, so I make it a B.
 
@@ -83,7 +101,7 @@ I follow a similar to make my user Ride into a wiry and tough guy who makes a lo
 
 Stand Ability: *IT GOES*
 
-Create slow moving unstobbable metal blades of any size that cut through anything (they can be dismissed).
+Create slow moving unstoppable metal blades of any size that cut through anything (they can be dismissed).
 
 |Ride|39 pts|
 |:-|:-|
