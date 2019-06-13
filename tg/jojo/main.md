@@ -64,19 +64,13 @@ If you wish to work with an ally roll all of your dice together. But for every a
 
 Outside of your turn you may take one small action. Examples include: 5ft step, drop an item, press a button.
 
-### Conflict
+### Status
 
-Combat needs to be cinematic. As long as you have resolve you can keep fighting, how this translates is a best first-to-three. Players and enemeies will do combat, describing actions, and countering each other. If they manage to make it past their enemies and hurt them, they win the trade. If you repeatedly make it past their defences (3 times) they are defeated, if you manage to completely bypass their defences you may Ora-Ora.
+Rather than health you character has various status conditions. These are described by keywords, and apply bonuses and penalties where appropriate.
 
-E.g.
+E.g. Hungry, battered, charmed, angry
 
-Combat 1
-
-
-
-Combat 2
-
-After 
+If your character is *wounded* and injured signifcanty they may be *incapacitated*.
 
 # Example
 
@@ -89,6 +83,15 @@ Picking my stands stats I want the blades to be powerful, so I make power A. It 
 
 I follow a similar to make my user Ride into a wiry and tough guy who makes a lot of bad decisions. This means that my final stats look like.
 
+|Ride|39 pts|
+|:-|:-|
+|Strength|B|
+|Dexterity|C|
+|Consitution|A|
+|Wisdom|E|
+|Intelligence|D|
+|Charisma|C|
+
 |Guilotine|60 pts|
 |:-|:-|
 |Power|A|
@@ -99,19 +102,30 @@ I follow a similar to make my user Ride into a wiry and tough guy who makes a lo
 |Potential|A|
 |Stand|C|
 
-Stand Ability: *IT GOES*
-
-Create slow moving unstoppable metal blades of any size that cut through anything (they can be dismissed).
-
-|Ride|39 pts|
-|:-|:-|
-|Strength|B|
-|Dexterity|C|
-|Consitution|A|
-|Wisdom|E|
-|Intelligence|D|
-|Charisma|C|
-
-
+Stand Ability: Create slow moving unstoppable metal blades of any size that cut through anything (they can be dismissed).
 
 As personal effects I decide that my character smokes and carries a lighter & smokes.
+
+
+
+
+
+
+# FAQ
+#### Emily and I's Address?
+Unit 4 @ 67 Ormadale Rd, Yeronga. [Google maps link](https://goo.gl/maps/jdkX6SmNVG42).
+The driveway is long and thin, its much easier to park on the street.
+
+#### My Phone number?
+0410245135
+
+#### What should I bring?
+
+- Pencil
+- Eraser
+- Dice
+- Something to eat
+- Notepad
+
+#### Can I suggest a time for a session?
+Yes! Feel free to ask around and see who is available.
