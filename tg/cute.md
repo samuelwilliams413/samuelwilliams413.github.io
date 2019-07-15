@@ -16,8 +16,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **Werewolf** (fighter)
 
-- Starting HP : d8+4
-- HP Per Level/Resting : Full
+- Starting HP : 4 + CON
 - Attack Damage : 1d6 Natural Weapons (two attacks per turn)
 
 ### Special Features
@@ -33,8 +32,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **[Mimic](https://i.warosu.org/data/tg/img/0513/69/1485232897452.png)** (thief)
 
-- Starting HP : d6+4
-- HP Per Level/Resting : d6
+- Starting HP : 3 + CON
 - Attack Damage : 1d6 Natural Weapons
 
 ### Special Features
@@ -50,8 +48,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **Vampire** (bard)
 
-- Starting HP : d6+4
-- HP Per Level/Resting : d6
+- Starting HP : 3 + CON
 - Attack Damage : 1d6 Natural Weapons
 
 ### Special Features
@@ -69,14 +66,14 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **[Ooze](https://i.warosu.org/data/tg/img/0477/86/1466003595945.gif)** (barb)
 
-- Starting HP : d10+4
+- Starting HP : 6 + CON
 - HP Per Level/Resting : d10
-- Attack Damage : 1d8 Pseudopods
+- Attack Damage : 1d6 + 1 Pseudopods
 
 ### Special Features
 
 - Engulf: STR check to engulf (STR to escape). Target cannot move, all damage that you deal to target heals you. 
-- Split: You may create Mini-Oozes. Each costs 5 hp and has 1 HD, 5 hp, 1d4 damage and 5 in all stats.
+- Split: You may create Mini-Oozes. Each costs 3 hp and has 1 HD, 3 hp, 1d3 damage and 3 in all stats. Your maximum hp is reduced by 3 for each living Mini-Ooze.
 
 ### Leveling Up
 
@@ -85,13 +82,12 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **[Lich](https://cdnb.artstation.com/p/assets/images/images/003/346/529/large/alexander-trufanov-skeleton-chibi-mage.jpg?1472678555)** (Cleric)
 
-- Starting HP : d4+4
-- HP Per Level/Resting : d4
-- Attack Damage : 1d4 Staff
+- Starting HP : 2 + CON
+- Attack Damage : 1d6 - 1 Staff
 
 ### Special Features
 
-- Finger of death: On touch entity either a) ages 1d20 years b) takes 1d20 damage
+- Finger of death: On touch entity either a) ages 3d6 years b) takes 3d6 damage (Cooldown: 5+).
 - Power Word Stun: Anyone who hears your word loses their next turn (this includes you).
 - Arcane Eye: You can see magic, curses, and enchantments
 - Phylactery: Unless phylactery is destroyed, when you die your body reconstitues and you are resurected at the next nightfall.
@@ -103,9 +99,8 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **[Beholder](https://static1.squarespace.com/static/5ba903610b77bdcd564f1399/5bc7afbeec212dc7e0b251b7/5bc7d0de1905f422c43dee8e/1539821886813/ChibiBeholder.png)** (Magic User)
 
-- Starting HP : d8+4
-- HP Per Level/Resting : d8
-- Attack Damage : 1d8 Bite & Telekenesis
+- Starting HP : 4 + CON
+- Attack Damage : 1d6 + 1 Bite & Telekenesis
 
 ### Special Features
 
