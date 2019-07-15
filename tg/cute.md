@@ -1,3 +1,5 @@
+# Chimeras & Cuites
+
 ## Core Mechanic
 Everything a character might possibly attempt that could result in failure is resolved by testing attribute stats, in order to successfully test a stat - a player must roll below it on a d6. A result of 1 is always a success.
 
@@ -29,7 +31,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - When rolling to see if an attributes increases, roll twice for STR and DEX.
 
 
-## **Mimic** (thief)
+## **[Mimic](https://i.warosu.org/data/tg/img/0513/69/1485232897452.png)** (thief)
 
 - Starting HP : d6+4
 - HP Per Level/Resting : d6
@@ -65,7 +67,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - When rolling to see if an attributes increases, roll twice for INT and CHA.
 
 
-## **Ooze** (barb)
+## **[Ooze](https://i.warosu.org/data/tg/img/0477/86/1466003595945.gif)** (barb)
 
 - Starting HP : d10+4
 - HP Per Level/Resting : d10
@@ -75,14 +77,13 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - Engulf: STR check to engulf (STR to escape). Target cannot move, all damage that you deal to target heals you. 
 - Split: You may create Mini-Oozes. Each costs 5 hp and has 1 HD, 5 hp, 1d4 damage and 5 in all stats.
-- Slimy: You can shamble on all surfaces, including upside down on ceilings.
 
 ### Leveling Up
 
 - When rolling to see if an attributes increases, roll twice for STR and CON.
 
 
-## **Lich** (Cleric)
+## **[Lich](https://cdnb.artstation.com/p/assets/images/images/003/346/529/large/alexander-trufanov-skeleton-chibi-mage.jpg?1472678555)** (Cleric)
 
 - Starting HP : d4+4
 - HP Per Level/Resting : d4
@@ -100,7 +101,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - When rolling to see if an attributes increases, roll twice for WIS and INT.
 
 
-## **Beholder** (Magic User)
+## **[Beholder](https://static1.squarespace.com/static/5ba903610b77bdcd564f1399/5bc7afbeec212dc7e0b251b7/5bc7d0de1905f422c43dee8e/1539821886813/ChibiBeholder.png)** (Magic User)
 
 - Starting HP : d8+4
 - HP Per Level/Resting : d8
