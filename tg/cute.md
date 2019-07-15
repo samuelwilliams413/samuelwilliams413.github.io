@@ -20,7 +20,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ### Special Features
 
-- Regenerate: You heal *L* hitpoints per turn. If you are killed by anything that isn't silver weapons, your healing functions at 0 hp.
+- Regenerate: You heal your level in hitpoints per turn. If you are killed by anything that isn't fire or silver weapons, your healing functions at 0 hitpoints.
 - Doglike: Adv. on checks related to being dog-like
 - Stronk: Adv. on STR checks
 
@@ -39,6 +39,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - Shapeshift: You may shapeshift into any solid object smaller than a fridge. While the mimic remains motionless, it is indistinguishable from an ordinary object.
 - Sticky: Anything that touches you must pass a STR check to untouch.
+- SURPRISE!: Rather than dealing double damage on a surprise attack, you deal quadruple damage.
 
 ### Leveling Up
 
@@ -54,6 +55,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 ### Special Features
 
 - Batform: You may transform into a bat at will.
+- Mistform: You may transform into a cloud of fog.
 - Enthralling: Adv. on CHA checks to charm or terrify
 - Child of the Night: You can walk on all surfaces, including upside down on ceilings.
 - Undying: Unless staked, burned, or concecrated your body reconstitues and you are resurected at the next nightfall.
