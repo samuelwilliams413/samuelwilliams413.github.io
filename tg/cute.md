@@ -14,20 +14,21 @@ Stats are generated with `1d6` in the following order Strength (STR), Dexterity 
 
 Roll 1d6 for each of your stats. If you roll higher than your stat, increase the value of the stat by 1.
 
-## **Werewolf** (fighter)
+## **Owlbear** (fighter)
 
-- Starting HP : 4 + CON
+- Starting HP : 5 + CON
 - Attack Damage : 1d6 Natural Weapons (two attacks per turn)
 
 ### Special Features
 
-- Regenerate: You heal your level in hitpoints per turn. If you are killed by anything that isn't fire or silver weapons, your healing functions at 0 hitpoints.
-- Doglike: Adv. on checks related to being dog-like
-- Stronk: Adv. on STR checks
+- Golden Perception: Adv. on checks to see or hear
+- Platinum Power: Adv. on STR checks. 
+- Stone Strength: Add your level to your STR.
+- Diamond Talons: Your claws and beak are unbreakable
 
 ### Leveling Up
 
-- When rolling to see if an attributes increases, roll twice for STR and DEX.
+- When rolling to see if an attributes increases, roll twice for STR and CON.
 
 
 ## **[Mimic](https://i.warosu.org/data/tg/img/0513/69/1485232897452.png)** (thief)
@@ -37,60 +38,41 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ### Special Features
 
-- Shapeshift: You may shapeshift into any solid object smaller than a fridge. While the mimic remains motionless, it is indistinguishable from an ordinary object.
-- Sticky: Anything that touches you must pass a STR check to untouch.
+- Shapeshift: You may shapeshift into any solid object smaller than a fridge. While you remain motionless, you are indistinguishable from an ordinary object.
+- Sticky: Anything that touches you must pass a STR check to untouch. When attacking someone who is stuck to you, roll twice for damage and deal the higher result.
 - SURPRISE!: Rather than dealing double damage on a surprise attack, you deal quadruple damage.
 
 ### Leveling Up
 
-- When rolling to see if an attributes increases, roll twice for CON and DEX.
+- When rolling to see if an attributes increases, roll twice for STR and DEX.
 
-
-## **Vampire** (bard)
+## **Kitsune** (bard)
 
 - Starting HP : 3 + CON
 - Attack Damage : 1d6 Natural Weapons
 
 ### Special Features
 
-- Batform: You may transform into a bat at will.
-- Mistform: You may transform into a cloud of fog.
-- Enthralling: Adv. on CHA checks to charm or terrify
-- Child of the Night: You can walk on all surfaces, including upside down on ceilings.
-- Undying: Unless staked, burned, or concecrated your body reconstitues and you are resurected at the next nightfall.
+- Shapeshift: You may transform into a fox, a beautiful woman, or a handsome man at will. (Same one each time)
+- Spirit: You may become intangible at will. When you do so, you weigh as much a feather and may touch the ground at will.
+- Trickster: You may conjour an object that fits within your hand made of gold or silver. At dawn the object turns to grass.
+- Enthralling: Adv. on CHA checks to charm when in a human form.
 
 ### Leveling Up
 
-- When rolling to see if an attributes increases, roll twice for INT and CHA.
-
-
-## **[Ooze](https://i.warosu.org/data/tg/img/0477/86/1466003595945.gif)** (barb)
-
-- Starting HP : 6 + CON
-- HP Per Level/Resting : d10
-- Attack Damage : 1d6 + 1 Pseudopods
-
-### Special Features
-
-- Engulf: STR check to engulf (STR to escape). Target cannot move, all damage that you deal to target heals you. 
-- Split: You may create Mini-Oozes. Each costs 3 hp and has 1 HD, 3 hp, 1d3 damage and 3 in all stats. Your maximum hp is reduced by 3 for each living Mini-Ooze.
-
-### Leveling Up
-
-- When rolling to see if an attributes increases, roll twice for STR and CON.
+- When rolling to see if an attributes increases, roll twice for DEX and CHA.
 
 
 ## **[Lich](https://cdnb.artstation.com/p/assets/images/images/003/346/529/large/alexander-trufanov-skeleton-chibi-mage.jpg?1472678555)** (Cleric)
 
 - Starting HP : 2 + CON
-- Attack Damage : 1d6 - 1 Staff
+- Attack Damage : 1d3 Staffs & spears
 
 ### Special Features
 
-- Finger of death: On touch entity either a) ages 3d6 years b) takes 3d6 damage (Cooldown: 5+).
-- Power Word Stun: Anyone who hears your word loses their next turn (this includes you).
-- Arcane Eye: You can see magic, curses, and enchantments
 - Phylactery: Unless phylactery is destroyed, when you die your body reconstitues and you are resurected at the next nightfall.
+- Conjurer: You may summon one object into your hands per turn. The object must weigh less than 25 kg and be made of clay, stone, or bone.
+- Death Ray: An entity you point your finger at takes 2d6 damaged. If they are slain by this they are reduced to a fine ash. If you roll doubles, take 1 point of damage.
 
 ### Leveling Up
 
@@ -108,7 +90,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Eye stalks: You may use one eye stalk per turn. You may not use the same eye stalk two turns in a row.
 	- Telekenesis: Move object (250kg or less) up to 5 meters (STR save).
 	- Disintegration: Reduce unliving object (smaller than a fridge) to dust (DEX save).
-	- Flesh to Stone: Turn living object to stone (or back) (CON save).
+	- Flesh to Stone: Turn living being to stone (or back) (CON save).
 	- Sleep: Induce sleep in a sentient creature (INT save).
 	- Fear: Induce absolute terror in a sentient creature (WIS save).
 	- Charm: Make any creature friendly (CHA save).
@@ -116,3 +98,52 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 ### Leveling Up
 
 - When rolling to see if an attributes increases, roll twice for WIS and CHA.
+
+## **Mummy** (???)
+
+- Starting HP : 4 + CON
+- Attack Damage : 1d6
+
+### Special Features
+
+- Mummy's Curse: If any who steals from you as their maximum HP reduced by 1 each day and cannot heal until they return what they stole.
+- Body of Osiris: You can detach your limbs and head, you may control them while detached.
+- Heat of Ra: You may heat an metal object (no larger than a fridge) that you can see. Damage from contact starts at 1d6 and increases by 1d6 each round. At five rounds the metal is soft and malliable. At six rounds the metal melts.  The heat disapates instantly if you take another actions (aside from moving) in your turn.
+
+### Leveling Up
+
+- When rolling to see if an attributes increases, roll twice for CON and INT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **[Ooze](https://i.warosu.org/data/tg/img/0477/86/1466003595945.gif)** (barb)
+
+- Starting HP : 5 + CON
+- Attack Damage : 1d6 + 1 Pseudopods
+
+### Special Features
+
+- Engulf: STR check to engulf (STR to escape). Target cannot move, all damage that you deal to target heals you. 
+- Split: You may create Mini-Oozes. Each costs 3 hp and has 1 HD, 3 hp, 1d3 damage and 3 in all stats. Your maximum hp is reduced by 3 for each living Mini-Ooze.
+
+### Leveling Up
+
+- When rolling to see if an attributes increases, roll twice for STR and CON.
+
+
+
+
+Can't be remembered
