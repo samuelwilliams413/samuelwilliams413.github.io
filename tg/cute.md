@@ -22,7 +22,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 ### Special Features
 
 - Golden Perception: Adv. on checks to see or hear
-- Platinum Power: Adv. on STR checks. 
+- Platinum Power: Adv. on STR checks.
 - Stone Strength: Add your level to your STR.
 - Diamond Talons: Your claws and beak are unbreakable
 
@@ -31,7 +31,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - When rolling to see if an attributes increases, roll twice for STR and CON.
 
 
-## **[Mimic](https://i.warosu.org/data/tg/img/0513/69/1485232897452.png)** (thief)
+## **Mimic** (thief)
 
 - Starting HP : 3 + CON
 - Attack Damage : 1d6 Natural Weapons
@@ -46,7 +46,71 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - When rolling to see if an attributes increases, roll twice for STR and DEX.
 
-## **Kitsune** (bard)
+
+## **Lich**
+
+- Starting HP : 2 + CON
+- Attack Damage : 1d3 Staffs & spears
+
+### Special Features
+
+- Phylactery: Unless phylactery is destroyed, when you die your body reconstitues and you are resurected at the next nightfall.
+- Conjurer: You may summon one object into your hands per turn. The object must weigh less than 25 kg and be made of clay, stone, or bone.
+- Death Ray: An entity you point your finger at takes 2d6 damaged. If they are slain by this they are reduced to a fine ash. If you roll doubles, take 1 point of damage.
+- Dominate: You influence the actions of the target creature by suggesting a course of activity (limited to a sentence or two). The suggestion must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do some obviously harmful act automatically negates the effect of the spell. (WIS save)
+
+### Leveling Up
+
+- When rolling to see if an attributes increases, roll twice for WIS and INT.
+
+
+
+
+
+
+
+
+
+
+
+
+## **Ooze**
+
+- Starting HP : 5 + CON
+- Attack Damage : 1d6 + Level
+
+### Special Features
+
+- Engulf: On hit you engulf your enemy (STR to escape). Target cannot act (except to escape), all damage that you deal to target heals you.
+- Sticky: The ooze can climb difficult surfaces, including upside down on ceilings.
+- Amorphous: The ooze can move through a space as narrow as 1 inch wide without squeezing. You cannot be restrained.
+-
+
+### Leveling Up
+
+- When rolling to see if an attributes increases, roll twice for STR and CON.
+
+
+
+- Acidic: Your body is acidic and can consume objects within your body. The duration is detmined by the size of the object. Metal takes twice as long. You cannot disolve ceramics.
+Split
+Possession
+camouflage
+
+Tiny (coin)
+Small (Bottle)
+Medium (Barrel)
+Large (Fridge)
+- Split: You may create Mini-Oozes. Each costs 3 hp and has 1 HD, 3 hp, 1d3 damage and 3 in all stats. An ooze dies after 24 hrs
+
+
+
+
+
+
+
+
+## **Kitsune**
 
 - Starting HP : 3 + CON
 - Attack Damage : 1d6 Natural Weapons
@@ -63,7 +127,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - When rolling to see if an attributes increases, roll twice for DEX and CHA.
 
 
-## **[Lich](https://cdnb.artstation.com/p/assets/images/images/003/346/529/large/alexander-trufanov-skeleton-chibi-mage.jpg?1472678555)** (Cleric)
+## **Lich**
 
 - Starting HP : 2 + CON
 - Attack Damage : 1d3 Staffs & spears
@@ -79,7 +143,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - When rolling to see if an attributes increases, roll twice for WIS and INT.
 
 
-## **[Beholder](https://static1.squarespace.com/static/5ba903610b77bdcd564f1399/5bc7afbeec212dc7e0b251b7/5bc7d0de1905f422c43dee8e/1539821886813/ChibiBeholder.png)** (Magic User)
+## **Beholder**
 
 - Starting HP : 4 + CON
 - Attack Damage : 1d6 + 1 Bite & Telekenesis
@@ -99,7 +163,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - When rolling to see if an attributes increases, roll twice for WIS and CHA.
 
-## **Mummy** (???)
+## **Mummy**
 
 - Starting HP : 4 + CON
 - Attack Damage : 1d6
@@ -136,7 +200,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ### Special Features
 
-- Engulf: STR check to engulf (STR to escape). Target cannot move, all damage that you deal to target heals you. 
+- Engulf: STR check to engulf (STR to escape). Target cannot move, all damage that you deal to target heals you.
 - Split: You may create Mini-Oozes. Each costs 3 hp and has 1 HD, 3 hp, 1d3 damage and 3 in all stats. Your maximum hp is reduced by 3 for each living Mini-Ooze.
 
 ### Leveling Up
