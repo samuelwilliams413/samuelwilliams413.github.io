@@ -1,5 +1,3 @@
-# Williams' Wedding
-
 <div style="text-align: center">
 <br>
 Mr. and Mrs. Peter A. Rankin<br>
