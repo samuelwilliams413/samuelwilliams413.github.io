@@ -1,8 +1,9 @@
-# Williams Wedding
+<header>
+Williams' Wedding
+</header>
 
 <div style="text-align: center">
-
-
+<br>
 Mr. and Mrs. Peter A. Rankin<br>
 Request the honour of your presence<br>
 At the marriage of their daughter<br>
@@ -14,17 +15,10 @@ Saturday the 28th of September 2019<br>
 Cermenony commences at 4pm<br>
 At Albert Street Uniting Church<br>
 Brisbane City, Queensland<br>
-
+<br>
 Reception to follow at Tattersall's Club<br>
 <br>
 Black tie invited<br>
-
-
-
-
-
-
-
 
 </div>
 
