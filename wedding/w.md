@@ -1,6 +1,6 @@
-<header>
+<title>
 Williams' Wedding
-</header>
+</title>
 
 <div style="text-align: center">
 <br>
