@@ -24,3 +24,10 @@ Gifts
 Your presences at our wedding is the greatest gift.
 
 If you wish to bless us with a gift, a contribution towards our honeymoon would be appreciated. If you wish to bless us with a physical gift we are registed at David Jones (Gift Registry Occation ID: G00052983).
+
+
+
+Titles
+https://www.fontsquirrel.com/fonts/rouge-script
+Body Text
+https://www.fontsquirrel.com/fonts/merriweather
