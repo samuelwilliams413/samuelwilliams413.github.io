@@ -10,4 +10,5 @@
 
 |Item|Cost|Notes|
 |:-|-:|:-
-|Basin|$60|Needs taps|
+|Basin|$60-100|Needs taps|
+|Faucet|$150-200||

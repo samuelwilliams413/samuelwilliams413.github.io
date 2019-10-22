@@ -50,6 +50,7 @@
 - Laundry gap at top of wall
 
 ## Bathroom
+
 [Bathroom specific notes](bathroom.md)
 
 - Frosted glass
