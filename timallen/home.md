@@ -50,7 +50,9 @@
 - Laundry gap at top of wall
 
 ## Bathroom
+[Bathroom specific notes](bathroom.md)
 
+- Frosted glass
 - Replace sink
 - Replace bath tap
 - Replace water damaged sink cabinet
@@ -61,3 +63,6 @@
 - Fix stair gap
 - Paint exposed fibro
 - Replace tap
+-
+
+
