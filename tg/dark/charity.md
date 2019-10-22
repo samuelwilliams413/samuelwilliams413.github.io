@@ -1,11 +1,12 @@
-# Character creation
+Charity, Nebraska
+## Character creation
 
+1. Decide who in Charity you are
 1. Chose a name and concept
-1. Decide why you are 
 2. Chose a occupation
 3. Describe yourself
 
-# Acting
+## Acting
 
 For a given task
 
@@ -21,15 +22,15 @@ Your highest die shows how well you do.
 
 If your Temptation die was the highest, roll a humanity check. You may always roll a Temptation die. You may always attempt a task again, if you roll a Temptation die as part of the attempt.
 
-## Failure
+### Failure
 
 If meaningful failure is possible roll a a failure die. If the failure die is higher than the highest die for a task, the task fails.
 
-## Fighting
+### Fighting
 
 If you try to defeat any supernatural creature by fighting it, you will die. Instead, roll to hide or escape.
 
-## Temptation & Humanity
+### Temptation & Humanity
 
 Humanity starts at 5. 
 
