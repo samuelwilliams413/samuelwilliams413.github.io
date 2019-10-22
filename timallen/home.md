@@ -57,7 +57,7 @@
 - Remove absestos from cupboard
 - Replace showerhead
 
-# Laundry
+## Laundry
 - Fix stair gap
 - Paint exposed fibro
 - Replace tap
