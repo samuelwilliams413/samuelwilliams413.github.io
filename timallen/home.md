@@ -19,4 +19,27 @@ https://youtu.be/KnsiZOJjfUg
 
 # Improvements
 
--[]
+
+- [ ] Floors
+  - [ ] Rip out carpets
+  - [ ] polish floors
+  - [ ] stain floors?
+- [ ] Termites
+  - [ ]Kill termites
+  - [ ]replace caps
+- [ ] Grind n Cut driveway (make safe)
+- [ ] kitchen
+  - [ ] Replace stove
+  - [ ] Replace entire kitchen
+- [ ] Replace downpipes
+- [ ] Dig drainage channel
+- [ ] Plant poinciana
+- Fix gate latch
+
+
+- [ ] Repair side of shed
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+-
