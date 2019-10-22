@@ -36,7 +36,7 @@
 
 - Replace stove
 - Replace entire kitchen
-- Pain all the cabinets
+- Paint all the cabinets
   
 ## Exterior
 
@@ -53,17 +53,9 @@
 
 [Bathroom specific notes](bathroom.md)
 
-- Frosted glass
-- Replace sink
-- Replace bath tap
-- Replace water damaged sink cabinet
-- Remove absestos from cupboard
-- Replace showerhead
-
 ## Laundry
 - Fix stair gap
 - Paint exposed fibro
-- Replace tap
--
+- Replace tap ($30)
 
 
