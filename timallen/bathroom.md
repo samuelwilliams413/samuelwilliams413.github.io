@@ -5,10 +5,11 @@
 
 
 
-## Lose costing
+## Loose costing
 
 
 |Item|Cost|Notes|
 |:-|-:|:-
 |Basin|$60-100|Needs taps|
-|Faucet|$150-200||
+|Faucet|$50-200||
+|'Frosted' Glass|$50|t. bunnings|
