@@ -1,6 +1,6 @@
 # Home
 
-https://youtu.be/KnsiZOJjfUg
+[This can be us](https://youtu.be/KnsiZOJjfUg)
 
 # Selling ? Showing
 
@@ -19,27 +19,45 @@ https://youtu.be/KnsiZOJjfUg
 
 # Improvements
 
+- Wardobes
+- Replace/paint windows
 
-- [ ] Floors
-  - [ ] Rip out carpets
-  - [ ] polish floors
-  - [ ] stain floors?
-- [ ] Termites
-  - [ ]Kill termites
-  - [ ]replace caps
-- [ ] Grind n Cut driveway (make safe)
-- [ ] kitchen
-  - [ ] Replace stove
-  - [ ] Replace entire kitchen
-- [ ] Replace downpipes
-- [ ] Dig drainage channel
-- [ ] Plant poinciana
+## Floors
+
+- Rip out carpets
+- polish floors
+- stain floors?
+
+## Termites
+- Kill termites
+- replace caps
+
+## Kitchen
+
+- Replace stove
+- Replace entire kitchen
+- Pain all the cabinets
+  
+## Exterior
+
+- Replace downpipes
+- Dig drainage channel
+- Plant poinciana
+- Grind n Cut driveway (make safe)
 - Fix gate latch
+- Repair side of shed
+- Repaint damaged/flaky sections
+- Laundry gap at top of wall
 
+## Bathroom
 
-- [ ] Repair side of shed
-- [ ]
-- [ ]
-- [ ]
-- [ ]
--
+- Replace sink
+- Replace bath tap
+- Replace water damaged sink cabinet
+- Remove absestos from cupboard
+- Replace showerhead
+
+# Laundry
+- Fix stair gap
+- Paint exposed fibro
+- Replace tap
