@@ -11,6 +11,6 @@
 
 > Alcohol -> AL-col
 
-> Cuba Libre sin Alcohol: Rum & Coke
+> Cuba Libre sin lima: Rum & Coke
 
-> Cuba Libre sin Alcohol y lima: Coke
+> Cuba Libre sin alcohol y lima: Coke
