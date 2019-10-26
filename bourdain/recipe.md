@@ -11,9 +11,9 @@
 -
 ## To Do
 
-[ ] RaguStew
-[ ] Goulash
-[ ] Chilli
-[ ] Beef Ribs
-[ ] Osso bucco
+* RaguStew
+* Goulash
+* Chilli
+* Beef Ribs
+* Osso bucco
 
