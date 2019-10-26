@@ -9,6 +9,8 @@
 
 - [Lemonade](lemonade.md)
 - [White Russian](white_russian.md)
+- [Cuba Libre (Rum & Coke)](cuba_libre.md)
+- [Negroni](negroni.md)
 
 ## To Do
 
@@ -16,5 +18,9 @@
 * Goulash
 * Chilli
 * Beef Ribs
+* Ramen
+* Satay Chicken
+* Strawberry Milkshake
+* Chocolate Milkshake
 * Osso bucco
 
