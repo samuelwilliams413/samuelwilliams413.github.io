@@ -11,9 +11,9 @@
 - [White Russian](white_russian.md)
 ## To Do
 
-- [ ] RaguStew
-- [ ] Goulash
-- [ ] Chilli
-- [ ] Beef Ribs
-- [ ] Osso bucco
--
+[ ] RaguStew
+[ ] Goulash
+[ ] Chilli
+[ ] Beef Ribs
+[ ] Osso bucco
+
