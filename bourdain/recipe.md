@@ -1,14 +1,14 @@
 # Recipes
 
 ## Food
-- [Lemonade](lemonade.md)
 - [Pork Ribs](pork_ribs.md)
 - [Beef Cheeks](beef_cheeks.md)
 
 
 ## Drank
-
+- [Lemonade](lemonade.md)
 - [White Russian](white_russian.md)
+-
 ## To Do
 
 [ ] RaguStew
