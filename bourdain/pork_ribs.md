@@ -1,5 +1,5 @@
 # Pork Ribs
-
+[**Recipes**](recipe.md)
 ## Materials
 
 |Qty|Ingredient|

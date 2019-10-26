@@ -1,5 +1,5 @@
 # Lemonade
-
+[**Recipes**](recipe.md)
 ## Materials
 
 |Qty|Ingredient|
