@@ -1,5 +1,6 @@
 # Praxis
 
+* Pay attention to Emily
 * Check [todo list](todo.md)
 * Read a book
 * Read bible
@@ -15,4 +16,3 @@
   * Gran
   * Mum
   * Kyano
-* Pay attention to Emily
