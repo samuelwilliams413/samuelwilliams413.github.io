@@ -4,11 +4,11 @@
 
 |Qty|Ingredient|
 |-:|:-|
-||Ribs|
+||*Ribs*|
 |1 Rack|Pork Ribs|
 |1 cp|Hot Water|
 |||
-||Glaze|
+||*Glaze*|
 |1/2 cp|Tomato Sauce|
 |1/8 cp|Worcestershine Sauce|
 |1/8 cp|Brown Sugar|
