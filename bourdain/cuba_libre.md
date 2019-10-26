@@ -10,5 +10,7 @@
 ||Ice|
 
 > Alcohol -> AL-col
+
 > Cuba Libre sin Alcohol: Rum & Coke
+
 > Cuba Libre sin Alcohol y lima: Coke
