@@ -2,8 +2,10 @@
 
 ## Food
 
+- [Emily's Beef Ribs](beef_ribs.md)
 - [Pork Ribs](pork_ribs.md)
 - [Beef Cheeks](beef_cheeks.md)
+- [Alan's Mash Potato](mash.md)
 
 ## Drank
 
@@ -17,7 +19,6 @@
 * RaguStew
 * Goulash
 * Chilli
-* Beef Ribs
 * Ramen
 * Satay Chicken
 * Strawberry Milkshake
