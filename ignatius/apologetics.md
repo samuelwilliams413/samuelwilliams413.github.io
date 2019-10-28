@@ -80,7 +80,7 @@
 - Peter van Inwagen, The Problem of Evil
 - Timothy J. Keller, The Reason for God
 
-## Other good books
+### Other good books
 
 - William T Cavanaugh, The Myth of Religious Violence
 - John Piper, Desiring God
