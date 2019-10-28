@@ -20,3 +20,6 @@
 - [reading chart](https://visualunit.files.wordpress.com/2010/12/bible_reading_chart.pdf)
 - [heresies](https://visualunit.files.wordpress.com/2010/09/heresies_jesus1.pdf)
 - [early church](https://visualunit.files.wordpress.com/2010/09/early_church3.pdf)
+
+
+[#wiki_apologetics](https://www.reddit.com/r/Christians/wiki/resources#wiki_apologetics)

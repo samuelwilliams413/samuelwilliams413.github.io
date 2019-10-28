@@ -48,8 +48,6 @@
 - Why do you praise god for the good things that happen, but don't blame him for the bad (e.g. god cured my cancer vs. god give me cancer)
 - How does free will work with an 'all knowing', 'all powerful', 'all good' god work?
 	- Predestination
-- 
-
 
 ## Kingdom of the Cults
 
