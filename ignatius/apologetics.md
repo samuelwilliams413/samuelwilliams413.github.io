@@ -1,6 +1,19 @@
 # Apologetics
 
-## Questions for the Church
+## 7 Questions
+
+0. Session Zero
+1. a
+2. a
+3. a
+4. a
+5. a
+6. a
+7. a
+8. a
+9. a
+
+## Questions
 
 - Do you believe in evolution? How does evolution fit with Christianity?
 - What about LGBT issues?
@@ -49,7 +62,7 @@
 - How does free will work with an 'all knowing', 'all powerful', 'all good' god work?
 	- Predestination
 
-## Kingdom of the Cults
+## Other religions
 
 - Mormons
 - Gnosticism
