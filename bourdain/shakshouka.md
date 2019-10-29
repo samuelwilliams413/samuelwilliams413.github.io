@@ -15,8 +15,8 @@
 |6|Eggs|
 ||Coriander|
 ||Parsley|
-||*Cheese*|
-||*Bread*|
+||**Cheese**|
+||**Bread**|
 
 # Method
 
