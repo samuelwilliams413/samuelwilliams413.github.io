@@ -27,7 +27,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - HP : d8 + CON
 - Attack Damage : 1d6 (all melee weapons)
 - Armour: Heavy - 8
-- Prefered attribute: FIT
+- Preferred attribute: FIT
 
 ### Special Features
 
@@ -40,7 +40,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - HP : d6 + CON
 - Attack Damage : 1d4 (all one handed firearms) (2 attacks)
 - Armour: Light - 6
-- Prefered attribute: WIT
+- Preferred attribute: WIT
 
 ### Special Features
 
@@ -53,19 +53,19 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - HP : d6 + CON
 - Attack Damage : 1d4 (all firearms)
 - Armour: Light - 6
-- Prefered attribute: KNO
+- Preferred attribute: KNO
 
 ### Special Features
 
 - No cost to cast on specific rounds
 - You have a number of combat implants equal to your **level**. 
 	- Using a combat implant drains one point of health.
-	- When the **Escalation Die** equals the Synergy of a ombat implant it does not drain health to use.
+	- When the **Escalation Die** equals the Synergy of a combat implant it does not drain health to use.
 
 |Combat Implant|Synergy|Effect|
 |:-|:-|:-|
-|Shield Drone|Odd|Ignore the next **Escalation Die** dealt to a nearby creature|
-|Grav-Chains Ejector|Even|Save or restained to ground (FIT vs **level** save)|
+|Shield Drone|Odd|Ignore the next **Escalation Die** damage dealt to a nearby creature|
+|Grav-Chains Ejector|Even|Save or restrained to ground (FIT vs. **level** save)|
 |Rocket Fist|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
 |Disintegration Tendrils|Even|Deal 1d4 dmg to **Escalation Die** enemies|
 |Hyperbeam Tonsils|5x|Deals **Escalation Die** x d6 dmg to single target|
@@ -73,18 +73,18 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 \*Self-Destruct Button may be set to automatically activate upon death
 
-## **Vat Grown Ninja Assasin**
+## **Vat Grown Ninja Assassin**
 
 - HP : d6 + CON
 - Attack Damage : 1d6 + **level** (all bladed weapons and bows)
 - Armour: Medium - 7
-- Prefered attribute: DEX
+- Preferred attribute: DEX
 
 ### Special Features
 
 - Ninjistu: Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, and opening locks.
-- Engineered Savagery: Deal maximum damage to defenceless enemies
-- Mercy Inhibitors: Rather than dealing double damage on a defenceless enemy or surprise attack, you deal quadruple damage.
+- Engineered Savagery: Coup de grâce deal maximum damage
+- Mercy Inhibitors: Rather than dealing double damage surprise attack, you deal quadruple damage.
 
 
 # Augmentations
@@ -97,9 +97,9 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Sight automatically adjusts for all light conditions
 - 10x Optical Zoom
 
-## **Plasma Garrot**
+## **Plasma Garrote**
 
-> Middle finger detaches revealing an incandecent blue plasma waire
+> Middle finger detaches revealing an incandescent blue plasma wire
 
 - Undetectable
 - Silent
