@@ -28,7 +28,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all one handed firearms) (2 attacks)
-- Prefered attribute: DEX
+- Prefered attribute: WIT
 
 ### Special Features
 
@@ -43,21 +43,34 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ### Special Features
 
-No cost to cast on specific rounds
--magic middle
--disintegrate
--shield
--healing word/mend
--light
--automata
+- No cost to cast on specific rounds
+- You may cast a number of techno-maledictions equal to your **level** before reasting
+- You know a number of techno-maledictions equal to your **level**
+
+> TODO
+
+
+|Maledictions|Synergy|Effect|
+|:-|:-|:-|
+|Maledictions|Synergy|Effect|
+|Maledictions|Synergy|Effect|
+|Maledictions|Synergy|Effect|
+|Maledictions|Synergy|Effect|
+
+- magic middle
+- disintegrate
+- shield
+- healing word/mend
+- light
+- automata
 
 ## **Vat Grown Ninja Assasin**
 
 - HP : d6 + CON
 - Attack Damage : 1d6 (all blade weapons and torque bows)
-- Prefered attribute: KNO
+- Prefered attribute: DEX
 
 ### Special Features
 
-- Rolls with Advantage when attacking from behind and deals 1d6 + **level** damage.
+- Rolls with Advantage when attacking from behind and deals **level**d6 damage.
 - Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, understanding written languages and opening locks.
