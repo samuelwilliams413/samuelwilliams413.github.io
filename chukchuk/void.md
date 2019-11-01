@@ -50,12 +50,12 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 |Combat Implant|Synergy|Effect|
 |:-|:-|:-|
-|Nanobot Gland|Even|Heal a nearby creature 1d4 hp|
-|Shield Drone|Odd|Ignore the next **Escalation Die** dealt to self|
-|Disintegration Tendrils|Even|Deal 1d4 dmg to **Escalation Die** enemies|
-|Rocket Fist|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
+|Shield Drone|Odd|Ignore the next **Escalation Die** dealt to a nearby creature|
 |Grav-Chains Ejector|Even|Save or restained to ground (FIT vs **level** save)|
+|Rocket Fist|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
+|Disintegration Tendrils|Even|Deal 1d4 dmg to **Escalation Die** enemies|
 |Hyperbeam Tonsils|5x|Deals **Escalation Die** x d6 dmg to single target|
+|Self-Destruct Button|Any|Deal Maximum HP x d6 damage to all nearby creatures (including self), No save|
 
 ## **Vat Grown Ninja Assasin**
 
