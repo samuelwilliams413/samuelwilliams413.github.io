@@ -22,7 +22,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - Synthetic Muscle: On fitness rolls your minimum die result is 5
 - Rightious Fury: Your minimum damage on any melee attack is equal to the **Escalation Die**, even if you miss
-- Wrath of the God: When **Escalation Die** is even deal bonus damage on melee attacks equal to your **level**
+- Shield of Faith: Reduce all damage taken by half the **Escalation Die** (rounding down)
 
 ## **Space Cowboy**
 
@@ -38,39 +38,33 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 ## **Psionic Technosorcerer**
 
 - HP : d6 + CON
-- Attack Damage : 1d6 (all firearms)
+- Attack Damage : 1d4 (all firearms)
 - Prefered attribute: KNO
 
 ### Special Features
 
 - No cost to cast on specific rounds
-- You may cast a number of techno-maledictions equal to your **level** before reasting
-- You know a number of techno-maledictions equal to your **level**
-
-> TODO
-
+- You know a number of techno-maledictions equal to your **level**. 
+	- Casting a techno-malediction drains one point of health.
+	- When the **Escalation Die** equals the Synergy of a techno-maledictions it does not drain health to cast.
 
 |Maledictions|Synergy|Effect|
 |:-|:-|:-|
-|Maledictions|Synergy|Effect|
-|Maledictions|Synergy|Effect|
-|Maledictions|Synergy|Effect|
-|Maledictions|Synergy|Effect|
-
-- magic middle
-- disintegrate
-- shield
-- healing word/mend
-- light
-- automata
+|Nanobot Plume|Even|Heal a creature 1d4|
+|Shield Drone|Odd|Ignore the next **Escalation Die** dealt to target creature|
+|Missle Swarm|Even|Deal 1d4 dmg to **Escalation Die** enemies|
+|Zaaap!|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
+|Grav-Chains|Even|Save or restained to ground (FIT vs **level** save)|
+|Disintegrate|5x|Deals **Escalation Die** x d6 dmg to single target|
 
 ## **Vat Grown Ninja Assasin**
 
 - HP : d6 + CON
-- Attack Damage : 1d6 (all blade weapons and torque bows)
+- Attack Damage : 1d6 + **level** (all bladed weapons and bows)
 - Prefered attribute: DEX
 
 ### Special Features
 
-- Rolls with Advantage when attacking from behind and deals **level**d6 damage.
-- Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, understanding written languages and opening locks.
+- Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, and opening locks.
+- Coup de grâce: Deal maximum damage to defenceless enemies
+- SURPRISE!: Rather than dealing double damage on a surprise attack, you deal quadruple damage.
