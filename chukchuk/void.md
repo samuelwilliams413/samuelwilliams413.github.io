@@ -1,5 +1,13 @@
 # Voidwalkers
 
+# General
+
+## Character generation
+
+1. [Roll stats](#rolling-stats)
+1. [Pick a class](#classes)
+1. [Pick an augmentation](#augmentations)
+
 ## Core Mechanic
 Everything a character might possibly attempt that could result in failure is resolved by testing attribute stats - a player must roll a d6 and add their score, if the value is greater than the difficult (normally 7) they succeed.
 
@@ -12,33 +20,39 @@ Stats are generated with `1d6` in the following order Fitness (FIT), Dexterity (
 
 Roll 1d6 for each of your stats. If you roll higher than your stat, increase the value of the stat by 1.
 
+# Classes
+
 ## **Cyborg Crusader**
 
 - HP : d8 + CON
 - Attack Damage : 1d6 (all melee weapons)
+- Armour: Heavy - 8
 - Prefered attribute: FIT
 
 ### Special Features
 
-- Synthetic Muscle: On fitness rolls your minimum die result is 5
-- Rightious Fury: Your minimum damage on any melee attack is equal to the **Escalation Die**, even if you miss
+- Helm of Salvation: On fitness rolls your minimum die result is 5
+- Sword of the Spirit: Your minimum damage on any melee attack is equal to the **Escalation Die**, even if you miss
 - Shield of Faith: Reduce all damage taken by half the **Escalation Die** (rounding down)
 
 ## **Space Cowboy**
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all one handed firearms) (2 attacks)
+- Armour: Light - 3
 - Prefered attribute: WIT
 
 ### Special Features
 
 - True Grit: When the **Escalation Die** is even heal your **level**.
 - No time to die: Deal the **Escalation Die** as bonus damage.
+- Quick Draw: On initiative rolls your minimum die result is 5
 
 ## **Technosorcerer**
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all firearms)
+- Armour: Light - 3
 - Prefered attribute: KNO
 
 ### Special Features
@@ -61,10 +75,52 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - HP : d6 + CON
 - Attack Damage : 1d6 + **level** (all bladed weapons and bows)
+- Armour: Medium - 7
 - Prefered attribute: DEX
 
 ### Special Features
 
-- Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, and opening locks.
-- Coup de grâce: Deal maximum damage to defenceless enemies
-- SURPRISE!: Rather than dealing double damage on a defenceless enemy or surprise attack, you deal quadruple damage.
+- Ninjistu: Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, and opening locks.
+- Engineered Savagery: Deal maximum damage to defenceless enemies
+- Mercy Inhibitors: Rather than dealing double damage on a defenceless enemy or surprise attack, you deal quadruple damage.
+
+
+# Augmentations
+
+## **Mechaoptics**
+
+> Replaces existing eye with glowing mechanical eye
+
+- Live stream optic nerve
+- Sight automatically adjusts for all light conditions
+- 10x Optical Zoom
+
+## **Plasma Garrot**
+
+> Middle finger detaches revealing an incandecent blue plasma waire
+
+- Undetectable
+- Silent
+- Cuts through almost any material
+
+## **Finger Guns**
+
+> Finger guns
+
+- Undetectable
+- Can be fired during conversation (prior to initiative)
+- 2 shots before reload/rest is required
+
+## **Ghost Emulator**
+
+> Small speaker embedded at the base of the throat
+
+- Perfectly mimics any previously heard sound
+- Plays music, animal calls, generic machine noises
+
+## **Fish Bowl**
+
+> Projected field allows from respiration in all conditions
+
+- Creates short lived space suit, lasts 5 min
+- Can be used underwater, in space, or in toxic conditions
