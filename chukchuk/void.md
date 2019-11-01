@@ -24,6 +24,8 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **Cyborg Crusader**
 
+> Crusaders serve the militant arm of the Church of TechnoChrist, ready to stand guard over the religion’s holy places and to be its swift, avenging arm against those who resist its truth.
+
 - HP : d8 + CON
 - Attack Damage : 1d6 (all melee weapons)
 - Armour: Heavy - 8
@@ -37,6 +39,8 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 ## **Space Cowboy**
 
+> Brave, clever, and frequently foolhardy, many gunslingers are masters of distant death, picking off enemies from afar with their strange and wondrous weapons.
+
 - HP : d6 + CON
 - Attack Damage : 1d4 (all one handed firearms) (2 attacks)
 - Armour: Light - 6
@@ -49,6 +53,8 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Quick Draw: On initiative rolls your minimum die result is 5
 
 ## **Technosorcerer**
+
+> From the moment I understood the weakness of my flesh it disgusted me. I craved the strength and certainty of steel. I aspired to the purity of the blessed machine.
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all firearms)
@@ -74,6 +80,8 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 \*Self-Destruct Button may be set to automatically activate upon death
 
 ## **Vat Grown Ninja Assassin**
+
+> More than just killers, Vat Grown Ninja Assassins are masters of secret combat techniques focused on light and exotic weapons, tactics designed to single out and slay a single foe in a sudden confrontation.
 
 - HP : d6 + CON
 - Attack Damage : 1d6 + **level** (all bladed weapons and bows)
