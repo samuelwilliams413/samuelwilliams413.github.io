@@ -39,7 +39,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all one handed firearms) (2 attacks)
-- Armour: Light - 3
+- Armour: Light - 6
 - Prefered attribute: WIT
 
 ### Special Features
@@ -52,7 +52,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all firearms)
-- Armour: Light - 3
+- Armour: Light - 6
 - Prefered attribute: KNO
 
 ### Special Features
@@ -69,7 +69,9 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 |Rocket Fist|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
 |Disintegration Tendrils|Even|Deal 1d4 dmg to **Escalation Die** enemies|
 |Hyperbeam Tonsils|5x|Deals **Escalation Die** x d6 dmg to single target|
-|Self-Destruct Button|Any|Deal Maximum HP x d6 damage to all nearby creatures (including self), No save|
+|Self-Destruct Button\*|Any|Deal Maximum HP x d6 damage to all nearby creatures (including self), No save|
+
+\*Self-Destruct Button may be set to automatically activate upon death
 
 ## **Vat Grown Ninja Assasin**
 
