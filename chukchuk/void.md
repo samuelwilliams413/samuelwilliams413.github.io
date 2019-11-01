@@ -35,7 +35,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - True Grit: When the **Escalation Die** is even heal your **level**.
 - No time to die: Deal the **Escalation Die** as bonus damage.
 
-## **Psionic Technosorcerer**
+## **Technosorcerer**
 
 - HP : d6 + CON
 - Attack Damage : 1d4 (all firearms)
@@ -44,18 +44,18 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 ### Special Features
 
 - No cost to cast on specific rounds
-- You know a number of techno-maledictions equal to your **level**. 
-	- Casting a techno-malediction drains one point of health.
-	- When the **Escalation Die** equals the Synergy of a techno-maledictions it does not drain health to cast.
+- You have a number of combat implants equal to your **level**. 
+	- Using a combat implant drains one point of health.
+	- When the **Escalation Die** equals the Synergy of a ombat implant it does not drain health to use.
 
-|Maledictions|Synergy|Effect|
+|Combat Implant|Synergy|Effect|
 |:-|:-|:-|
-|Nanobot Plume|Even|Heal a creature 1d4|
-|Shield Drone|Odd|Ignore the next **Escalation Die** dealt to target creature|
-|Missle Swarm|Even|Deal 1d4 dmg to **Escalation Die** enemies|
-|Zaaap!|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
-|Grav-Chains|Even|Save or restained to ground (FIT vs **level** save)|
-|Disintegrate|5x|Deals **Escalation Die** x d6 dmg to single target|
+|Nanobot Gland|Even|Heal a nearby creature 1d4 hp|
+|Shield Drone|Odd|Ignore the next **Escalation Die** dealt to self|
+|Disintegration Tendrils|Even|Deal 1d4 dmg to **Escalation Die** enemies|
+|Rocket Fist|Odd|Deal **Escalation Die** x d4 dmg to an enemy|
+|Grav-Chains Ejector|Even|Save or restained to ground (FIT vs **level** save)|
+|Hyperbeam Tonsils|5x|Deals **Escalation Die** x d6 dmg to single target|
 
 ## **Vat Grown Ninja Assasin**
 
