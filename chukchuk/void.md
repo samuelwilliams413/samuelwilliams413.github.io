@@ -67,4 +67,4 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, and opening locks.
 - Coup de grâce: Deal maximum damage to defenceless enemies
-- SURPRISE!: Rather than dealing double damage on a surprise attack, you deal quadruple damage.
+- SURPRISE!: Rather than dealing double damage on a defenceless enemy or surprise attack, you deal quadruple damage.
