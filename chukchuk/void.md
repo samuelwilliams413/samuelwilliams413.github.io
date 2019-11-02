@@ -30,6 +30,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Attack Damage : 1d6 (all melee weapons)
 - Armour: Heavy - 8
 - Preferred attribute: FIT
+- Gain a bonus 100 XP when: You kill a heretic, unholy being, or xeno
 
 ### Special Features
 
@@ -45,6 +46,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Attack Damage : 1d4 (all one handed firearms) (2 attacks)
 - Armour: Light - 6
 - Preferred attribute: WIT
+- Gain a bonus 100 XP when: First step foot on a new planet, ship, or spacehulk
 
 ### Special Features
 
@@ -60,11 +62,12 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Attack Damage : 1d4 (all firearms)
 - Armour: Light - 6
 - Preferred attribute: KNO
+- Gain a bonus 100 XP when: You bring a piece of alien technology, or living organism, aboard the ship for study.
 
 ### Special Features
 
 - No cost to cast on specific rounds
-- You have a number of combat implants equal to your **level**. 
+- You have a number of combat implants equal to your **level**.
 	- Using a combat implant drains one point of health.
 	- When the **Escalation Die** equals the Synergy of a combat implant it does not drain health to use.
 
@@ -87,6 +90,7 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 - Attack Damage : 1d6 + **level** (all bladed weapons and bows)
 - Armour: Medium - 7
 - Preferred attribute: DEX
+- Gain a bonus 100 XP when: You execute an unsuspecting enemy in a new way
 
 ### Special Features
 
@@ -134,3 +138,19 @@ Roll 1d6 for each of your stats. If you roll higher than your stat, increase the
 
 - Creates short lived space suit, lasts 5 min
 - Can be used underwater, in space, or in toxic conditions
+
+
+# Experience
+
+Examples of how you gain experience include:
+
+- Save another crewmember’s life (300 XP)
+- Investigate a distress signal (300 XP)
+- Retrieve an ancient alien artifact (200 XP)
+- Learn how to use a piece of alien technology (100 XP)
+- Kill a creature with +20 health (200 XP)
+- Map an unknown sector of space (500 XP)
+- Unlock a great mystery (200 XP)
+- Interface with strange beings far beyond your scope and abilities (100 XP)
+- Be the first to set foot on an exoplanet (100 XP)
+- Collect a genetic sample from undiscovered xenos (200 XP)

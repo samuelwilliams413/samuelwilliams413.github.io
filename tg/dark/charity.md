@@ -1,4 +1,3 @@
-Charity, Nebraska
 ## Character creation
 
 1. Decide who in Charity you are
@@ -10,9 +9,9 @@ Charity, Nebraska
 
 For a given task
 
-- Roll one die for humanity if task is humanly possible
-- Roll one die for Virtue if the task is related to your occupation
-- Roll one die for Temptation if you will risk your humanity
+- Roll one die if task is humanly possible
+- Roll one die if the task is related to your occupation
+- Roll one die for Insight if you will risk your humanity
 
 Your highest die shows how well you do.
 
@@ -20,7 +19,7 @@ Your highest die shows how well you do.
 - On a 4, you succeed competently.
 - On a 6, you succeed brilliantly and get something extra, but maybe more than you wanted.
 
-If your Temptation die was the highest, roll a humanity check. You may always roll a Temptation die. You may always attempt a task again, if you roll a Temptation die as part of the attempt.
+If your Insight die was the highest, roll a humanity check. You may always roll a Insight die. You may always attempt a task again, if you roll a Insight die as part of the attempt.
 
 ### Failure
 
@@ -32,7 +31,7 @@ If you try to defeat any supernatural creature by fighting it, you will die. Ins
 
 ### Temptation & Humanity
 
-Humanity starts at 5. 
+Insight starts at 1.
 
 To roll a humanity check, roll a d6. If the result is equal to or greater than your humanity, reduce your humanity by 1.
 
