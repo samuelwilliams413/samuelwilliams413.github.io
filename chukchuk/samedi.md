@@ -2,9 +2,9 @@
 
 ## Attributes
 
-- Fitness (FIT)
-- Intellect (INT)
-- Wisdom (WIS)
+- Fitness
+- Intellect
+- Wisdom
 
 ## Saves
 ### Body Saves
