@@ -1,3 +1,5 @@
 # /tg/
-- [Voidwalkers](void.md): Basically mothership OSR RPG
-- [Samedi](samedi.md): AFMBE but rule-lite and RNG heavy
+
+- [Shadow of the Mothership](https://drive.google.com/drive/folders/1cZxL6OPwh_HJ0ZNBY004X1vGXWwLyRJp?usp=sharing): Google drive for rulebooks
+- [Mothership](mothership.md): Sam's notes for Mothership
+
