@@ -1,6 +1,4 @@
-[/tg/](https://samuelwilliams413.github.io/chukchuk/)
-
-***
+[Return to /tg/](https://samuelwilliams413.github.io/chukchuk/)
 
 # Mothership
 
