@@ -3,7 +3,7 @@
 - [Shadow of the Mothership](https://drive.google.com/drive/folders/1cZxL6OPwh_HJ0ZNBY004X1vGXWwLyRJp?usp=sharing): Google drive for rulebooks
 - [Mothership](mothership.md): Sam's notes for Mothership
 
-# FAQ
+## FAQ
 #### Emily and Sam's Address?
 Unit 4 @ 67 Ormadale Rd, Yeronga. [Google maps link](https://goo.gl/maps/jdkX6SmNVG42).
 The driveway is long and thin, its much easier to park on the street.
