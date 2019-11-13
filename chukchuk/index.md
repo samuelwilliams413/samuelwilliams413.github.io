@@ -2,6 +2,7 @@
 
 - [Shadow of the Mothership](https://drive.google.com/drive/folders/1cZxL6OPwh_HJ0ZNBY004X1vGXWwLyRJp?usp=sharing): Google drive for rulebooks
 - [Mothership](mothership.md): Sam's notes for Mothership
+- [Shadow of the Demon Lord](https://thetrove.net/Books/Shadow%20of%20the%20Demon%20Lord/): Link to a trove of all the SotDL books, the [spell cards](https://thetrove.net/Books/Shadow%20of%20the%20Demon%20Lord/Cards/) are good value.
 
 ## FAQ
 #### Emily and Sam's Address?
