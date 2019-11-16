@@ -24,8 +24,8 @@
 
 ## Floors
 
-- Rip out carpets
-- polish floors
+- Rip out carpets (free)
+- polish floors ($2800)
 - stain floors?
 
 ## Termites

@@ -2,4 +2,4 @@
 
 # Mothership
 
-I haven't done anything yet.
+I don't have any notes, i don't need them
