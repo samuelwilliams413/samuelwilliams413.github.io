@@ -20,8 +20,8 @@
 3. Kneed into soft dough, then balls (about 6)
 4. Glaze in butter and garlic
 4. Cook for 3min on each side in hot pan
+6. Garnish with coriander and cheese
 5. Brush with butter and bake
-6. Garnish with coriander
 
 
 > Use extra 2-3 tbsp of butter for greasing and brushing
