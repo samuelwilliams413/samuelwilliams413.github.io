@@ -1,11 +1,11 @@
 # To Do
 
-1. Sort out medicare stuff for mum
-2. Get quotes for house
-  - Kitchen install
+1. Get quotes for house
   - Absetso wall removal
   - New wall install
   - Floor Polish
+  - Power point install
+  - Plumbing Install
   - Stump destruction/removal
   - Fix gate
 3. Organise session
@@ -21,4 +21,20 @@
 	- new soil for lavender
 	- mint
 	- coriander
-
+	- Drain Snake
+6. Aldi
+  - Yeast
+  - Tuna
+  - Tomato
+  - Cucumber
+  - Lettuce
+  - Wraps
+  - Sour Cream
+  - Ice Cream
+  - Roasting Pieces
+  - Toilet Cleaner
+7. Chemist
+  - Lube
+  - Vitamins
+  - Tool
+  - Pore Strips
