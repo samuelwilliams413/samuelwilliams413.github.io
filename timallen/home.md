@@ -1,6 +1,7 @@
 # Home
 
-[Money is the honey-pokey](https://youtu.be/KnsiZOJjfUg)
+- [Money is the honey-pokey](https://youtu.be/KnsiZOJjfUg)
+- [New home owner to do list](https://www.reddit.com/r/HomeImprovement/comments/azllui/new_home_owner_todo_list_part_deux/)
 
 # Selling ? Showing
 
@@ -16,6 +17,24 @@
 - Do the house up like you are expecting guests (food, water, make the table)
 - Clean curtains, pillows, and fixture
 - Move furniture so it flows better (looks better)
+
+# First moving in to do list
+- Replace screens
+- Replace Locks
+- WD40 everything
+- Install long screws
+- Smoke detectors + CO detector
+- Clean AC filter
+- Fire Extinguisher
+- Drain Hotwater heater
+- Create Dowl for all windows
+- Clean dishwasher filter and back of fridge
+- Clean showever heads and taps, replace showerhead
+- Test all the sockets
+- Bug bombing
+- Draft entire house
+  - Electrical and wiring diagrams
+  - Mechanical and floorplan
 
 # Improvements
 
