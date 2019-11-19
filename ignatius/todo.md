@@ -35,6 +35,7 @@
   - Roasting Pieces
   - Toilet Cleaner
   - Super Glue
+  - Milk
 7. Chemist
   - Lube
   - Vitamins
