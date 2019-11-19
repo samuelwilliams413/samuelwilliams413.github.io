@@ -7,6 +7,7 @@
 - [Beef Cheeks](beef_cheeks.md)
 - [Alan's Mash Potato](mash.md)
 - [Shakshouka](shakshouka.md)
+- [Garlic Naan](naan.md)
 
 ## Drank
 
