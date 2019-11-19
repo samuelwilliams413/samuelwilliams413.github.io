@@ -2,13 +2,12 @@
 
 1. Get quotes for house
   - Absetso wall removal
-  - New wall install
-    - [Loadbaring wall questions](https://old.reddit.com/r/HomeImprovement/comments/cmraqy/questions_about_load_bearing_walls_look_here_first/)
   - Floor Polish
   - Power point install
   - Plumbing Install
   - Stump destruction/removal
   - Fix gate
+  - New wall install
 3. Organise session
 4. Reach out
   - Brandon
