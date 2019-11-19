@@ -59,3 +59,14 @@
 - Replace tap ($30)
 
 
+## Books & References
+
+- [Renovation 5th Edition](https://www.amazon.com/Renovation-5th-Completely-Revised-Updated/dp/1631869590): Renovation has been the standard reference on the subject of renovation for 40 years. Recurring elements in this new edition will address affordability and adding value, space conservation and multi-functional use, and flexibility of design.
+- [New Home Owner To-Do List](https://www.reddit.com/r/HomeImprovement/comments/azllui/new_home_owner_todo_list_part_deux/): reddit thread
+- [Home Maintenance Schedule](https://www.reddit.com/r/HomeImprovement/wiki/maintenance): The purpose of this wiki is to consolidate the most common tasks associated with home maintenance.
+
+### Recomended YT
+
+- [seejanedrill](https://www.youtube.com/user/seejanedrill)
+- [HouseImprovements](https://www.youtube.com/channel/UCpJ1vJPFqImom-NN2fkBS0A)
+- [This Old House](https://www.youtube.com/user/thisoldhouse/videos?view=0&sort=p&flow=grid)
