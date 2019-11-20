@@ -36,7 +36,5 @@
   - Super Glue
   - Milk
 7. Chemist
-  - Lube
-  - Vitamins
   - Tool
   - Pore Strips
