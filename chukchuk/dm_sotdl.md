@@ -1,10 +1,8 @@
 # Shadow of the Demon Lord
 BUILD
-Any, rogue, paladin, Theugry
-Agile, rogue, spellslinger || figher, Conjuration
-Any, rogue, warlock, Teleportation, Primal
-
-Any, rogue, paladin, primal
+Any (strong), Rogue, Paladin, Primal
+Agile, rogue, fighter, Conjuration
+Any, Rogue, Warlock, Teleportation
 
 RACE
 	any
@@ -26,12 +24,33 @@ Teleport 	- Teleportation (yeet, yank, glory)
 undead		- Theugry (hallowed ground)
 Poor/Guns 	- Conjuration (item, monster, gun)
 Familiar	- Primal (darksight, tongue, familiar, summon)
-
 	Combat 		- Battle
 	Cheese		- Divination, Time
 	??			- Shadow
 	buff		- Song
 	Transform 	- Slippery MF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
