@@ -5,7 +5,7 @@
 1. Rig the powercore to explode
 1. <font color="red">Survive</font>
 
-<font color="green">
+
 ```
 System: HDH-45                                                P: Power core
 Planet: ADH-E211                                              C: Command Station
@@ -37,4 +37,3 @@ Bradman Heights                                               D: Door
 
 
 ```
-</font>
