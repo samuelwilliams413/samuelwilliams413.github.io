@@ -2,7 +2,7 @@
 ## Mission
 
 1. Get the datacore from the command station
-1. Rig the powercore to explode 
+1. Rig the powercore to explode
 1. <font color="red">Survive</font>
 
 ```
@@ -17,14 +17,14 @@ Bradman Heights                                               D: Door
 ----#####################################-----------\#########---/    |          
   | \--------------################-----/            --------/        |          
   |         |       \--------------/                      |           |          
-  |         |                                      P      |           |          
+  |         |                                      <font color="red">P</font>      |           |          
   |         |                   Plant                     |           |          
   |         |                                             |           |          
   |         +-----------+---D -----------+                +           |          
   |         |           |                |                |           |          
   |         | Corporate |                |                |           |          
   |         |           |                |                |           |          
-  |         |   C       |                |                |           |          
+  |         |   <font color="red">C</font>       |                |                |           |          
   |         +--------D--+                |                |           |          
   |                                      |                |           |          
   |                                      +----------------+           |          
