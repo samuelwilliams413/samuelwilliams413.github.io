@@ -7,9 +7,11 @@
 
 
 ```
-System: HDH-45                                                P: Power core
-Planet: ADH-E211                                              C: Command Station
-Bradman Heights                                               D: Door
+Bradman Heights                                               
+
+System: Heirophant                                            P: Power core
+Planet: Heirophant Epislon                                    C: Command Station
+                                                              D: Door
 
 ##############################################################################---
 ##########################################################################---/   
