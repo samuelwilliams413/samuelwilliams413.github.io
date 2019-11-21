@@ -1,9 +1,9 @@
 # Bradman Heights
 ## Mission
 
-1. Get the datacore from the bridge (heavy and large)
-1. Rig the powercore to blow (T minus 60 minutes)
-1. Survive
+1. Get the datacore from the command station
+1. Rig the powercore to explode 
+1. <font color="red">Survive</font>
 
 ```
 System: HDH-45                                                P: Power core
