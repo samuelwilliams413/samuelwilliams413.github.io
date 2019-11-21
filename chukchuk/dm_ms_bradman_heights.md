@@ -1,4 +1,7 @@
 # Bradman Heights
+
+[player link](ms_bradman_heights.md)
+
 ## Scene
 
 > Stalker Soundtrack.
@@ -88,8 +91,13 @@ TELEKINETIC DRAIN: 1d10 Damage, -5% STR and SPD, Sanity Check or 1d10/2 Stress.
 <img src="https://i.redd.it/1tkwmud5s4d31.jpg" alt="Sepsicron Alpha"
 	title="Sepsicron Alpha"/>
 
+## Map
 
 ```
+System: HDH-45                                                P: Power core
+Planet: ADH-E211                                              C: Command Station
+Bradman Heights                                               D: Door
+
 ##############################################################################---
 ##########################################################################---/   
 ########################### Mountains ################################---/       
@@ -114,7 +122,4 @@ TELEKINETIC DRAIN: 1d10 Damage, -5% STR and SPD, Sanity Check or 1d10/2 Stress.
   |                                                                   |          
   +-----------------------------|___GATE___|--------------------------+          
 
-P: Power core
-C: Command Station
-D: Door
 ```
