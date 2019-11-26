@@ -12,38 +12,38 @@
 
 ## The steps
 
-- [ ] Build platform descriptions
-- [ ] Merge Boardfarm to master
-- [ ] Apply all requires_features
-- [ ] Set up TX54
-- [ ] Release, candidate, and developer testing
-- [ ] Replace all tests
-	- [ ] Modem Sanity
-	- [ ] apparmor
-	- [ ] system_test
-	- [ ] pingtest
-	- [ ] wifi_test
-	- [ ] modem_sims_test
-	- [ ] pptp
-	- [ ] python
-	- [ ] snmp_test
-- [ ] Reduce flicker to 1%
-- [ ] Developer bench testing
+[ ] Build platform descriptions
+[ ] Merge Boardfarm to master
+[ ] Apply all requires_features
+[ ] Set up TX54
+[ ] Release, candidate, and developer testing
+[ ] Replace all tests
+	[ ] Modem Sanity
+	[ ] apparmor
+	[ ] system_test
+	[ ] pingtest
+	[ ] wifi_test
+	[ ] modem_sims_test
+	[ ] pptp
+	[ ] python
+	[ ] snmp_test
+[ ] Reduce flicker to 1%
+[ ] Developer bench testing
 
 ## Asides
 
-- [ ] Upgrade all ATEs and 10.44.0.129
-- [ ] Code Insight: Spelling
-- [ ] Code Insight: C
-- [ ] Code Insight: C++
-- [ ] Code Insight: Python 2.7
-- [ ] Han thing
-- [ ] Matt thing
-- [ ] Check eng.digi md5sum
-- [ ] Auth Test (DAL-1994)
+[ ] Upgrade all ATEs and 10.44.0.129
+[ ] Code Insight: Spelling
+[ ] Code Insight: C
+[ ] Code Insight: C++
+[ ] Code Insight: Python 2.7
+[ ] Han thing
+[ ] Matt thing
+[ ] Check eng.digi md5sum
+[ ] Auth Test (DAL-1994)
 
 
 # Current Backlog
 
-- [ ] Build platform descriptions
-- [ ] Merge Boardfarm to master
+[ ] Build platform descriptions
+[ ] Merge Boardfarm to master
