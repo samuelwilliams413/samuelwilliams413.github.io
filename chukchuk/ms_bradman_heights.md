@@ -7,7 +7,7 @@
 
 
 ```
-Bradman Heights                                               
+Bradman Heights
 
 System: Heirophant                                            P: Power core
 Planet: Heirophant Epislon                                    C: Command Station
