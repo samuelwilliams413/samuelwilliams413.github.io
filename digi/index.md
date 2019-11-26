@@ -1,6 +1,11 @@
 <img src="https://pbs.twimg.com/profile_images/800865824579862532/nttFgD39_400x400.jpg" alt="Digi"
 	title="Digi"/>
 
+# Current Backlog
+
+- [ ] Build platform descriptions
+- [ ] Merge Boardfarm to master
+
 # The Goals (July 2020)
 
 1. 90% Pass rate
@@ -41,9 +46,3 @@
 - [ ] Matt thing
 - [ ] Check eng.digi md5sum
 - [ ] Auth Test (DAL-1994)
-
-
-# Current Backlog
-
-- [ ] Build platform descriptions
-- [ ] Merge Boardfarm to master
