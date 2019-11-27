@@ -9,6 +9,7 @@
   - Fix gate
   - New wall install
 3. Organise session
+1. Make the thank you cards for the wedding
 4. Reach out
   - Brandon
   - Will
@@ -19,11 +20,13 @@
 	- pot for aloe
 	- pot for maiden hair
 	- new soil for lavender
-	- mint
-	- coriander
+	- mint + pot
+	- coriander + pot
+	- Extra soil (not the shit stuff this time)
 	- Drain Snake
+	- 40 grit sandpaper for sander
+	- Safety goggles
 6. Aldi
-  - Yeast
   - Tuna
   - Tomato
   - Cucumber
@@ -36,5 +39,4 @@
   - Super Glue
   - Milk
 7. Chemist
-  - Tool
   - Pore Strips
