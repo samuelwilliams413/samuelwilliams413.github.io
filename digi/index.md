@@ -7,6 +7,8 @@
 - [x] Merge Boardfarm to master
 - [x] Apply all requires_features
 - [ ] Set up TX54
+- [ ] Get a IX14
+- [ ] Get a IX20
 
 # The Goals (July 2020)
 
@@ -23,6 +25,8 @@
 - [x] Merge Boardfarm to master
 - [x] Apply all requires_features
 - [ ] Set up TX54
+- [ ] Get a IX14
+- [ ] Get a IX20
 - [ ] Release, candidate, and developer testing
 - [ ] Stop the thing were we have lots of untested tests
 - [ ] Replace all tests
