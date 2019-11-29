@@ -59,3 +59,30 @@ Characters either know something or don't.
 > 
 > The party enters the underworld and imbibes the golden iccor. The dream begins...
 
+
+
+
+
+The seperation
+> Taking the hero from the ordinary world
+
+The call
+> A problem is presented, and the hero could not remain in the ordinary world
+
+Thereshold
+> The actually crossing over, the journey begins. Guardians come in.
+
+Challenges
+> Small obstacles, the hero has some problems
+
+Abyss
+> Hero's greatest challenge
+
+Transformation
+> Hero changes, realizes something new.
+
+Atonement
+> Hero is born again in to a new world
+
+Return with a gift
+> Hero learned a lesson and is more mature
