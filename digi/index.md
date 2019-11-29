@@ -1,10 +1,15 @@
 <img src="https://pbs.twimg.com/profile_images/800865824579862532/nttFgD39_400x400.jpg" alt="Digi"
 	title="Digi"/>
 
-# Current Backlog
+# 2019/11/25-29
 
-- [ ] Build platform descriptions
-- [ ] Merge Boardfarm to master
+- [x] Build platform descriptions
+- [x] Merge Boardfarm to master
+- [x] Apply all requires_features
+- [x] Set up TX54
+- [x] Get a IX14
+- [ ] Get a IX20
+- [ ] Release, candidate, and developer testing
 
 # The Goals (July 2020)
 
@@ -17,11 +22,14 @@
 
 ## The steps
 
-- [ ] Build platform descriptions
-- [ ] Merge Boardfarm to master
-- [ ] Apply all requires_features
-- [ ] Set up TX54
+- [x] Build platform descriptions
+- [x] Merge Boardfarm to master
+- [x] Apply all requires_features
+- [x] Set up TX54
+- [x] Get a IX14
+- [ ] Get a IX20
 - [ ] Release, candidate, and developer testing
+- [ ] Stop the thing were we have lots of untested tests
 - [ ] Replace all tests
 	- [ ] Modem Sanity
 	- [ ] apparmor
