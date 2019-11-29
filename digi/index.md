@@ -6,9 +6,10 @@
 - [x] Build platform descriptions
 - [x] Merge Boardfarm to master
 - [x] Apply all requires_features
-- [ ] Set up TX54
-- [ ] Get a IX14
+- [x] Set up TX54
+- [x] Get a IX14
 - [ ] Get a IX20
+- [ ] Release, candidate, and developer testing
 
 # The Goals (July 2020)
 
@@ -24,8 +25,8 @@
 - [x] Build platform descriptions
 - [x] Merge Boardfarm to master
 - [x] Apply all requires_features
-- [ ] Set up TX54
-- [ ] Get a IX14
+- [x] Set up TX54
+- [x] Get a IX14
 - [ ] Get a IX20
 - [ ] Release, candidate, and developer testing
 - [ ] Stop the thing were we have lots of untested tests
