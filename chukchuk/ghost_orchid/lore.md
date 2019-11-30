@@ -9,13 +9,20 @@
 |Buho Sect	  |Isabel de Aguila		|Wisdom		|Owl	  |
 |House Águila	|Rodrigo de Aguila	|Humility	|Eagle	|
 
-### House Sangre
+### House Sangre: *A dead man gathers no goods.*
 
 > House sangre of the Dragon is known for its great military strength, vast warchest, and its great territory. Sangre respects strength alone. One's station in soceity is reflection of their worth, and submission is pathetic. The head of House Sangre is Diego de Sangre
 
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Arms_of_Aragonese_Monarchs%2C_16th-19th_centuries_%28Golden_Fleece%29.svg" width="200">
+
+### Buho Sect: *Listen with ears, Learn with eyes.*
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/POL_COA_Arumowicz.svg" width="200">
+
+### House Águila: *Before honor is humility.*
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/POL_COA_So%C5%82tyk_III.svg" width="200">
+
 
 ### Castes
 
