@@ -1,5 +1,5 @@
 > I'm thinking something like the carcosa setting
-> 
+>
 > I want fantasy, or at least premodern
 
 
@@ -33,30 +33,30 @@ Characters either know something or don't.
 
 ## Noble Clans
 
-|Clans 			|Leader 	|Virtue 	|Totem	|
+|Clans 			  |Leader 	|Virtue 	|Totem	|
 |:-|:-|:-|:-|
-|House Bia		|Theodoros	|Strength	|Dragon	|
-|House Myvern	|Olga		|Wisdom		|Owl	|
-|House Tifor	|Tasos		|Humility	|Lion	|
+|House Sangre |Diego	  |Strength	|Dragon	|
+|House Buho	  |ISabel		|Wisdom		|Owl	  |
+|House Águila	|Rodrigo	|Humility	|Eagle	|
 
 ### Castes
 
-> The nepha are humanoids, their sclera colour determines caste (75% genetic).
+> The perra are humanoids, their sclera colour determines caste (75% genetic).
 
-|Caste 	|Colour 	|Virtue 		|Station	|
+|Caste 	  |Colour   |Virtue 		  |Station	|
 |:-|:-|:-|:-|
-|Molon	|Purple		|Prudent		|Treasury	|
-|Wolo	|Blue		|Disciplined	|Warlocks	|
-|Khan	|Crimson	|Courageous		|Warrior	|
-|Sef	|Green		|Fair			|Commons	|
+|Gastar	  |Purple		|Prudent		  |Treasury	|
+|Truco	  |Blue		  |Disciplined	|Warlocks	|
+|Matar	  |Crimson	|Courageous		|Warrior	|
+|Ayuda	  |Green		|Fair			    |Commons	|
 
 ![Ghost Orchid](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2F3c%2Fc5%2F543cc5d65f75545dcd46a365efb594b8.jpg&f=1&nofb=1 "Ghost Orchid")
 
-# Chronicles 
+# Chronicles
 ## Chapter 1: Blood Gift
 
 > The players are undergoing their final trials. Today they become warriors (or die) and earn their crimson blade.
-> 
+>
 > The party enters the underworld and imbibes the golden iccor. The dream begins...
 
 
@@ -86,3 +86,13 @@ Atonement
 
 Return with a gift
 > Hero learned a lesson and is more mature
+
+
+
+
+
+
+
+
+
+The emporor dies,
