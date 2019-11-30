@@ -15,7 +15,7 @@
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Arms_of_Aragonese_Monarchs%2C_16th-19th_centuries_%28Golden_Fleece%29.svg" width=200/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Arms_of_Aragonese_Monarchs%2C_16th-19th_centuries_%28Golden_Fleece%29.svg" width="200">
 
 ### Castes
 
