@@ -1,5 +1,7 @@
 Helm Blackstag
 
+Level Human EK Fighter 
+
 STR	16/3/5
 DEX	10/0/0
 CON	14/2/4

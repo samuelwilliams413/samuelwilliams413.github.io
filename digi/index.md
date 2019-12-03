@@ -1,6 +1,14 @@
 <img src="https://pbs.twimg.com/profile_images/800865824579862532/nttFgD39_400x400.jpg" alt="Digi"
 	title="Digi"/>
 
+# 2019/11/2-6
+
+- [x] Release, candidate, and developer testing
+- [ ] Stop the thing were we have lots of untested tests
+- [ ] Test chris nesbit PR
+- [ ] Code Insight: C
+- [ ] Get a IX20
+
 # 2019/11/25-29
 
 - [x] Build platform descriptions
@@ -8,8 +16,6 @@
 - [x] Apply all requires_features
 - [x] Set up TX54
 - [x] Get a IX14
-- [ ] Get a IX20
-- [ ] Release, candidate, and developer testing
 
 # The Goals (July 2020)
 

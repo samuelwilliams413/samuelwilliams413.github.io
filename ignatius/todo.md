@@ -40,3 +40,8 @@
   - Milk
 7. Chemist
   - Pore Strips
+7. Officeworks
+  - THANK YOU CARDS
+  - Draughtsmans Clips
+  - More black pens
+8. Take bags to vinnies
