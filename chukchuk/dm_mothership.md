@@ -12,11 +12,11 @@
 
 <br>
 
-- `Guardian	  :`
-- `Puzzle	  :`
-- `Trick	  :`
-- `Climax	  :`
-- `Throne Room:`
+- Guardian:
+- Puzzle:
+- Trick:
+- Climax:
+- Throne Room:
 
 <br>
 
@@ -31,14 +31,16 @@
 
 
 
-
+- [Dragon 1](https://cdnb.artstation.com/p/assets/images/images/020/691/343/large/raymond-minnaar-small.jpg?1568792089)
+- [Dragon 2](https://i.redd.it/af30okbmxnb31.jpg)
+- [Dragon 3](https://external-preview.redd.it/AZbtl1cOwe9VL4zVfzj1j4wnhYgN_57Gxk8993TgAF4.jpg?auto=webp&s=e27e7fbff1531f79921d20a8dabfdd9143b9442e)
 
 # Choice
 
 <br>
 
 > I take "bathroom breaks" at specific moments to let the players digest something that happened or to let them prepare before a big fight. I usually come out to them conspiratorially conversating and I think it's helped them bond and also helped them plan, analyze, and assess stuff that has happened and will happen.
-> 
+>
 > I just fiddle on my phone for the five minutes in there.
 
 <br>

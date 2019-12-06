@@ -60,3 +60,17 @@
 - [ ] Matt thing
 - [ ] Check eng.digi md5sum
 - [ ] Auth Test (DAL-1994)
+
+
+
+
+# Notes to Self
+
+# Writing a Jira ticket
+
+- State what you, as the leader, are trying to achieve, and why ('the big picture')
+- State what you want the person to achieve
+- Define the resources available to the person, and any constraints
+- Say how you want progress / issues to be reported
+
+> You don’t define how the person should carry out the task – if they are competent and you trust them, they should be able to figure this out themselves.
