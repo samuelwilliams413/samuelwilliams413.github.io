@@ -39,7 +39,7 @@ You have :
   - Odachi
   - Yami
   - Naginata
-  - Ono
+  - Wakizashi
 
 - Loadout
 - Suit customisations
@@ -63,9 +63,4 @@ Both sides roll their die. The side with the highest number of successes wins. T
 
 
 
-
-
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5ed10a0c-10dc-4e71-9017-8653fc86153a/dcbkys8-bd6a04bd-e142-4426-b11f-45ae79c4ea6c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi81ZWQxMGEwYy0xMGRjLTRlNzEtOTAxNy04NjUzZmM4NjE1M2EvZGNia3lzOC1iZDZhMDRiZC1lMTQyLTQ0MjYtYjExZi00NWFlNzljNGVhNmMuanBnIn1dXX0.QAIv95hwE1tBrrE7R1DTmOm5jbGgBLdOCwb-56s1kWw" width="200">
-
-
-<img src="https://cdna.artstation.com/p/assets/images/images/021/319/432/large/deiv-calviz-david-villegas-jaeger-philippines-carabao.jpg?1571219781" width="200">
+<img src="https://cdna.artstation.com/p/assets/images/images/021/319/432/large/deiv-calviz-david-villegas-jaeger-philippines-carabao.jpg?1571219781" width="400">
