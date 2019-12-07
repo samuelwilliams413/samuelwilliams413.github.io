@@ -24,7 +24,7 @@ The character will make tremendous sacrifices for greater understanding and tran
 
 # [The Ruler (Fighting Man) LG](https://karakter.de/wp-content/uploads/2019/11/RYSE-landing_in_britannia-1536x686.jpg?v=1575031590)
 
-*Justice/Pride*
+*Justice/Cruelty*
 
 Goal: To create a new order based on natural law
 
