@@ -1,13 +1,18 @@
 <img src="https://pbs.twimg.com/profile_images/800865824579862532/nttFgD39_400x400.jpg" alt="Digi"
 	title="Digi"/>
 
+# 2019/11/9-13
+
+- [x] Recover TX54
+- [ ] Stop the thing were we have lots of untested tests
+- [ ] Get a IX20
+- [ ] Single point of definition for device
+
 # 2019/11/2-6
 
 - [x] Release, candidate, and developer testing
-- [ ] Stop the thing were we have lots of untested tests
-- [ ] Test chris nesbit PR
-- [ ] Code Insight: C
-- [ ] Get a IX20
+- [x] Test chris nesbit PR
+- [x] Recover AnywhereUSB24
 
 # 2019/11/25-29
 
@@ -28,14 +33,8 @@
 
 ## The steps
 
-- [x] Build platform descriptions
-- [x] Merge Boardfarm to master
-- [x] Apply all requires_features
-- [x] Set up TX54
-- [x] Get a IX14
 - [ ] Get a IX20
-- [ ] Release, candidate, and developer testing
-- [ ] Stop the thing were we have lots of untested tests
+- [ ] Single point of definition for device
 - [ ] Replace all tests
 	- [ ] Modem Sanity
 	- [ ] apparmor
