@@ -4,9 +4,9 @@
 # 2019/11/9-13
 
 - [x] Recover TX54
-- [ ] Stop the thing were we have lots of untested tests
-- [ ] Get a IX20
-- [ ] Single point of definition for device
+- [x] Stop the thing were we have lots of untested tests
+- [x] Single point of definition for device
+
 
 # 2019/11/2-6
 
@@ -34,7 +34,6 @@
 ## The steps
 
 - [ ] Get a IX20
-- [ ] Single point of definition for device
 - [ ] Replace all tests
 	- [ ] Modem Sanity
 	- [ ] apparmor
