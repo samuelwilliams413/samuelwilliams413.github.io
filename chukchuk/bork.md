@@ -4,12 +4,12 @@
 
 |Aura     |School        |Attribute     |Virtue      |Progenitors|
 |:-|:-|:-|:-|:-|
-|Blue       |Alteration    |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
+|Blue       |Tranfiguration    |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
 |Brown      |Conjuration   |Hardiness     |Prudence    |Dwarves/Kobolds/Spirits of the Earth|
-|Red        |Destruction   |Strength      |Justice     |Angels/Demons/Spirits of Fire|
+|Red        |Judgement   |Strength      |Justice     |Angels/Demons/Spirits of Fire|
 |Green      |Illusion      |Wits          |Hope        |Elves/Fairies/Trickster Spirits|
 |Purple     |Mysticism     |Knowledge     |Temperance  |Ghosts/Ancestors/Wind Spirits|
-|Yellow     |Restoration   |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun|
+|Yellow     |Sacred   |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun|
 
 - Anyone can cast any spell
 - You have points of gnosis in each school, which translates into a dicepool that can be spent on spells
@@ -22,9 +22,9 @@
 
 
 
-## Alteration
+## Tranfiguration
 
-> Alteration encompasses spells that shapeshift or alter the user. They rarely directly effect unwilling targets. The alteration school was developed after painstaking study of the biology of werecreatures and skinwalkers.
+> Tranfiguration encompasses spells that shapeshift or alter the user. They rarely directly effect unwilling targets. The Tranfiguration school was developed after painstaking study of the biology of werecreatures and skinwalkers.
 
 1. Bird Dog:
 	- Duration: [dice] minutes
@@ -106,6 +106,8 @@
 ## Judgement
 
 > Judgement spells were given to great heros by angels and demons to destroy their foes. All spells of judgement inflict harm, and the school has deep ties to runic power. Judgement spells are often named after the entity that first gave them to man, and frequently require dice to be locked.
+
+> Spells of judgment frequently use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. Spellcasting involves a highly intricate kata with the blade. If the blade is ever used as a weapon it is desecreated and must be ritually cleaned. If you are casting and disrupted you take 1 point of damage from the laccrations caused to you by the athame.
 
 1. Hasmalel, the Named Bullet
   - Range: touch
@@ -207,9 +209,9 @@
 1. Read Mind/Object Range: touch; Target: creature or object; Duration: instant You can ask (dice) short questions about the target creature's current mental state or the target object's history, and the GM will answer truthfully, if cryptically. Creatures get saves against future casts at equal or lesser (sum)s after the first time you read their mind.
 1. Conduit A sorcerer may use another person or thing as a relay for spells. The sorcerer’s conduit sigil must be placed on the conduit. As long as the sigil remains, the sorcerer may meditate and perceive the surroundings of the sigil.
 
-## Restoration
+## Sacred
 
-> In enchange for 1000 years of service as valkyrie, young maidens give up their lives to that man may know the secrets of restoraton magic. Spells from the school of restoration focus on friendship, communication, healing, light, and the protection of innocence. Restorations do not harm the living, and cannot heal the dammed.
+> In enchange for 1000 years of service as valkyrie, young maidens give up their lives to that man may know the secrets of sacred magic. Spells from the school of the Sacred focus on friendship, communication, healing, light, and the protection of innocence. Sacred spells do not harm the living, and cannot heal the dammed.
 
 1. Lay on Hands
   - Range: touch
