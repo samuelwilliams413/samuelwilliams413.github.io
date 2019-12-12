@@ -6,6 +6,10 @@
 - [x] Recover TX54
 - [x] Stop the thing were we have lots of untested tests
 - [x] Single point of definition for device
+- [x] Check eng.digi md5sum
+- [x] Replace all tests
+	- [x] Modem Sanity
+	- [x] pingtest
 
 
 # 2019/11/2-6
@@ -35,10 +39,8 @@
 
 - [ ] Get a IX20
 - [ ] Replace all tests
-	- [ ] Modem Sanity
 	- [ ] apparmor
 	- [ ] system_test
-	- [ ] pingtest
 	- [ ] wifi_test
 	- [ ] modem_sims_test
 	- [ ] pptp
@@ -56,7 +58,6 @@
 - [ ] Code Insight: Python 2.7
 - [ ] Han thing
 - [ ] Matt thing
-- [ ] Check eng.digi md5sum
 - [ ] Auth Test (DAL-1994)
 
 

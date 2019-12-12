@@ -1,18 +1,48 @@
-# BORK
+# Character Creation
 
-> There are 6 schools of magic, each associated with a vitrue and attribute. When magic from a school is performed it goves off an aura of a certain colour. The schools of magic were discovered/gifted/invented by its progenitors (supernatural beings with an affinity for magic)
+The process for character creation is as follows:
 
-|Aura     |School        |Attribute     |Virtue      |Progenitors|
-|:-|:-|:-|:-|:-|
-|Blue       |Tranfiguration    |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
-|Brown      |Conjuration   |Hardiness     |Prudence    |Dwarves/Kobolds/Spirits of the Earth|
-|Red        |Judgement   |Strength      |Justice     |Angels/Demons/Spirits of Fire|
-|Green      |Illusion      |Wits          |Hope        |Elves/Fairies/Trickster Spirits|
-|Purple     |Mysticism     |Knowledge     |Temperance  |Ghosts/Ancestors/Wind Spirits|
-|Yellow     |Sacred   |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun|
+1. Generate your stats
+2. Determine your magical talents
+4. Purchase equipment
+3. State your beliefs
+
+## Generate your stats
+
+There are 6 stats:
+
+- Strength
+- Agility
+- Hardiness
+- Wits
+- Knowledge
+- Will
+
+Either:
+
+1. Roll 6d6 in order, swaping a single pair of results
+2. Assign [1,2,3,3,4,5] to your stats
+
+## Determine your magical talents
+
+[DETAILS FOR MAGIC CAN BE FOUND HERE](#magic)
+
+Gnosis represents a characters capacity to do a certain kind of magic. To cast a spell you must expend at least one gnosis from the school of magic to which the spell belongs. If you use two gnosis from different schools it may count as one gnosis from the correct school. At character creation you start with 5 points of gnosis which may be allocated among any of the schools of magic. You can invest more that one point in any school.
+
+The schools of magic are:
+
+- Tranfiguration: Shapeshifting and lifecrafting
+- Conjuration: Summoning and the creation of materials
+- Judgement: The magic of oaths and retribution
+- Illusion: Phantasms, mind magic, and truthfinding
+- Mysticism: Soul magic, divination, and necromancy
+- Sacred: Holy spells used for healing and strength
+
+When you cast a spell you chose to invest a certain amount of gnosis in the casting, some spell have increased potency when the amount of gnosis used increases.
+
+### Addiitonal Notes
 
 - Anyone can cast any spell
-- You have points of gnosis in each school, which translates into a dicepool that can be spent on spells
 - Spells are contained in great tomes, heavy tablets, arcane crystals, malformed staves, and etched skulls
 - Casting a spell requires:
   - two hands, and lots of hand waving
@@ -20,7 +50,52 @@
   - clear ennunciation of an incantation, the incantation must be spoken loud enought that it *could* be hear by the target (they don't need to hear it to be effect, the sound just needs to reach them)
 - Take a break to get your gnosis dice back (15min, time for a snack)
 
+## Purchase equipment
 
+Every character always has with them (this does not contribute to encumbrance):
+
+- camping equipment
+- a utility knife
+- a tinderbox
+- two sets of clothes
+
+In addition they start with:
+
+- a single spellbook
+- a single weapon set
+- 100 silver pieces (sp)
+
+They may carry in total 4 items plus their strength.
+
+
+[THE EQUIPMENT LIST CAN BE FOUND HERE](#equipment)
+
+> Note: every 100 coints excluding the first 100 coins counts as 1 item
+
+## State your beliefs
+
+From each opf the pairs of beliefs select one that represnts the views of you character.
+
+- **Constructivists** consider that people build themselves from their environment (notably social) and that the caracteristics that make them who they are, are acquired.
+- **Essentialists** consider that an individual is by nature how he/she is and that his/her caracteristics which make this person who she/he is, are innate. <br> <br>
+- **Rehabilitative justice**:the role of justice is to put the condemned on the “right path” again by making them understand why they should not do what they did and why they were condemned
+- **Punitive justice**: the role of justice is dissuasive, both for the condemned (to avoid recidivism) and for the rest of the society (by making them examples not to follow). <br> <br>
+- **Ecologie**: privileges the protection of the environment by limiting the impact of human activities.
+- **Productivism**: privileges human needs notably by supporting the increase of the production or the use of methods that have an incertain impact on the environment. <br> <br>
+- **Revolutionaries** have a tendency to privilege direct action to reach their goal: replace the current political organisation for totally different one.
+- **Reformists** have a tendency to privilege legal action to reach their goal: reform the political organisation step by step. <br> <br>
+
+# Magic
+> There are 6 schools of magic, each associated with a vitrue and attribute. When magic from a school is performed it goves off an aura of a certain colour. The schools of magic were discovered/gifted/invented by its progenitors (supernatural beings with an affinity for magic)
+
+|Aura       |School           |Attribute     |Virtue      |Progenitors|
+|:-|:-|:-|:-|:-|
+|Blue       |Tranfiguration   |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
+|Brown      |Conjuration      |Hardiness     |Prudence    |Dwarves/Kobolds/Spirits of the Earth|
+|Red        |Judgement        |Strength      |Justice     |Angels/Demons/Spirits of Fire|
+|Green      |Illusion         |Wits          |Hope        |Elves/Fairies/Trickster Spirits|
+|Purple     |Mysticism        |Knowledge     |Temperance  |Ghosts/Ancestors/Wind Spirits|
+|Yellow     |Sacred           |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun|
 
 ## Tranfiguration
 
@@ -240,4 +315,91 @@
 
 #### TBC
 
-1. [ Comprehend Language ] 	D: [dice] hrs R: self You understand, speak, read, & write one language perfectly for the duration. You must have an example of the language present (eg a written sample or a speaker).\
+1. [ Comprehend Language ] 	D: [dice] hrs R: self You understand, speak, read, & write one language perfectly for the duration. You must have an example of the language present (eg a written sample or a speaker).
+
+
+
+# Equipment
+
+
+## Weapons
+
+All weapon packages cost 1 gold piece
+
+|WEAPON|DAMAGE|NOTES|
+|:---|:---|:---|
+|Sword & Shield|1d6|-|
+|Mace & Shield|1d6|-|
+|Twin Blades|1d6|-|
+|Spears|-|-|
+|Rapier & Buckler|1d6|-|
+|Small Daggers|-|-|
+|Hatchets & Hammers|1d6|-|
+|Claymore|2d6|-|
+|Greataxe|2d6|-|
+|Maul|2d6|-|
+|Polearm|2d6|-|
+|Warhammer|1d6 + 3|-|
+|Crossbow|1d6 + 3|-|
+|Composite Bow|2d6|-|
+|Sling & Bullets|1d6|-|
+
+## Spell books
+
+
+## Generic Items
+
+|ITEM|COST|USES|NOTES|
+|:---|:---|:---|:---|
+|Acid (vial)|25|3|-|
+|Antitoxin (vial)|50|3|-|
+|Backpack & Pocketknife & Bedroll & Blanket|2|-|Carry +2 extra, Size 0|
+|Ball bearings (bag of 1,000)|1|5|-|
+|Barrel|2|-|-|
+|Bell|1|-|-|
+|Block and tackle|1|-|-|
+|Book|25|-|-|
+|Bottle, glass|2|-|-|
+|Caltrops|1|5|-|
+|Candle (10)|1|20|-|
+|Case, map or scroll (waterproof)|1|-|-|
+|Chain (10 feet)|5|-|-|
+|Chalk|1|20|-|
+|Chest|5|-|-|
+|Clothes|1|-|Size 0 when worn|
+|Crowbar|2|-|-|
+|Fishing tackle|1|-|-|
+|Flask of Burning Oil|5|3|-|
+|Flask of Lamp Oil|5|5|-|
+|Fresh Rations|5|3|-|
+|Grappling hook|2|-|-|
+|Hammer|1|-|-|
+|Holy symbol|5|-|+2 to WIS when banishing|
+|Holy water (flask)|25|3|-|
+|Hourglass|25|-|-|
+|Hunting trap|5|-|-|
+|Ink (1 ounce bottle) & Quill|5|d20|-|
+|Lantern|10|-|Uses lamp oil|
+|Large Sack|2|-|Carry +2 extra (Requires 2 hands)|
+|Lock|10|-|-|
+|Magnifying glass|100|-|-|
+|Manacles|2|-|-|
+|Mirror, steel|5|-|-|
+|Pick, miner's|2|-|-|
+|Piton|1|5|-|
+|Pole (10-foot)|1|-|-|
+|Preserved Rations|15|8|-|
+|Quiver|1|15|-|
+|Rope, hempen (50 feet)|1|-|-|
+|Shovel|2|-|-|
+|Signal whistle|1|-|-|
+|Small Sack|1|-|Carry +1 extra (Requires 1 hand)|
+|Spikes, iron (10)|1|-|-|
+|Spyglass|1000|-|-|
+|String (100 feet)|1|-|-|
+|Thieves’ Tools (5)|25|-|Failed checks destroy 1 tool|
+|Tinderbox|1|-|-|
+|Torch (5)|1|5|-|
+|Vial (10)|1|-|-|
+|Waterskin|1|5|-|
+|Work Tools|5|-|-|
