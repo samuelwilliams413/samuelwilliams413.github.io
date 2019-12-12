@@ -322,7 +322,7 @@ From each opf the pairs of beliefs select one that represnts the views of you ch
 # Equipment
 
 
-## Weapons
+## Weapons & Armor
 
 All weapon packages cost 1 gold piece
 
@@ -331,18 +331,25 @@ All weapon packages cost 1 gold piece
 |Sword & Shield|1d6|-|
 |Mace & Shield|1d6|-|
 |Twin Blades|1d6|-|
-|Spears|-|-|
+|Spears|1d6|Thrown, Brace|
 |Rapier & Buckler|1d6|-|
-|Small Daggers|-|-|
-|Hatchets & Hammers|1d6|-|
+|Small Daggers|-|Thrown|
+|Hatchets & Hammers|1d6|Thrown|
 |Claymore|2d6|-|
 |Greataxe|2d6|-|
 |Maul|2d6|-|
-|Polearm|2d6|-|
+|Polearm|2d6|, Brace|
 |Warhammer|1d6 + 3|-|
-|Crossbow|1d6 + 3|-|
-|Composite Bow|2d6|-|
-|Sling & Bullets|1d6|-|
+|Crossbow|1d6 + 3|Fired|
+|Composite Bow|2d6|Fired|
+|Sling & Bullets|1d6|Fired|
+
+
+### Weapon Keywords
+
+- Thrown: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
+- Fired: The weapon may be fired at an enemy. You must roll to hit with agility.
+- Brace: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
 
 ## Spell books
 
