@@ -62,7 +62,7 @@ Every character always has with them (this does not contribute to encumbrance):
 In addition they start with:
 
 - a single spellbook
-- a single weapon set
+- two weapon sets
 - 100 silver pieces (sp)
 
 They may carry in total 4 items plus their strength.
@@ -328,28 +328,31 @@ All weapon packages cost 1 gold piece
 
 |WEAPON|DAMAGE|NOTES|
 |:---|:---|:---|
-|Sword & Shield|1d6|-|
-|Mace & Shield|1d6|-|
-|Twin Blades|1d6|-|
+|Sword & Shield|1d6|Defensive|
+|Mace & Shield|1d6|Defensive|
+|Twin Blades|1d6|Parry, Onslaught|
 |Spears|1d6|Thrown, Brace|
-|Rapier & Buckler|1d6|-|
-|Small Daggers|-|Thrown|
-|Hatchets & Hammers|1d6|Thrown|
-|Claymore|2d6|-|
-|Greataxe|2d6|-|
-|Maul|2d6|-|
-|Polearm|2d6|, Brace|
-|Warhammer|1d6 + 3|-|
+|Rapier & Buckler|1d6|Parry, Defensive|
+|Small Daggers|-|Thrown, Conceal|
+|Hatchets & Hammers|1d6|Onslaught, Thrown|
+|Claymore or Greataxe|2d6|Juggernaut|
+|Polearm|2d6|Brace|
+|Maul or Warhammer|1d6 + 3|Overwhelming|
 |Crossbow|1d6 + 3|Fired|
 |Composite Bow|2d6|Fired|
-|Sling & Bullets|1d6|Fired|
-
+|Sling & Bullets|1d6|Fired, Conceal|
 
 ### Weapon Keywords
 
 - Thrown: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
-- Fired: The weapon may be fired at an enemy. You must roll to hit with agility.
+- Fired: The weapon may be fired at an enemy. You must roll to hit with agility. Enemies have advatage to hit you with melee attacks while you weild this weapon.
 - Brace: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
+- Defensive: Ignore attacks that deal 2 damage or less.
+- Parry: If an enemy's attack against you deals no damage, you may attack back with disadvantage as a reaction.
+- Overwhelming: Roll twice for damage
+- Juggernaut: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
+- Onslaught: You may attack twice as part of a single action
+- Conceal: This weapon can be hidden and will bypass most security checks
 
 ## Spell books
 
