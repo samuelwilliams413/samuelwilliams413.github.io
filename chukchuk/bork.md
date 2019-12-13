@@ -401,13 +401,13 @@ All weapon packages cost 1 gold piece
 - **Brace**: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
 - **Reach**: If your brace attack misses or kills an enemy it does not use a reaction.
 - **Defensive**: Ignore attacks that deal 2 damage or less.
-- **Parry**: If an enemy's attack against you deals no damage, you may attack back with disadvantage as a reaction.
+- **Parry**: If an enemy's attack against you deals no damage, you may counter attack with disadvantage as a reaction.
 - **Nimble**: You may roll to hit with strength or agility.
 - **Overwhelming**: Roll twice for damage
 - **Shield** Charge: Ignore brace. You have advantage to hit when you move at least 3m.
 - **Juggernaut**: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
 - **Onslaught**: You may attack twice as part of a single action
-- **Conceal**: This weapon can be hidden and will bypass most security checks
+- **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you. 
 
 ## Spell Books
 
@@ -415,9 +415,9 @@ Spell Books cost 1 gold coin, subject to availability.
 
 |FOCUS|NOTES|
 |:---|:---|
-|Tome of Transfiguration|Conjuration spell books are always scribed on uterine vellum|
+|Tome of Transfiguration|Transfiguration spell books are always scribed on uterine or kitsune vellum|
 |Tome of Conjuration|Conjuration spell books are made from a series of engraved stone tables bound together with brass rings|
-|Athame of Judgment|Spells of judgment frequently use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.|
+|Athame of Judgment|Spells of judgment use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.|
 |Tome of Illusion|Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish|
 |Osteo Mysticism|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
 |Sacred Rosary & Prayer book|Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook|
