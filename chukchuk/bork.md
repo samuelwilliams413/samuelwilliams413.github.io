@@ -177,10 +177,9 @@ Bart the Barbarian
   - Range: touch
   - The target levitates off the ground, like a balloon. You can move them up to 10' up or down each round. They can move laterally by pushing against solid surfaces
 1. Nugget:
-  - Duration: [dice] hours
   - Materials: blob of dead meat (e.g. from a corpse)
   - Casting time: 1 minute
-  - The meat forms into a helpful servant, which will obey your commands for the duration. The servant can't wield weapons, but it can manipulate objects. It has [sum] hp and Strength. On death or expiration, it turns back into meat.
+  - The meat forms into a helpful servant, which will obey your commands for the duration. The servant can't wield weapons, but it can manipulate objects. It has [sum] hp and [dice] Strength. On death it turns back into meat. You must lock the dice used.
 1. Dragon's Breath
   - Duration: [dice] rounds
   - Range: 5m cone
