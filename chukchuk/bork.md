@@ -444,9 +444,9 @@ Spell Books cost 1 gold coin, subject to availability.
 |:---|:---|
 |Tome of Transfiguration|Transfiguration spell books are always scribed on uterine or kitsune vellum|
 |Tome of Conjuration|Conjuration spell books are made from a series of engraved stone tables bound together with brass rings|
-|Athame of Judgment|Spells of judgment use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.|
+|[Athame of Judgment](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIVMIs8I6o_vsHIZW5rVo0CXssGUBIuzuOUX40t39J1XksecvS)|Spells of judgment use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.|
 |Tome of Illusion|Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish|
-|Osteo Mysticism|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
+|[Osteo Mysticism](https://skullappreciationsociety.com/wp-content/uploads/2012/07/Tibetan-Skull-Art.jpg)|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
 |Sacred Rosary & Prayer book|Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook|
 
 ## Generic Items
