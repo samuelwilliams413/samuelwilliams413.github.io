@@ -381,22 +381,22 @@ All weapon packages cost 1 gold piece
 
 |WEAPON|DAMAGE|NOTES|TYPE|
 |:---|:---|:---|:---|
-|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|B/S|
-|Spears & Shield|1d6|Thrown, Defensive, Brace|P|
-|Rapier & Buckler|1d6|Parry, Defensive, Nimble|S|
-|Twin Blades|1d6|Parry, Onslaught, Nimble|S|
-|Small Daggers|1d6|Thrown, Conceal, Nimble|P|
-|Hatchets & Hammers|1d6|Onslaught, Thrown|S|
-|Claymore/Greataxe|2d6|Juggernaut|S|
-|Polearm/Pike|2d6|Brace, Reach|S|
-|Maul/Warhammer|1d6 + 3|Overwhelming|B|
-|Crossbow|1d6 + 3|Fired|P|
-|Composite Bow|2d6|Fired|P|
-|Sling & Bullets|1d6|Fired, Conceal|B|
+|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|Blunt/Slashing|
+|Spears & Shield|1d6|Thrown, Defensive, Brace|Piercing|
+|Rapier & Buckler|1d6|Parry, Defensive, Nimble|Slashing|
+|Twin Blades|1d6|Parry, Onslaught, Nimble|Slashing|
+|Small Daggers|1d6|Thrown, Conceal, Nimble|Piercing|
+|Hatchets & Hammers|1d6|Onslaught, Thrown|Slashing|
+|Claymore/Greataxe|2d6|Juggernaut|Slashing|
+|Polearm/Pike|2d6|Brace, Reach|Piercing/Slashing|
+|Maul/Warhammer|1d6 + 3|Overwhelming|Blunt|
+|Crossbow|1d6 + 3|Fired|Piercing|
+|Composite Bow|2d6|Fired|Piercing|
+|Sling & Bullets|1d6|Fired, Conceal|Blunt|
 
-- Type B: Blunt weapons deal double damage to fragile creatures (kitsune, skeletons, elves, etc)
-- Type S: Slashing weapons deal double damage to amorphous creatures (oozes, dwarves, ghosts etc)
-- Type P: Piercing weapons deal half damage to amorphous creatures (oozes, dwarves, ghosts etc)
+- **Blunt** weapons deal double damage to fragile creatures (kitsune, skeletons, elves, etc)
+- **Slashing** weapons deal double damage to amorphous creatures (oozes, dwarves, ghosts etc)
+- **Piercing** weapons deal half damage to amorphous creatures (oozes, dwarves, ghosts etc) and ignore the creatures property 'soak' (gargoyles, giants, dragons, etc)
 
 ### Keywords
 
