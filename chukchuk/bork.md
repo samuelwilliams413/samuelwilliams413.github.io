@@ -405,10 +405,10 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 |Holy symbol|25sp|
 |Holy water (flask)|25sp|
 |Ink & Quill|-|
-|Lantern|10|Uses lamp oil|
+|Lantern|Uses lamp oil|
 |Large Sack|-|
 |Lock|-|
-|Magnifying glass|100|70 sp|
+|Magnifying glass|70 sp|
 |Manacles|-|
 |Mirror, steel|-|
 |Pole (10-foot)|-|
