@@ -1,5 +1,7 @@
 - [MAGIC](#magic)
 - [EQUIPMENT](#equipment)
+- [COMBAT](#combat)
+
 
 **Resolution**: When you are asked to roll a check, roll 1d6 and add your stat. If the value is 7 or higher you succeed.
 
@@ -99,6 +101,43 @@ From each of the pairs of beliefs select one that represents the views of you ch
 - **Productivism**: privileges human needs notably by supporting the increase of the production or the use of methods that have an uncertain impact on the environment. <br> <br>
 - **Revolutionaries** have a tendency to privilege direct action to reach their goal: replace the current political organization for totally different one.
 - **Reformists** have a tendency to privilege legal action to reach their goal: reform the political organization step by step. <br> <br>
+
+# Combat
+
+Each round of combat you may:
+
+- Move up to 10m
+- Perform one significant action
+- Draw an avaliable item (specify up to two weapons or spell books that can be drwan quickly)
+- Perform a reaction
+
+Examples of significant actions include:
+
+- Attacking
+- Casting a spell
+- Drinking a potion
+- Sprinting
+
+Examples of reaction actions include:
+
+- Taking a small step
+- Performing a prepared action
+- Catching a passing object
+- Using brace
+- Making an attack of opportunity
+
+## Example Turn
+
+Boblin the Goblin
+
+1. Runs 10 m to enagage Bart
+2. Bart uses a reaction to brace, rolls to hit and misses Boblin
+3. Boblin attacks with his Twin Blades (two sickles), and hits
+
+Bart the Barbarian
+
+1. Bart attacks with his poleaxe, and hits
+2. Bart draws his slate tome, the Black Tentacles of Henshin
 
 # Magic
 > There are 6 schools of magic, each associated with a virtue and attribute. When magic from a school is performed it gives off an aura of a certain colour. The schools of magic were discovered/gifted/invented by its progenitors (supernatural beings with an affinity for magic)
@@ -349,7 +388,7 @@ All weapon packages cost 1 gold piece
 |Small Daggers|1d6|Thrown, Conceal, Nimble|
 |Hatchets & Hammers|1d6|Onslaught, Thrown|
 |Claymore/Greataxe|2d6|Juggernaut|
-|Polearm|2d6|Brace|
+|Polearm/Pike|2d6|Brace, Reach|
 |Maul/Warhammer|1d6 + 3|Overwhelming|
 |Crossbow|1d6 + 3|Fired|
 |Composite Bow|2d6|Fired|
@@ -360,6 +399,7 @@ All weapon packages cost 1 gold piece
 - **Thrown**: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
 - **Fired**: The weapon may be fired at an enemy. You must roll to hit with agility. Enemies have advantage to hit you with melee attacks while you wield this weapon.
 - **Brace**: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
+- **Reach**: If your brace attack misses or kills an enemy it does not use a reaction.
 - **Defensive**: Ignore attacks that deal 2 damage or less.
 - **Parry**: If an enemy's attack against you deals no damage, you may attack back with disadvantage as a reaction.
 - **Nimble**: You may roll to hit with strength or agility.
