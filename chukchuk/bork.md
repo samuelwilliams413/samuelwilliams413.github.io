@@ -68,6 +68,7 @@ When you cast a spell you chose to invest a certain amount of gnosis in the cast
 - Take a break to get your gnosis dice back (15min, time for a snack)
 
 ## Purchase equipment
+[THE EQUIPMENT LIST CAN BE FOUND HERE](#equipment)
 
 Every character always has with them (this does not contribute to encumbrance):
 
@@ -84,7 +85,7 @@ In addition they start with:
 
 They may carry in total 3 items plus their strength.
 
-[THE EQUIPMENT LIST CAN BE FOUND HERE](#equipment)
+From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn without requiring an action.
 
 > Note: every 100 coins excluding the first 100 coins counts as 1 item
 
@@ -107,7 +108,7 @@ Each round of combat you may:
 
 - Move up to 10m
 - Perform one significant action
-- Draw an avaliable item (specify up to two weapons or spell books that can be drwan quickly)
+- Draw an avaliable item (specify up to two weapons or spell books that can be drawn quickly)
 - Perform a reaction
 
 Examples of significant actions include:
