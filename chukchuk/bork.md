@@ -1,6 +1,8 @@
 - [MAGIC](#magic)
 - [EQUIPMENT](#equipment)
 
+**Resolution**: When you are asked to roll a check, roll 1d6 and add your stat. If the value is 7 or higher you succeed.
+
 # Character Creation
 
 The process for character creation is as follows:
@@ -10,23 +12,32 @@ The process for character creation is as follows:
 4. [Purchase equipment](#purchase-equipment)
 3. [State your beliefs](#state-your-beliefs)
 
-
-
 ## Generate your stats
 
 There are 6 stats:
 
-- Strength
-- Agility
-- Hardiness
-- Wits
-- Knowledge
-- Will
+- Strength: Used for melee and thrown weapon attacks.
+- Agility: Used for nible melee and ranged weapon attacks.
+- Hardiness: Your starting health is 6 + your hardiness.
+- Wits: Used to percieve, deduce, and react.
+- Knowledge: For each point of Knowledge you can either speak or read/write a language.
+- Will: Used to resist magical effects.
 
 Either:
 
 1. Roll 6d6 in order, swapping a single pair of results
 2. Assign [1,2,3,3,4,5] to your stats
+
+**Languages**
+
+The following Languages exist:
+
+- Common
+- arcane
+- dwarven/runic
+- vulgate/goblinoid
+- helios/outsider
+- druidic/fey/elven
 
 ## Determine your magical talents
 
@@ -94,9 +105,9 @@ From each of the pairs of beliefs select one that represents the views of you ch
 
 |Aura       |School           |Attribute     |Virtue      |Progenitors|
 |:-|:-|:-|:-|:-|
-|Blue       |Transfiguration   |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
+|Blue       |Transfiguration  |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
 |Brown      |Conjuration      |Hardiness     |Prudence    |Dwarves/Kobolds/Spirits of the Earth|
-|Red        |Judgment        |Strength      |Justice     |Angels/Demons/Spirits of Fire|
+|Red        |Judgment         |Strength      |Justice     |Angels/Demons/Spirits of Fire|
 |Green      |Illusion         |Wits          |Hope        |Elves/Fairies/Trickster Spirits|
 |Purple     |Mysticism        |Knowledge     |Temperance  |Ghosts/Ancestors/Wind Spirits|
 |Yellow     |Sacred           |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun|
@@ -196,7 +207,7 @@ From each of the pairs of beliefs select one that represents the views of you ch
 1. Infrazel, the Penitent Agony
   - Duration: [dice] rounds
   - Range: shouting
-  - Target experiences wracking pain. They must save each round while afflicted or miss their turn.
+  - Target experiences wracking pain. They must WIL save each round while afflicted or miss their turn.
 1. Zunzel, the Hex Blade
   - Duration: [dice] rounds
   - Touch the weapon and name a creature. The weapon deals [sum] extra damage to that creature for the duration. You can lock the dice used to make the effect permanent.
@@ -206,7 +217,7 @@ From each of the pairs of beliefs select one that represents the views of you ch
 1. Infnel, Fires of judgment
   - Duration: [dice] rounds
   - Range: Shouting
-  - Target takes [sum] fire damage each time they attack.
+  - Target takes [sum] fire damage each time they attack. WIL save each round.
 1. Pandoric Rune
   - You write the rune on a surface. When a creature sees the rune, they take [sum] fire damage & the rune is destroyed. You must lock the dice used.
 
@@ -225,7 +236,7 @@ From each of the pairs of beliefs select one that represents the views of you ch
   - No sound can be emitted in a 20m radius.
 1. Trigger memory lapse
   - Range: touch
-  - Target forgets everything that happened in the last [dice] rounds.
+  - Target forgets everything that happened in the last [dice] rounds. WIL save.
 1. Seduce Water
   - Divested of all equipment and clothing, the sorcerer bathes in a water, such as a river, lake, or pool (but not sea or ocean, as those old gods are wicked beyond measure) and in so doing communes with the spirit of the water. The water spirit will obey basic commands (though sometimes in fickle ways), and thus may be parted, lowered, or otherwise modified. Spirits often have requests of sorcerers, given how they are during most of their existence hemmed in by rock and sky.
 1. Create Fog Cloud
@@ -239,7 +250,7 @@ From each of the pairs of beliefs select one that represents the views of you ch
 1. Create Aversion
   - Duration: 1 day
   - Range: shouting
-  - Target saves vs... CHA (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can't be something they're currently holding or touching.
+  - Target WIL saves (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can't be something they're currently holding or touching.
 1. Force Truth
   - Range: touch
   - Target must answer a question you give truthfully, or they take [dice] damage.
@@ -263,7 +274,7 @@ From each of the pairs of beliefs select one that represents the views of you ch
   - Ward a single area up to [sum] square feet in size. If any creature enters the area, you instantly know about it. If you so choose, a loud noise can also emanate when the alarm is triggered, heard up to [dice] x 100m from the area. You can designate up to [dice] creatures who will not set off the alarm. You are automatically excluded.
 2. Behest
   - Range: shouting
-  - Target saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
+  - Target WIL saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
 3. Widdershins
   - Duration: [dice] hours
   - You draw a circle with radius up to [dice] x 1m on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
@@ -333,9 +344,9 @@ All weapon packages cost 1 gold piece
 |:---|:---|:---|
 |Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|
 |Spears & Shield|1d6|Thrown, Defensive, Brace|
-|Rapier & Buckler|1d6|Parry, Defensive|
-|Twin Blades|1d6|Parry, Onslaught|
-|Small Daggers|-|Thrown, Conceal|
+|Rapier & Buckler|1d6|Parry, Defensive, Nimble|
+|Twin Blades|1d6|Parry, Onslaught, Nimble|
+|Small Daggers|-|Thrown, Conceal, Nimble|
 |Hatchets & Hammers|1d6|Onslaught, Thrown|
 |Claymore/Greataxe|2d6|Juggernaut|
 |Polearm|2d6|Brace|
@@ -346,16 +357,17 @@ All weapon packages cost 1 gold piece
 
 ### Keywords
 
-- Thrown: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
-- Fired: The weapon may be fired at an enemy. You must roll to hit with agility. Enemies have advantage to hit you with melee attacks while you wield this weapon.
-- Brace: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
-- Defensive: Ignore attacks that deal 2 damage or less.
-- Parry: If an enemy's attack against you deals no damage, you may attack back with disadvantage as a reaction.
-- Overwhelming: Roll twice for damage
-- Shield Charge: Ignore brace. You have advantage to hit when you move at least 3m.
-- Juggernaut: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
-- Onslaught: You may attack twice as part of a single action
-- Conceal: This weapon can be hidden and will bypass most security checks
+- **Thrown**: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
+- **Fired**: The weapon may be fired at an enemy. You must roll to hit with agility. Enemies have advantage to hit you with melee attacks while you wield this weapon.
+- **Brace**: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
+- **Defensive**: Ignore attacks that deal 2 damage or less.
+- **Parry**: If an enemy's attack against you deals no damage, you may attack back with disadvantage as a reaction.
+- **Nimble**: You may roll to hit with strength or agility.
+- **Overwhelming**: Roll twice for damage
+- **Shield** Charge: Ignore brace. You have advantage to hit when you move at least 3m.
+- **Juggernaut**: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
+- **Onslaught**: You may attack twice as part of a single action
+- **Conceal**: This weapon can be hidden and will bypass most security checks
 
 ## Spell Books
 
@@ -365,10 +377,10 @@ Spell Books cost 1 gold coin, subject to availability.
 |:---|:---|
 |Tome of Transfiguration|Conjuration spell books are always scribed on uterine vellum|
 |Tome of Conjuration|Conjuration spell books are made from a series of engraved stone tables bound together with brass rings|
-|Athame of Judgment|If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.|
+|Athame of Judgment|Spells of judgment frequently use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.|
 |Tome of Illusion|Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish|
 |Osteo Mysticism|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
-|Sacred Rosary & Prayer book|Sacred spells are prayers and chants that are said to the gods and use large prayer beads as an implement in addition to a small onehanded prayerbook|
+|Sacred Rosary & Prayer book|Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook|
 
 ## Generic Items
 
