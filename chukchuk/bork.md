@@ -88,7 +88,7 @@ They may carry in total 3 items plus their strength.
 From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn/shealthed without requiring an action.
 
 > Note: every 100 coins excluding the first 100 coins counts as 1 item
-> 
+>
 > 100 copper pieces == 1 silver piece, 100 silver pieces == 1 gold piece
 
 ## State your beliefs
@@ -390,7 +390,7 @@ Bart the Barbarian
 - Snail Knight: 10 minutes after casting, a knight sitting astride a giant snail rides into view. He is able to answer most questions related to quests and chivalry, and may aid you if he finds you worthy.
 - Sort: Inanimate items sort themselves according to categories you set. The categories must be visually verifiable.
 - Spectacle: A clearly unreal but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.
-- Summon Cube: Once per second, (6 times per round) you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. 
+- Summon Cube: Once per second, (6 times per round) you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes.
 - Summon Idol: A carved stone statue the size of a four poster bed rises from the ground.
 - Visual Illusion: A silent, immobile, illusion of your choice appears, up to the size of a bedroom.
 - Wizard Mark: Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
@@ -434,7 +434,7 @@ All weapon packages cost 1 gold piece
 - **Shield Charge**: Ignore brace. You have advantage to hit when you move at least 5m.
 - **Juggernaut**: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
 - **Onslaught**: You may attack twice as part of a single action
-- **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you. 
+- **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you.
 
 ## Spell Books
 
