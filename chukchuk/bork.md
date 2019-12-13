@@ -346,7 +346,7 @@ All weapon packages cost 1 gold piece
 |Spears & Shield|1d6|Thrown, Defensive, Brace|
 |Rapier & Buckler|1d6|Parry, Defensive, Nimble|
 |Twin Blades|1d6|Parry, Onslaught, Nimble|
-|Small Daggers|-|Thrown, Conceal, Nimble|
+|Small Daggers|1d6|Thrown, Conceal, Nimble|
 |Hatchets & Hammers|1d6|Onslaught, Thrown|
 |Claymore/Greataxe|2d6|Juggernaut|
 |Polearm|2d6|Brace|
