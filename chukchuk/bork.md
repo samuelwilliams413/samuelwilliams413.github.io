@@ -44,7 +44,7 @@ The following Languages exist:
 
 [DETAILS FOR MAGIC CAN BE FOUND HERE](#magic)
 
-Gnosis represents a characters capacity to do a certain kind of magic. To cast a spell you must expend at least one gnosis from the school of magic to which the spell belongs. If you use two gnosis from different schools it may count as one gnosis from the correct school. At character creation you start with 5 points of gnosis which may be allocated among any of the schools of magic. You can invest more that one point in any school.
+Gnosis represents a characters capacity to do a certain kind of magic. To cast a spell you must expend at least one gnosis from the school of magic to which the spell belongs. If you use two gnosis from different schools it may count as one gnosis from the correct school. At character creation you start with 3 points of gnosis which may be allocated among any of the schools of magic. You can invest more that one point in any school.
 
 The schools of magic are:
 
@@ -88,6 +88,8 @@ They may carry in total 3 items plus their strength.
 From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn/shealthed without requiring an action.
 
 > Note: every 100 coins excluding the first 100 coins counts as 1 item
+> 
+> 100 copper pieces == 1 silver piece, 100 silver pieces == 1 gold piece
 
 ## State your beliefs
 
