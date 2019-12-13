@@ -2,7 +2,6 @@
 - [EQUIPMENT](#equipment)
 - [COMBAT](#combat)
 
-
 **Resolution**: When you are asked to roll a check, roll 1d6 and add your stat. If the value is 7 or higher you succeed.
 
 # Character Creation
@@ -18,12 +17,12 @@ The process for character creation is as follows:
 
 There are 6 stats:
 
-- Strength: Used for melee and thrown weapon attacks.
-- Agility: Used for nible melee and ranged weapon attacks.
-- Hardiness: Your starting health is 6 + your hardiness.
-- Wits: Used to percieve, deduce, and react.
-- Knowledge: For each point of Knowledge you can either speak or read/write a language.
-- Will: Used to resist magical effects.
+- **Strength**: Used for melee and thrown weapon attacks.
+- **Agility**: Used for nible melee and ranged weapon attacks.
+- **Hardiness**: Your starting health is 6 + your hardiness.
+- **Wits**: Used to percieve, deduce, and react.
+- **Knowledge**: For each point of Knowledge you can either speak or read/write a language.
+- **Will**: Used to resist magical effects.
 
 Either:
 
@@ -34,7 +33,7 @@ Either:
 
 The following Languages exist:
 
-- Common
+- common
 - arcane
 - dwarven/runic
 - vulgate/goblinoid
