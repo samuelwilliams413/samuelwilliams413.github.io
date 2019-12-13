@@ -374,6 +374,28 @@ Bart the Barbarian
 
 
 
+#### Spells to sort and make
+- Anthropomorphize: A touched animal either gains human intelligence
+- Astral Prison: An object is frozen in time and space within an invulnerable crystal shell.
+- Catherine: A woman wearing a blue dress appears until end of spell. She will obey polite, safe requests.
+- Gate: A portal to a random plane opens. **Very very dangerous**
+- Invisible Tether: Two objects within 10ft of each other cannot be moved more than 10ft apart.
+- Manse: A sturdy, furnished cottage appears for L×12 hours.
+- Marble Madness: Your pockets are full of marbles, and will refill every round.
+- Objectify: You become any inanimate object between the size of a grand piano and an apple.
+- Pit: A pit 10ft wide and L×5ft deep opens in the ground.
+- Pull: An object of any size is pulled directly towards you with the strength of L men for one round.
+- Push: An object of any size is pushed directly away from you with the strength of L men for one round.
+- Shroud: L creatures are invisible until they move.
+- Snail Knight: 10 minutes after casting, a knight sitting astride a giant snail rides into view. He is able to answer most questions related to quests and chivalry, and may aid you if he finds you worthy.
+- Sort: Inanimate items sort themselves according to categories you set. The categories must be visually verifiable.
+- Spectacle: A clearly unreal but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.
+- Summon Cube: Once per second, (6 times per round) you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. 
+- Summon Idol: A carved stone statue the size of a four poster bed rises from the ground.
+- Visual Illusion: A silent, immobile, illusion of your choice appears, up to the size of a bedroom.
+- Wizard Mark: Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
+
+
 # Equipment
 
 ## Weapons & Armor
