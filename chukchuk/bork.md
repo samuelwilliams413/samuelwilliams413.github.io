@@ -85,7 +85,7 @@ In addition they start with:
 
 They may carry in total 3 items plus their strength.
 
-From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn without requiring an action.
+From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn/shealthed without requiring an action.
 
 > Note: every 100 coins excluding the first 100 coins counts as 1 item
 
@@ -379,20 +379,24 @@ Bart the Barbarian
 
 All weapon packages cost 1 gold piece
 
-|WEAPON|DAMAGE|NOTES|
-|:---|:---|:---|
-|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|
-|Spears & Shield|1d6|Thrown, Defensive, Brace|
-|Rapier & Buckler|1d6|Parry, Defensive, Nimble|
-|Twin Blades|1d6|Parry, Onslaught, Nimble|
-|Small Daggers|1d6|Thrown, Conceal, Nimble|
-|Hatchets & Hammers|1d6|Onslaught, Thrown|
-|Claymore/Greataxe|2d6|Juggernaut|
-|Polearm/Pike|2d6|Brace, Reach|
-|Maul/Warhammer|1d6 + 3|Overwhelming|
-|Crossbow|1d6 + 3|Fired|
-|Composite Bow|2d6|Fired|
-|Sling & Bullets|1d6|Fired, Conceal|
+|WEAPON|DAMAGE|NOTES|TYPE|
+|:---|:---|:---|:---|
+|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|B/S|
+|Spears & Shield|1d6|Thrown, Defensive, Brace|P|
+|Rapier & Buckler|1d6|Parry, Defensive, Nimble|S|
+|Twin Blades|1d6|Parry, Onslaught, Nimble|S|
+|Small Daggers|1d6|Thrown, Conceal, Nimble|P|
+|Hatchets & Hammers|1d6|Onslaught, Thrown|S|
+|Claymore/Greataxe|2d6|Juggernaut|S|
+|Polearm/Pike|2d6|Brace, Reach|S|
+|Maul/Warhammer|1d6 + 3|Overwhelming|B|
+|Crossbow|1d6 + 3|Fired|P|
+|Composite Bow|2d6|Fired|P|
+|Sling & Bullets|1d6|Fired, Conceal|B|
+
+- Type B: Blunt weapons deal double damage to fragile creatures (kitsune, skeletons, elves, etc)
+- Type S: Slashing weapons deal double damage to amorphous creatures (oozes, dwarves, ghosts etc)
+- Type P: Piercing weapons deal half damage to amorphous creatures (oozes, dwarves, ghosts etc)
 
 ### Keywords
 
@@ -404,7 +408,7 @@ All weapon packages cost 1 gold piece
 - **Parry**: If an enemy's attack against you deals no damage, you may counter attack with disadvantage as a reaction.
 - **Nimble**: You may roll to hit with strength or agility.
 - **Overwhelming**: Roll twice for damage
-- **Shield** Charge: Ignore brace. You have advantage to hit when you move at least 3m.
+- **Shield Charge**: Ignore brace. You have advantage to hit when you move at least 5m.
 - **Juggernaut**: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
 - **Onslaught**: You may attack twice as part of a single action
 - **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you. 
