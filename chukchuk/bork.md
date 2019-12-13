@@ -1,11 +1,16 @@
+- [MAGIC](#magic)
+- [EQUIPMENT](#equipment)
+
 # Character Creation
 
 The process for character creation is as follows:
 
-1. Generate your stats
-2. Determine your magical talents
-4. Purchase equipment
-3. State your beliefs
+1. [Generate your stats](#generate-your-stats)
+2. [Determine your magical talents](#determine-your-magical-talents)
+4. [Purchase equipment](#purchase-equipment)
+3. [State your beliefs](#state-your-beliefs)
+
+
 
 ## Generate your stats
 
