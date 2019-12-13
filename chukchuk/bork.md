@@ -29,16 +29,22 @@ Either:
 1. Roll 6d6 in order, swapping a single pair of results
 2. Assign [1,2,3,3,4,5] to your stats
 
+
+Don't forget
+
+- Your starting health is 6 + your hardiness.
+- For each point of Knowledge you can either speak or read/write a language.
+
 **Languages**
 
-The following Languages exist:
+The following languages exist:
 
-- common
-- arcane
-- dwarven/runic
-- vulgate/goblinoid
-- helios/outsider
-- druidic/fey/elven
+- **Common**: common is the lingua franca, spoken by not only humans, but also dwarves, kitsune, valkyrie, and ghosts
+- **Arcane**: technically a dead language, arcane is used in magical treatise and academic documents. Arcane uses a modified helios script
+- **Runic**: rarely spoken, runic is used dwarves and enchanters for the creation of monuments, records, and magical items. Its absence of curves and clean straight lines make it well suited to chiseling and engraving
+- **Vulgate**: the language of goblins, ogres, and necromancers. The language is guttural and harsh. Many common words in vulgate sounds like obscenities in helios
+- **Helios**: spoken by all outsides (angels, demons, and djinn) helios is incredibly precise in its grammar and syntax. Helios script is constructed of intricate circular sigils and seals.
+- **Sylvan**: sylvan is the language of poets, elves, and nature spirits. The sylvan script doubles as a musical notation, giving indications how words can by sung or played on an instrument
 
 ## Determine your magical talents
 
@@ -62,9 +68,9 @@ When you cast a spell you chose to invest a certain amount of gnosis in the cast
 - Anyone can cast any spell
 - Spells are contained in great tomes, heavy tablets, arcane crystals, malformed staves, and etched skulls
 - Casting a spell requires:
-  - two hands, and lots of hand waving
-  - line of sight to the target
-  - clear annunciation of an incantation, the incantation must be spoken loud enough that it *could* be hear by the target (they don't need to hear it to be effect, the sound just needs to reach them)
+    - two hands, and lots of hand waving
+    - line of sight to the target
+    - clear annunciation of an incantation, the incantation must be spoken loud enough that it *could* be hear by the target (they don't need to hear it to be effect, the sound just needs to reach them)
 - Take a break to get your gnosis dice back (15min, time for a snack)
 
 ## Purchase equipment
@@ -158,32 +164,32 @@ Bart the Barbarian
 > Transfiguration encompasses spells that shapeshift or alter the user. They rarely directly effect unwilling targets. The Transfiguration school was developed after painstaking study of the biology of werecreatures and skinwalkers.
 
 1. Bird Dog:
-  - Duration: [dice] minutes
-  - Range: touch
-  - Target has the sight of a hawk & the scenting ability of a hound for the duration
+    - Duration: [dice] minutes
+    - Range: touch
+    - Target has the sight of a hawk & the scenting ability of a hound for the duration
 1. Monkey Fish:
-  - Duration: [dice] minutes
-  - Range: touch
-  - Target can climb like a monkey and swim like a fish.
+    - Duration: [dice] minutes
+    - Range: touch
+    - Target can climb like a monkey and swim like a fish.
 1. Grease:
-  - Range: shouting
-  - Vomit a blob of slippery, flammable grease. Enough to cover one 1m square per [dice].
+    - Range: shouting
+    - Vomit a blob of slippery, flammable grease. Enough to cover one 1m square per [dice].
 1. Ear Send:
-  - Duration: [dice] minutes
-  - Range: [dice] x 25m
-  - Your ear detaches and flies away. You can't see through it but you can still hear through it clearly, and you can telepathically direct it to fly. When the duration expires, the ear teleports back to its proper place on your head.
+    - Duration: [dice] minutes
+    - Range: [dice] x 25m
+    - Your ear detaches and flies away. You can't see through it but you can still hear through it clearly, and you can telepathically direct it to fly. When the duration expires, the ear teleports back to its proper place on your head.
 1. Gasbag:
-  - Duration: [dice] minutes
-  - Range: touch
-  - The target levitates off the ground, like a balloon. You can move them up to 10' up or down each round. They can move laterally by pushing against solid surfaces
+    - Duration: [dice] minutes
+    - Range: touch
+    - The target levitates off the ground, like a balloon. You can move them up to 10' up or down each round. They can move laterally by pushing against solid surfaces
 1. Nugget:
-  - Materials: blob of dead meat (e.g. from a corpse)
-  - Casting time: 1 minute
-  - The meat forms into a helpful servant, which will obey your commands for the duration. The servant can't wield weapons, but it can manipulate objects. It has [sum] hp and [dice] Strength. On death it turns back into meat. You must lock the dice used.
+    - Materials: blob of dead meat (e.g. from a corpse)
+    - Casting time: 1 minute
+    - The meat forms into a helpful servant, which will obey your commands for the duration. The servant can't wield weapons, but it can manipulate objects. It has [sum] hp and [dice] Strength. On death it turns back into meat. You must lock the dice used.
 1. Dragon's Breath
-  - Duration: [dice] rounds
-  - Range: 5m cone
-  - You can breathe fire for the duration. Each breath of fire deals [sum] fire damage. The horribly hot breath deals [dice] fire damage to you each time it is used
+    - Duration: [dice] rounds
+    - Range: 5m cone
+    - You can breathe fire for the duration. Each breath of fire deals [sum] fire damage. The horribly hot breath deals [dice] fire damage to you each time it is used
 
 
 #### TBC
@@ -197,34 +203,34 @@ Bart the Barbarian
 > Conjuration spells alter the fabric of space to pull objects closer or send them away. Conjuration spells cause physical matter to move within the material plane or between planes. Conjuration spells often take longer to cast compared to spells from other schools. All great conjuration spells are named after their inventor (often famous dwarves).
 
 1. Rutherford's Air Bubble:
-  - Duration: [dice] minutes
-  - Range: touch
-  - Creates a bubble of air around the target, allowing them to breathe even in environments that do not have breathable oxygen.
+    - Duration: [dice] minutes
+    - Range: touch
+    - Creates a bubble of air around the target, allowing them to breathe even in environments that do not have breathable oxygen.
 1. The Replicating Ammunition of Eliza:
-  - Duration: [dice] minutes
-  - Touch a piece of ammunition. Whenever it leaves the quiver, a copy of it immediately appears where it was previously. The replicas vanish at the duration's end.
+    - Duration: [dice] minutes
+    - Touch a piece of ammunition. Whenever it leaves the quiver, a copy of it immediately appears where it was previously. The replicas vanish at the duration's end.
 1. RAM
-  - Casting time: 1 minute
-  - Recall:  Nonliving items marked with the sorcerer's recall sigil are transported to the sorcerer's dimensional anchor.
-  - Anchor: Cast to mark a location you can touch as you dimensional anchor.
-  - Mark: Cast to mark an item you can touch with a recall sigil. You must lock one dice per item marked.
+    - Casting time: 1 minute
+    - Recall:  Nonliving items marked with the sorcerer's recall sigil are transported to the sorcerer's dimensional anchor.
+    - Anchor: Cast to mark a location you can touch as you dimensional anchor.
+    - Mark: Cast to mark an item you can touch with a recall sigil. You must lock one dice per item marked.
 1. Barbra's Swarm of Wasps
-  - Casting time: 1 minute
-  - Duration: [dice] hours
-  - Range: shouting
-  - Summon a swarm of wasps (about 50x[sum]) in number). They won't leave the approximate area in which they are summoned, but they ruthlessly harass anything within.
+    - Casting time: 1 minute
+    - Duration: [dice] hours
+    - Range: shouting
+    - Summon a swarm of wasps (about 50x[sum]) in number). They won't leave the approximate area in which they are summoned, but they ruthlessly harass anything within.
 1. Gates of Babylon
-  - Casting time: 1 minute
-  - Duration: [dice] hours
-  - A mundane weapon or suit of armor, of your choice, appears in your hand or in your vicinity. At the end of the duration, it dissolves into nothingness.
+    - Casting time: 1 minute
+    - Duration: [dice] hours
+    - A mundane weapon or suit of armor, of your choice, appears in your hand or in your vicinity. At the end of the duration, it dissolves into nothingness.
 1. Black Tentacles of Henshin
-  - Duration: [dice] rounds
-  - Range: shouting
-  - Black tentacles surge from the ground. Affects one 1m square per [dice]. Victims must save vs... STR to escape, with a penalty equal to [dice], and the tentacles deal 1d6 damage to each victim per round.
+    - Duration: [dice] rounds
+    - Range: shouting
+    - Black tentacles surge from the ground. Affects one 1m square per [dice]. Victims must save vs... STR to escape, with a penalty equal to [dice], and the tentacles deal 1d6 damage to each victim per round.
 1. Barbra's Call Vermin
-  - Casting time: 1 minute
-  - Duration: [dice] hours
-  - A swarm of [sum] rats or similar vermin are magically called to you from the surrounding area. They will obey simple spoken commands you issue for the spell's duration.
+    - Casting time: 1 minute
+    - Duration: [dice] hours
+    - A swarm of [sum] rats or similar vermin are magically called to you from the surrounding area. They will obey simple spoken commands you issue for the spell's duration.
 
 #### TBC
 
@@ -240,26 +246,26 @@ Bart the Barbarian
 > Spells of judgment frequently use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. Spellcasting involves a highly intricate kata with the blade. If the blade is ever used as a weapon it is desecrated and must be ritually cleaned. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.
 
 1. Hasmalel, the Named Bullet
-  - Range: touch
-  - Name your enemy while touching a piece of ammunition (arrow, sling bullet, etc). When the target is struck by this piece of ammunition, roll damage [dice] additional times. You must lock the dice used.
+    - Range: touch
+    - Name your enemy while touching a piece of ammunition (arrow, sling bullet, etc). When the target is struck by this piece of ammunition, roll damage [dice] additional times. You must lock the dice used.
 1. Blood Pact
  - Magically seal a bargain between the sorcerer and a willing counterparty by awarding temporary control of both souls to a devil. Deviation from the bargain results in demonic malady, and ignoring the covenant completely allows the devil to take permanent possession, which causes death (and eternal torment).
 1. Infrazel, the Penitent Agony
-  - Duration: [dice] rounds
-  - Range: shouting
-  - Target experiences wracking pain. They must WIL save each round while afflicted or miss their turn.
+    - Duration: [dice] rounds
+    - Range: shouting
+    - Target experiences wracking pain. They must WIL save each round while afflicted or miss their turn.
 1. Zunzel, the Hex Blade
-  - Duration: [dice] rounds
-  - Touch the weapon and name a creature. The weapon deals [sum] extra damage to that creature for the duration. You can lock the dice used to make the effect permanent.
+    - Duration: [dice] rounds
+    - Touch the weapon and name a creature. The weapon deals [sum] extra damage to that creature for the duration. You can lock the dice used to make the effect permanent.
 1. Magic Missile
-  - Range: shouting
-  - Fire one missile per [dice] that deals 1d6 points of magical force damage to whatever it hits. You can direct each missile to a different target. The missiles never miss.
+    - Range: shouting
+    - Fire one missile per [dice] that deals 1d6 points of magical force damage to whatever it hits. You can direct each missile to a different target. The missiles never miss.
 1. Infnel, Fires of judgment
-  - Duration: [dice] rounds
-  - Range: Shouting
-  - Target takes [sum] fire damage each time they attack. WIL save each round.
+    - Duration: [dice] rounds
+    - Range: Shouting
+    - Target takes [sum] fire damage each time they attack. WIL save each round.
 1. Pandoric Rune
-  - You write the rune on a surface. When a creature sees the rune, they take [sum] fire damage & the rune is destroyed. You must lock the dice used.
+    - You write the rune on a surface. When a creature sees the rune, they take [sum] fire damage & the rune is destroyed. You must lock the dice used.
 
 #### TBC
 
@@ -271,29 +277,29 @@ Bart the Barbarian
 > Illusion spells were originally gifts given to children by trickster gods. After careful bargaining, and much suffering they were codified. Illusion spells do not change reality, instead they warp the minds of those effected. Paradoxically the names of illusion spells are literal and the school contains the only magic concerned with absolute truth. **All illusion spells are silent**
 
 1. Manifest Silence
-  - Duration: [dice] minutes
-  - Range: Shouting
-  - No sound can be emitted in a 20m radius.
+    - Duration: [dice] minutes
+    - Range: Shouting
+    - No sound can be emitted in a 20m radius.
 1. Trigger memory lapse
-  - Range: touch
-  - Target forgets everything that happened in the last [dice] rounds. WIL save.
+    - Range: touch
+    - Target forgets everything that happened in the last [dice] rounds. WIL save.
 1. Seduce Water
-  - Divested of all equipment and clothing, the sorcerer bathes in a water, such as a river, lake, or pool (but not sea or ocean, as those old gods are wicked beyond measure) and in so doing communes with the spirit of the water. The water spirit will obey basic commands (though sometimes in fickle ways), and thus may be parted, lowered, or otherwise modified. Spirits often have requests of sorcerers, given how they are during most of their existence hemmed in by rock and sky.
+    - Divested of all equipment and clothing, the sorcerer bathes in a water, such as a river, lake, or pool (but not sea or ocean, as those old gods are wicked beyond measure) and in so doing communes with the spirit of the water. The water spirit will obey basic commands (though sometimes in fickle ways), and thus may be parted, lowered, or otherwise modified. Spirits often have requests of sorcerers, given how they are during most of their existence hemmed in by rock and sky.
 1. Create Fog Cloud
-  - Duration: [dice] minutes
-  - Range: shouting
-  - Summon a cloud of opaque fog with radius [dice]x5m.
+    - Duration: [dice] minutes
+    - Range: shouting
+    - Summon a cloud of opaque fog with radius [dice]x5m.
 1. Share Senses
-  - Duration: [dice] minutes
-  - Range: touch
-  - You and the creature you touch can freely exchange sensory information for the duration - i.e. they can see through your eyes, feel what you touch, smell what you smell, etc; and vice-versa.
+    - Duration: [dice] minutes
+    - Range: touch
+    - You and the creature you touch can freely exchange sensory information for the duration - i.e. they can see through your eyes, feel what you touch, smell what you smell, etc; and vice-versa.
 1. Create Aversion
-  - Duration: 1 day
-  - Range: shouting
-  - Target WIL saves (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can't be something they're currently holding or touching.
+    - Duration: 1 day
+    - Range: shouting
+    - Target WIL saves (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can't be something they're currently holding or touching.
 1. Force Truth
-  - Range: touch
-  - Target must answer a question you give truthfully, or they take [dice] damage.
+    - Range: touch
+    - Target must answer a question you give truthfully, or they take [dice] damage.
 
 #### TBC
 
@@ -310,26 +316,26 @@ Bart the Barbarian
 > The school of Mysticism is focused on dealings with the beyond. The spells in the school are either the consequence of dealings with ethereal beings or by attempting to mimic their powers. Mysticism spells interact with the souls, not the tangible reality.
 
 1. Trepidation
-  - Duration: [dice] hours
-  - Ward a single area up to [sum] square feet in size. If any creature enters the area, you instantly know about it. If you so choose, a loud noise can also emanate when the alarm is triggered, heard up to [dice] x 100m from the area. You can designate up to [dice] creatures who will not set off the alarm. You are automatically excluded.
+    - Duration: [dice] hours
+    - Ward a single area up to [sum] square feet in size. If any creature enters the area, you instantly know about it. If you so choose, a loud noise can also emanate when the alarm is triggered, heard up to [dice] x 100m from the area. You can designate up to [dice] creatures who will not set off the alarm. You are automatically excluded.
 2. Behest
-  - Range: shouting
-  - Target WIL saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
+    - Range: shouting
+    - Target WIL saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
 3. Widdershins
-  - Duration: [dice] hours
-  - You draw a circle with radius up to [dice] x 1m on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
+    - Duration: [dice] hours
+    - You draw a circle with radius up to [dice] x 1m on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
 4. Ossein
-  - Target corpse returns to life as a skeleton with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Skeletons can wield weapons.
+    - Target corpse returns to life as a skeleton with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Skeletons can wield weapons.
 5. Beseech
-  - Casting Time: 1 minute
-  - Consult the gods to learn whether an action will result in weal or woe. The chance of a meaningful answer is equal to 50% + [sum]%, rolled in secret.
+    - Casting Time: 1 minute
+    - Consult the gods to learn whether an action will result in weal or woe. The chance of a meaningful answer is equal to 50% + [sum]%, rolled in secret.
 6. Conduit
-  - Casting Time: 1 minute
-  - Duration: [dice] hours
-  - Range: touch
-  - A sorcerer may use another willing creature or thing as a relay for spells. The sorcerer's conduit sigil must be placed on the conduit. As long as the sigil remains, the sorcerer may meditate and perceive the surroundings of the sigil.
+    - Casting Time: 1 minute
+    - Duration: [dice] hours
+    - Range: touch
+    - A sorcerer may use another willing creature or thing as a relay for spells. The sorcerer's conduit sigil must be placed on the conduit. As long as the sigil remains, the sorcerer may meditate and perceive the surroundings of the sigil.
 7. Dream
-  - Send a dream to any creature you have seen before & can name or clearly visualize (& which is capable of dreaming). The dream lasts up to [sum] minutes.
+    - Send a dream to any creature you have seen before & can name or clearly visualize (& which is capable of dreaming). The dream lasts up to [sum] minutes.
 
 
 #### TBC
@@ -344,29 +350,29 @@ Bart the Barbarian
 > In exchange for 1000 years of service as valkyrie, young maidens give up their lives to that man may know the secrets of sacred magic. Spells from the school of the Sacred focus on friendship, communication, healing, light, and the protection of innocence. Sacred spells do not harm the living, and cannot heal the dammed.
 
 1. Lay on Hands
-  - Range: touch
-  - The target is healed for [sum] points of hit point damage
+    - Range: touch
+    - The target is healed for [sum] points of hit point damage
 1. Dying Hard
-  - Duration: [dice] rounds
-  - Range: touch
-  - The target can't be killed by hit point damage while the spell persists - their hp can be reduced to zero, but any blow that would kill them thereafter mysteriously misses or otherwise fails.
+    - Duration: [dice] rounds
+    - Range: touch
+    - The target can't be killed by hit point damage while the spell persists - their hp can be reduced to zero, but any blow that would kill them thereafter mysteriously misses or otherwise fails.
 1. Holy Smite
-  - You indicate an undead/demonic/obviously evil creature you can see to be the target of your holy smite. Until that creature dies, you add +[dice] to all attack and damage rolls against them. You can only smite one creature at a time.
+    - You indicate an undead/demonic/obviously evil creature you can see to be the target of your holy smite. Until that creature dies, you add +[dice] to all attack and damage rolls against them. You can only smite one creature at a time.
 1. Burning Bright
-  - Duration: [dice] days
-  - Range: touch
-  - A heatless flame is created at the point you touch. It can only be put out by magical means. It illuminates an area of diameter equal to [dice] x 5m. If at least 4 dice are invested, the light has all the properties of natural sunlight.
+    - Duration: [dice] days
+    - Range: touch
+    - A heatless flame is created at the point you touch. It can only be put out by magical means. It illuminates an area of diameter equal to [dice] x 5m. If at least 4 dice are invested, the light has all the properties of natural sunlight.
 1. Beast Tongue
-  - Duration: [dice] hours
-  - Range: touch
-  - You can communicate with animals for the duration. You can lock the dice to make the effect permanent.
+    - Duration: [dice] hours
+    - Range: touch
+    - You can communicate with animals for the duration. You can lock the dice to make the effect permanent.
 1. Carry Companion
-  - Duration: [dice] hours
-  - Range: touch
-  - A target person or animal turns into a stone statue about 6 inches high. Target must be willing.
+    - Duration: [dice] hours
+    - Range: touch
+    - A target person or animal turns into a stone statue about 6 inches high. Target must be willing.
 1. Calm Down
-  - Range: shouting
-  - Affects up to [dice] creatures in your vicinity. Strong emotions (such as fear, hatred, excitement) are reduced to mildness and relaxation. Creatures may save to resist if they wish (with a penalty equal to [dice]).
+    - Range: shouting
+    - Affects up to [dice] creatures in your vicinity. Strong emotions (such as fear, hatred, excitement) are reduced to mildness and relaxation. Creatures may save to resist if they wish (with a penalty equal to [dice]).
 
 #### TBC
 
