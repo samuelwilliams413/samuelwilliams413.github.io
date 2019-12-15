@@ -17,7 +17,7 @@ The process for character creation is as follows:
 
 There are 6 stats:
 
-- **Strength**: Used for melee and thrown weapon attacks.
+- **Strength**: Used for melee and thrown weapon attacks. You may carry in total 3 items plus their strength.
 - **Agility**: Used for nible melee and ranged weapon attacks.
 - **Hardiness**: Your starting health is 6 + your hardiness.
 - **Wits**: Used to percieve, deduce, and react.
@@ -41,7 +41,7 @@ The following languages exist:
 
 - **Common**: common is the lingua franca, spoken by not only humans, but also dwarves, kitsune, valkyrie, and ghosts
 - **Arcane**: technically a dead language, arcane is used in magical treatise and academic documents. Arcane uses a modified helios script
-- **Runic**: rarely spoken, runic is used dwarves and enchanters for the creation of monuments, records, and magical items. Its absence of curves and clean straight lines make it well suited to chiseling and engraving
+- **Runic**: rarely spoken, runic is used dwarves and enchanters for the creation of monuments, records, and magical items. Its clean straight lines and absence of curves make it well suited to chiseling and engraving
 - **Vulgate**: the language of goblins, ogres, and necromancers. The language is guttural and harsh. Many common words in vulgate sounds like obscenities in helios
 - **Helios**: spoken by all outsides (angels, demons, and djinn) helios is incredibly precise in its grammar and syntax. Helios script is constructed of intricate circular sigils and seals.
 - **Sylvan**: sylvan is the language of poets, elves, and nature spirits. The sylvan script doubles as a musical notation, giving indications how words can by sung or played on an instrument
@@ -50,7 +50,7 @@ The following languages exist:
 
 [DETAILS FOR MAGIC CAN BE FOUND HERE](#magic)
 
-Gnosis represents a characters capacity to do a certain kind of magic. To cast a spell you must expend at least one gnosis from the school of magic to which the spell belongs. If you use two gnosis from different schools it may count as one gnosis from the correct school. At character creation you start with 3 points of gnosis which may be allocated among any of the schools of magic. You can invest more that one point in any school.
+Gnosis represents a characters capacity to do a certain kind of magic. To cast a spell you must expend at least one gnosis from the school of magic to which the spell belongs. If you use two gnosis from different schools it may count as one gnosis from the correct school. At character creation you start with 3 points of gnosis which may be allocated among any of the schools of magic. You can invest more than one point in any school.
 
 The schools of magic are:
 
@@ -59,7 +59,7 @@ The schools of magic are:
 - Judgment: The magic of oaths and retribution
 - Illusion: Phantasms, mind magic, and truthfinding
 - Mysticism: Soul magic, divination, and necromancy
-- Sacred: Holy spells used for healing and strength
+- Sacred: Holy spells used for healing and protection
 
 When you cast a spell you chose to invest a certain amount of gnosis in the casting, some spell have increased potency when the amount of gnosis used increases.
 
@@ -243,7 +243,7 @@ Bart the Barbarian
 
 > Judgment spells were given to great heroes by angels and demons to destroy their foes. All spells of judgment inflict harm, and the school has deep ties to runic power. Judgment spells are often named after the entity that first gave them to man, and frequently require dice to be locked.
 
-> Spells of judgment frequently use an Athame, or ceremonial blade, made from obsidian as a spellcasting focus. Spellcasting involves a highly intricate kata with the blade. If the blade is ever used as a weapon it is desecrated and must be ritually cleaned. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.
+> Spells of judgment frequently use an Athame, or ceremonial blade, as a spellcasting focus. Spellcasting involves a highly intricate kata with the blade. If the blade is ever used as a weapon it is desecrated and must be ritually cleaned. If you are casting and disrupted you take 1 point of damage from the lacerations caused to you by the athame.
 
 1. Hasmalel, the Named Bullet
     - Range: touch
