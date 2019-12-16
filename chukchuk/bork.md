@@ -203,7 +203,7 @@ Bart the Barbarian
     - Range: touch
     - The target levitates off the ground, like a balloon. You can move them up to 10' up or down each round. They can move laterally by pushing against solid surfaces
 1. Nugget:
-    - Sporadic
+    - Scarcity: Sporadic
     - Materials: blob of dead meat (e.g. from a corpse)
     - Casting time: 1 minute
     - The meat forms into a helpful servant, which will obey your commands for the duration. The servant can't wield weapons, but it can manipulate objects. It has [sum] hp and [dice] Strength. On death it turns back into meat. You must lock the dice used.
@@ -242,7 +242,7 @@ Bart the Barbarian
     - Duration: [dice] hours
     - A mundane weapon or suit of armor, of your choice, appears in your hand or in your vicinity. At the end of the duration, it dissolves into nothingness.
 1. Black Tentacles of Henshin
-    - Sorid
+    - Scarcity: Sorid
     - Duration: [dice] rounds
     - Range: shouting
     - Black tentacles surge from the ground. Affects one 1m square per [dice]. Victims must save vs... STR to escape, with a penalty equal to [dice], and the tentacles deal 1d6 damage to each victim per round.
@@ -265,7 +265,7 @@ Bart the Barbarian
     - Range: touch
     - Name your enemy while touching a piece of ammunition (arrow, sling bullet, etc). When the target is struck by this piece of ammunition, roll damage [dice] additional times. You must lock the dice used.
 1. Blood Pact
-    - Sorid
+    - Scarcity: Sorid
     - Magically seal a bargain between the sorcerer and a willing counterparty by awarding temporary control of both souls to a devil. Deviation from the bargain results in demonic malady, and ignoring the covenant completely allows the devil to take permanent possession, which causes death (and eternal torment).
 1. Infrazel, the Penitent Agony
     - Duration: [dice] rounds
@@ -284,7 +284,7 @@ Bart the Barbarian
 1. Pandoric Rune
     - You write the rune on a surface. When a creature sees the rune, they take [sum] fire damage & the rune is destroyed. You must lock the dice used
 1. Al'Trazel, the Astral Prison
-    - Sporadic
+    - Scarcity: Sporadic
     - Duration: [dice] rounds
     - Range: touch
     - An object is frozen in time and space within an invulnerable crystal shell.
@@ -301,7 +301,7 @@ Bart the Barbarian
     - Range: touch
     - Target forgets everything that happened in the last [dice] rounds. WILL save.
 1. Seduce Water
-    - Sporadic
+    - Scarcity: Sporadic
     - Divested of all equipment and clothing, the sorcerer bathes in a water, such as a river, lake, or pool (but not sea or ocean, as those old gods are wicked beyond measure) and in so doing communes with the spirit of the water. The water spirit will obey basic commands (though sometimes in fickle ways), and thus may be parted, lowered, or otherwise modified. Spirits often have requests of sorcerers.
 1. Create Fog Cloud
     - Duration: [dice] minutes
@@ -337,7 +337,7 @@ Bart the Barbarian
     - Duration: [dice] hours
     - You draw a circle with radius up to [dice] x 1m on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
 4. Ossein
-    - Profane & Rare
+    - Scarcity: Profane & Rare
     - Target corpse returns to life as a skeleton with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Skeletons can wield weapons.
 5. Beseech
     - Casting Time: 1 minute
@@ -350,7 +350,7 @@ Bart the Barbarian
 7. Dream
     - Send a dream to any creature you have seen before & can name or clearly visualize (& which is capable of dreaming). The dream lasts up to [sum] minutes.
 1. Defacement
-    - Sorid
+    - Scarcity: Sorid
     - Duration: [sum] days
     - Range: shouting
     - Your finger shoots a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
@@ -384,7 +384,7 @@ Bart the Barbarian
     - Range: shouting
     - Affects up to [dice] creatures in your vicinity. Strong emotions (such as fear, hatred, excitement) are reduced to mildness and relaxation. Creatures may save to resist if they wish (with a penalty equal to [dice])
 1. Summon Idol
-    - Sporadic
+    - Scarcity: Sporadic
     - Range: Touch
     - A carved stone statue the size of a fridge rises from the ground. Gods may take offense at the irreverence treatment of their image.
 
