@@ -17,12 +17,12 @@ The process for character creation is as follows:
 
 **There are 6 stats:**
 
-|    |STAT                       |Notes                                      |
-|:-  |:-                         |:-                                         |
-|STRN|Strength                   |Melee & thrown weapons. Carry = 4 + STRN.  |
-|AGIL|Agility                    |Nimble & ranged weapons.                   |
-|HARD|Hardiness                  |HP = 6 + your hardiness.                   |
-|WILL|Will                       |Used to resist magical effects.            |
+|    |STAT          |Notes                                              |
+|:-  |:-            |:-                                                 |
+|POWR|Power         |Melee & thrown weapons. Carry = 4 + your power.    |
+|FINE|Finesse       |Nimble & ranged weapons.                           |
+|HARD|Hardiness     |HP = 6 + your hardiness.                           |
+|WILL|Will          |Used to resist magical effects.                    |
 
 Either:
 
@@ -31,22 +31,22 @@ Either:
 
 **There are 14 skills:**
 
-|    |Skill                      |Notes                             |
-|:-  |:-                         |:-                                |
-|ACRO|Acrobatics                 |                                  |
-|ATHL|Athletics                  |                                  |
-|CRFT|Crafting & Surivial        |Language: Runic                   |
-|DECP|Deception                  |                                  |
-|DIPL|Diplomacy                  |                                  |
-|ITMD|Intimidation               |                                  |
-|MALF|Malfeasance                |Language: Vulgate                 |
-|MEDI|Medicine                   |                                  |
-|LORE|Knowledge (Lore)           |                                  |
-|MAGI|Knowledge (Magical)        |Language: Arcane                  |
-|NATU|Knowledge (Nature)         |Language: Sylvan                  |
-|OCLT|Knowledge (Occultism)      |Language: Helios                  |
-|SOCI|Knowledge (Society)        |                                  |
-|STLH|Stealth                    |Roll with adv. if you go slow     |
+|    |Skill                     |Notes                          |
+|:-  |:-                        |:-                             |
+|ACRO|Acrobatics                |                               |
+|ATHL|Athletics                 |                               |
+|CRFT|Crafting & Surivial       |Language: Runic                |
+|DECP|Deception                 |                               |
+|DIPL|Diplomacy                 |                               |
+|ITMD|Intimidation              |                               |
+|MALF|Malfeasance               |Language: Vulgate              |
+|MEDI|Medicine                  |                               |
+|LORE|Knowledge (Lore)          |                               |
+|MAGI|Knowledge (Magical)       |Language: Arcane               |
+|NATU|Knowledge (Nature)        |Language: Sylvan               |
+|OCLT|Knowledge (Occultism)     |Language: Helios               |
+|SOCI|Knowledge (Society)       |                               |
+|STLH|Stealth                   |Roll with adv. if you go slow  |
 
 Either:
 
@@ -172,12 +172,12 @@ Bart the Barbarian
 
 |Aura       |School           |Attribute     |Virtue      |Progenitors|
 |:-|:-|:-|:-|:-|
-|Blue       |Transfiguration  |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon|
-|Brown      |Conjuration      |Hardiness     |Prudence    |Dwarves/Kobolds/Spirits of the Earth|
-|Red        |Judgment         |Strength      |Justice     |Angels/Demons/Spirits of Fire|
-|Green      |Illusion         |Wits          |Hope        |Elves/Fairies/Trickster Spirits|
-|Purple     |Mysticism        |Knowledge     |Temperance  |Ghosts/Ancestors/Wind Spirits|
-|Yellow     |Sacred           |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun|
+|Blue       |Transfiguration  |Agility       |Fortitude   |Kitsune/Shapeshifters/Spirits of the Moon    |
+|Brown      |Conjuration      |Hardiness     |Prudence    |Dwarves/Kobolds/Spirits of the Earth         |
+|Red        |Judgment         |Strength      |Justice     |Angels/Demons/Spirits of Fire                |
+|Green      |Illusion         |Wits          |Hope        |Elves/Fairies/Trickster Spirits              |
+|Purple     |Mysticism        |Knowledge     |Temperance  |Ghosts/Ancestors/Wind Spirits                |
+|Yellow     |Sacred           |Will          |Charity     |Valkyrie/Lung/Spirits of the Sun             |
 
 ## Transfiguration
 
@@ -394,24 +394,24 @@ Bart the Barbarian
 
 All weapon packages cost 1 gold piece
 
-|WEAPON|DAMAGE|NOTES|TYPE|
-|:---|:---|:---|:---|
-|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|Blunt/Slashing|
-|Spears & Shield|1d6|Thrown, Defensive, Brace|Piercing|
-|Rapier & Buckler|1d6|Parry, Defensive, Nimble|Slashing|
-|Twin Blades|1d6|Parry, Onslaught, Nimble|Slashing|
-|Small Daggers|1d6|Thrown, Conceal, Nimble|Piercing|
-|Hatchets & Hammers|1d6|Onslaught, Thrown|Slashing|
-|Claymore/Greataxe|2d6|Juggernaut|Slashing|
-|Polearm/Pike|2d6|Brace, Reach|Piercing/Slashing|
-|Maul/Warhammer|1d6 + 3|Overwhelming|Blunt|
-|Crossbow|1d6 + 3|Fired|Piercing|
-|Composite Bow|2d6|Fired|Piercing|
-|Sling & Bullets|1d6|Fired, Conceal|Blunt|
+|WEAPON                     |DAMAGE        |NOTES                       |TYPE               |
+|:---                       |:---          |:---                        |:---               |
+|Sword/Mace/Axe & Shield    |1d6           |Shield Charge, Defensive    |Blunt/Slashing     |
+|Spears & Shield            |1d6           |Thrown, Defensive, Brace    |Piercing           |
+|Rapier & Buckler           |1d6           |Parry, Defensive, Nimble    |Slashing           |
+|Twin Blades                |1d6           |Parry, Onslaught, Nimble    |Slashing           |
+|Small Daggers              |1d6           |Thrown, Conceal, Nimble     |Piercing           |
+|Hatchets & Hammers         |1d6           |Onslaught, Thrown           |Slashing           |
+|Claymore/Greataxe          |2d6           |Juggernaut                  |Slashing           |
+|Polearm/Pike               |2d6           |Brace, Reach                |Piercing/Slashing  |
+|Maul/Warhammer             |1d6 + 3       |Overwhelming                |Blunt              |
+|Crossbow                   |1d6 + 3       |Fired                       |Piercing           |
+|Composite Bow              |2d6           |Fired                       |Piercing           |
+|Sling & Bullets            |1d6           |Fired, Conceal              |Blunt              |
 
 - **Blunt** weapons deal double damage to fragile creatures (kitsune, skeletons, elves, etc)
 - **Slashing** weapons deal double damage to amorphous creatures (oozes, dwarves, ghosts etc)
-- **Piercing** weapons deal half damage to amorphous creatures (oozes, dwarves, ghosts etc) and ignore the creatures property 'soak' (gargoyles, giants, dragons, etc)
+- **Piercing** weapons deal double damage to unyielding creatures (gargoyles, giants, dragons, etc)
 
 ### Keywords
 
@@ -432,77 +432,76 @@ All weapon packages cost 1 gold piece
 
 Spell Books cost 1 gold coin, subject to availability.
 
-|FOCUS|NOTES|
-|:---|:---|
-|Tome of Transfiguration|Transfiguration spell books are always scribed on uterine or kitsune vellum|
-|Tome of Conjuration|Conjuration spell books are made from a series of engraved stone tables bound together with brass rings|
-|[Athame of Judgment](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIVMIs8I6o_vsHIZW5rVo0CXssGUBIuzuOUX40t39J1XksecvS)|Spells of judgment use an Athame, or ceremonial blade, as a spellcasting focus|
-|Tome of Illusion|Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish|
-|[Osteo Mysticism](https://skullappreciationsociety.com/wp-content/uploads/2012/07/Tibetan-Skull-Art.jpg)|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
-|Sacred Rosary & Prayer book|Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook|
+|FOCUS                          |NOTES                                                                                                                                          |
+|:---                           |:---                                                                                                                                           |
+|Tome of Transfiguration        |Transfiguration spell books are always scribed on uterine or kitsune vellum                                                                    |
+|Tome of Conjuration            |Conjuration spell books are made from a series of engraved stone tables bound together with brass rings                                        |
+|Athame of Judgment             |Spells of judgment use an Athame, or ceremonial blade, as a spellcasting focus                                                                 |
+|Tome of Illusion               |Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish                             |
+|Osteo Mysticism                |The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power  |
+|Sacred Rosary & Prayer book    |Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook                    |
 
 Scarcity: Spells which are uncommon or taboo are harder to obtain. Spells, unless stated otherwise are assumed to be common and clean. Spells with these traits have the following change to be found in any given city (chances are independent probabilities).
 
-|Scarcity|Acceptability|Chance|
-|:---|:---|:---|
-|Common|Clean|100%|
-|Sporadic|Sorid|50%|
-|Rare|Profane|25%|
-|Unique|Diabolical|5%|
+|Scarcity       |Acceptability      |Chance     |
+|:---           |:---               |:---       |
+|Common         |Clean              |100%       |
+|Sporadic       |Sorid              |50%        |
+|Rare           |Profane            |25%        |
+|Unique         |Diabolical         |5%         |
 
 ## Generic Items
 
 Each item pack counts as 1 for encumbrance and costs 40 silver pieces (sp)
 
-|ITEM|INCLUDES|
-|:---|:---|
-|Spelunking tools|Hammer, Piton (5), Rope (50 feet), Torch (5), etc|
-|Missionary Kit|Candle (10), Chalk, Flask of Lamp Oil, Holy symbol, Holy water (flask), Lantern, etc|
-|Burglar's bag|Crowbar, Grappling hook, Pole (10-foot), Rope (50 feet), Thieves' Tools (5), etc|
-|Bounty Hunters Satchel|Chain (10 feet), Chest, Lock, Manacles, Spyglass, etc|
-|Laborer's Bag|Crowbar, Shovel, Rope (50 feet), Torch (5), Work Tools, etc|
-|Scholars Wrap|Book, Glass bottle, Chalk, Ink & Quill, Magnifying glass, Vial (10), etc|
-|DIY magic kit|Ball bearings, Bell, Lock, Steel Mirror, String (100 feet), Thieves' Tools (5), etc|
-|Trappers Pack|Hammer, Large Sack, Pole (10-foot), String (100 feet), Spikes (10), etc|
+|ITEM                       |INCLUDES                                                                                  |
+|:---                       |:---                                                                                      |
+|Spelunking tools           |Hammer, Piton (5), Rope (50 feet), Torch (5), etc                                         |
+|Missionary Kit             |Candle (10), Chalk, Flask of Lamp Oil, Holy symbol, Holy water (flask), Lantern, etc      |
+|Burglar's bag              |Crowbar, Grappling hook, Pole (10-foot), Rope (50 feet), Thieves' Tools (5), etc          |
+|Bounty Hunters Satchel     |Chain (10 feet), Chest, Lock, Manacles, Spyglass, etc                                     |
+|Laborer's Bag              |Crowbar, Shovel, Rope (50 feet), Torch (5), Work Tools, etc                               |
+|Scholars Wrap              |Book, Glass bottle, Chalk, Ink & Quill, Magnifying glass, Vial (10), etc                  |
+|DIY magic kit              |Ball bearings, Bell, Lock, Steel Mirror, String (100 feet), Thieves' Tools (5), etc       |
+|Trappers Pack              |Hammer, Large Sack, Pole (10-foot), String (100 feet), Spikes (10), etc                   |
 
 
 Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless otherwise stated
 
 > You can purchase individual items, but I wouldn't recommend it.
 
-|ITEM|NOTES|
-|:---|:---|
-|Bottle, glass|-|
-|Candle (10)|-|
-|Chalk|-|
-|Chest|-|
-|Crowbar|-|
-|Fishing tackle|-|
-|Flask of Burning Oil|5 seconds|
-|Flask of Lamp Oil|5 hours|
-|Grappling hook|-|
-|Hammer|-|
-|Holy symbol|25sp|
-|Holy water (flask)|25sp|
-|Ink & Quill|-|
-|Lantern|Uses lamp oil|
-|Large Sack|-|
-|Lock|-|
-|Magnifying glass|70 sp|
-|Manacles|-|
-|Mirror, steel|-|
-|Pole (10-foot)|-|
-|Rope, hempen (50 feet)|-|
-|Shovel|-|
-|Spikes, iron (10)|-|
-|Spyglass|2 gp|
-|String (100 feet)|-|
-|Thieves' Tools (5)|Failed checks destroy 1 tool|
-|Torch (5)|5 hours|
-|Vial (10)|-|
-|Waterskin|-|
-|Work Tools|-|
-
+|ITEM                       |NOTES                          |
+|:---                       |:---                           |
+|Bottle, glass              |-                              |
+|Candle (10)                |-                              |
+|Chalk                      |-                              |
+|Chest                      |-                              |
+|Crowbar                    |-                              |
+|Fishing tackle             |-                              |
+|Flask of Burning Oil       |5 seconds                      |
+|Flask of Lamp Oil          |5 hours                        |
+|Grappling hook             |-                              |
+|Hammer                     |-                              |
+|Holy symbol                |25sp                           |
+|Holy water (flask)         |25sp                           |
+|Ink & Quill                |-                              |
+|Lantern                    |Uses lamp oil                  |
+|Large Sack                 |-                              |
+|Lock                       |-                              |
+|Magnifying glass           |70 sp                          |
+|Manacles                   |-                              |
+|Mirror, steel              |-                              |
+|Pole (10-foot)             |-                              |
+|Rope, hempen (50 feet)     |-                              |
+|Shovel                     |-                              |
+|Spikes, iron (10)          |-                              |
+|Spyglass                   |2 gp                           |
+|String (100 feet)          |-                              |
+|Thieves' Tools (5)         |Failed checks destroy 1 tool   |
+|Torch (5)                  |5 hours                        |
+|Vial (10)                  |-                              |
+|Waterskin                  |-                              |
+|Work Tools                 |-                              |
 
 
 # Spells to sort and make
