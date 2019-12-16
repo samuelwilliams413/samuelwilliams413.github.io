@@ -396,6 +396,32 @@ Bart the Barbarian
 - Conduit A sorcerer may use another person or thing as a relay for spells. The sorcerer's conduit sigil must be placed on the conduit. As long as the sigil remains, the sorcerer may meditate and perceive the surroundings of the sigil.
 - [ Comprehend Language ]  D: [dice] hrs R: self You understand, speak, read, & write one language perfectly for the duration. You must have an example of the language present (e.g. a written sample or a speaker).
 
+- Belief: basically suggestion, but with the added bonus of convincing yourself (i.e. don't be afraid)
+- Alchemy: Change one type of metal into another (brass, steel, lead, sodium?, alluminium, gallium)
+- Sticks to snakes
+- Enlarge on a diamond
+- Light rain
+- Cool glass of water
+- Summon towel
+- STEP ASIDE: move 5ft to the left or right (relative to you)
+- Yolo: bonus health until damaged
+- Don/Doff
+- Potato gun
+- tug of war (opposed strength, loser is moved)
+- Self portait, can speak, see, and hear (lock dice, 1 damage if destroyed)
+- corpse bomb
+- duplicate illusion that either a) runs away b) stays in the same place (JUKE)
+- ward of healing/font
+- become animal (from a finite list)
+- a bunch of spells that explode catherine
+- Curse of Keeping
+- line in the sand
+- detect faithful
+- darkness rune
+- light rune
+- arcane pocket
+- animate rope
+
 # Equipment
 
 ## Weapons & Armor
