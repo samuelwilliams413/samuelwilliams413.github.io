@@ -1,7 +1,12 @@
 <img src="https://pbs.twimg.com/profile_images/800865824579862532/nttFgD39_400x400.jpg" alt="Digi"
 	title="Digi"/>
 
-# 2019/11/9-13
+# 2019/12/16-20
+
+- [ ] DAL-2331 - Add default SureLink/active-recovery options for cellular modem and WAN
+- [ ] DAL-2332 - Rename "Active Recovery" to "SureLink"
+
+# 2019/12/9-13
 
 - [x] Recover TX54
 - [x] Stop the thing were we have lots of untested tests
@@ -12,7 +17,7 @@
 	- [x] pingtest
 
 
-# 2019/11/2-6
+# 2019/12/2-6
 
 - [x] Release, candidate, and developer testing
 - [x] Test chris nesbit PR
