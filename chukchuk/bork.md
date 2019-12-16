@@ -519,7 +519,6 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 - Spectacle: A clearly unreal but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.
 - Summon Cube: Once per second, (6 times per round) you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes.
 - Visual Illusion: A silent, immobile, illusion of your choice appears, up to the size of a bedroom.
-
 - [ Bone Fists ]   D: [dice] minutes R: self Struts of bone burst from your fists - for the spell's duration, you can punch for d6 damage (d8 if 3 dice are invested, and d10 if 5 are invested). You can lock the dice to make the spell permanent.
 - [ Decollate ]  D: [dice] days    R: touch The target can safely remove their own head. They can still see through their own eyes, & can move their body around as usual. If you spend at least 4 dice on this spell, you can lock them to make the spell permanent.
 - [ Polymorph ]    D: [dice] minutes R: touch Target is transformed into another type of creature. They can save if they wish. The polymorph form must be of a type you've seen before.
@@ -539,7 +538,6 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 - Read Mind/Object Range: touch; Target: creature or object; Duration: instant You can ask (dice) short questions about the target creature's current mental state or the target object's history, and the GM will answer truthfully, if cryptically. Creatures get saves against future casts at equal or lesser (sum)s after the first time you read their mind.
 - Conduit A sorcerer may use another person or thing as a relay for spells. The sorcerer's conduit sigil must be placed on the conduit. As long as the sigil remains, the sorcerer may meditate and perceive the surroundings of the sigil.
 - [ Comprehend Language ]  D: [dice] hrs R: self You understand, speak, read, & write one language perfectly for the duration. You must have an example of the language present (e.g. a written sample or a speaker).
-
 - Belief: basically suggestion, but with the added bonus of convincing yourself (i.e. don't be afraid)
 - Alchemy: Change one type of metal into another (brass, steel, lead, sodium?, alluminium, gallium)
 - Sticks to snakes
