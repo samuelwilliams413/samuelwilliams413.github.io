@@ -15,31 +15,51 @@ The process for character creation is as follows:
 
 ## Generate your stats
 
-There are 6 stats:
+**There are 6 stats:**
 
-- **Strength**: Used for melee and thrown weapon attacks. You may carry in total 4 items plus their strength.
-- **Agility**: Used for nible melee and ranged weapon attacks.
-- **Hardiness**: Your starting health is 6 + your hardiness.
-- **Wits**: Used to percieve, deduce, and react.
-- **Knowledge**: For each point of Knowledge you can either speak or read/write a language.
-- **Will**: Used to resist magical effects.
+|    |STAT                       |Notes                                      |
+|:-  |:-                         |:-                                         |
+|STRN|Strength                   |Melee & thrown weapons. Carry = 4 + STRN.  |
+|AGIL|Agility                    |Nimble & ranged weapons.                   |
+|HARD|Hardiness                  |HP = 6 + your hardiness.                   |
+|WILL|Will                       |Used to resist magical effects.            |
 
 Either:
 
-1. Roll 6d6 in order, swapping a single pair of results
-2. Assign [1,2,3,3,4,5] to your stats
+1. Roll 4d6 in order, swapping a single pair of results
+2. Assign [2,3,3,4] to your stats
 
+**There are 14 skills:**
 
-Don't forget
+|    |Skill                      |Notes                             |
+|:-  |:-                         |:-                                |
+|ACRO|Acrobatics                 |                                  |
+|ATHL|Athletics                  |                                  |
+|CRFT|Crafting & Surivial        |Language: Runic                   |
+|DECP|Deception                  |                                  |
+|DIPL|Diplomacy                  |                                  |
+|ITMD|Intimidation               |                                  |
+|MALF|Malfeasance                |Language: Vulgate                 |
+|MEDI|Medicine                   |                                  |
+|LORE|Knowledge (Lore)           |                                  |
+|MAGI|Knowledge (Magical)        |Language: Arcane                  |
+|NATU|Knowledge (Nature)         |Language: Sylvan                  |
+|OCLT|Knowledge (Occultism)      |Language: Helios                  |
+|SOCI|Knowledge (Society)        |                                  |
+|STLH|Stealth                    |Roll with adv. if you go slow     |
 
-- Your starting health is 6 + your hardiness.
-- For each point of Knowledge you can either speak or read/write a language.
+Either:
+
+1. Roll 14d6 in order, swapping a three pairs of results
+2. If a skill has an associated language:
+    - If you have more than 2 in the skill you can either read **or** write in the language
+    - If you have more than 4 in the skill you can read **and** write in the language
 
 **Languages**
 
 The following languages exist:
 
-- **Common**: common is the lingua franca, spoken by not only humans, but also dwarves, kitsune, valkyrie, and ghosts
+- **Common**: common is the lingua franca, spoken by not only humans, but also dwarves, kitsune, valkyrie, and ghosts. All characters start speaking, reading, and writing common.
 - **Arcane**: technically a dead language, arcane is used in magical treatise and academic documents. Arcane uses a modified helios script
 - **Runic**: rarely spoken, runic is used dwarves and enchanters for the creation of monuments, records, and magical items. Its clean straight lines and absence of curves make it well suited to chiseling and engraving
 - **Vulgate**: the language of goblins, ogres, and necromancers. The language is guttural and harsh. Many common words in vulgate sounds like obscenities in helios
@@ -89,7 +109,7 @@ In addition they start with:
 - two weapon sets
 - 100 silver pieces (sp)
 
-They may carry in total 4 items plus their strength.
+You may carry in total 4 items plus your strength.
 
 From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn/shealthed without requiring an action.
 
@@ -183,6 +203,7 @@ Bart the Barbarian
     - Range: touch
     - The target levitates off the ground, like a balloon. You can move them up to 10' up or down each round. They can move laterally by pushing against solid surfaces
 1. Nugget:
+    - Sporadic
     - Materials: blob of dead meat (e.g. from a corpse)
     - Casting time: 1 minute
     - The meat forms into a helpful servant, which will obey your commands for the duration. The servant can't wield weapons, but it can manipulate objects. It has [sum] hp and [dice] Strength. On death it turns back into meat. You must lock the dice used.
@@ -221,6 +242,7 @@ Bart the Barbarian
     - Duration: [dice] hours
     - A mundane weapon or suit of armor, of your choice, appears in your hand or in your vicinity. At the end of the duration, it dissolves into nothingness.
 1. Black Tentacles of Henshin
+    - Sorid
     - Duration: [dice] rounds
     - Range: shouting
     - Black tentacles surge from the ground. Affects one 1m square per [dice]. Victims must save vs... STR to escape, with a penalty equal to [dice], and the tentacles deal 1d6 damage to each victim per round.
@@ -243,11 +265,12 @@ Bart the Barbarian
     - Range: touch
     - Name your enemy while touching a piece of ammunition (arrow, sling bullet, etc). When the target is struck by this piece of ammunition, roll damage [dice] additional times. You must lock the dice used.
 1. Blood Pact
- - Magically seal a bargain between the sorcerer and a willing counterparty by awarding temporary control of both souls to a devil. Deviation from the bargain results in demonic malady, and ignoring the covenant completely allows the devil to take permanent possession, which causes death (and eternal torment).
+    - Sorid
+    - Magically seal a bargain between the sorcerer and a willing counterparty by awarding temporary control of both souls to a devil. Deviation from the bargain results in demonic malady, and ignoring the covenant completely allows the devil to take permanent possession, which causes death (and eternal torment).
 1. Infrazel, the Penitent Agony
     - Duration: [dice] rounds
     - Range: shouting
-    - Target experiences wracking pain. They must WIL save each round while afflicted or miss their turn.
+    - Target experiences wracking pain. They must WILL save each round while afflicted or miss their turn.
 1. Zunzel, the Hex Blade
     - Duration: [dice] rounds
     - Touch the weapon and name a creature. The weapon deals [sum] extra damage to that creature for the duration. You can lock the dice used to make the effect permanent.
@@ -257,10 +280,11 @@ Bart the Barbarian
 1. Infnel, Fires of judgment
     - Duration: [dice] rounds
     - Range: Shouting
-    - Target takes [sum] fire damage each time they attack. WIL save each round.
+    - Target takes [sum] fire damage each time they attack. WILL save each round.
 1. Pandoric Rune
     - You write the rune on a surface. When a creature sees the rune, they take [sum] fire damage & the rune is destroyed. You must lock the dice used
 1. Al'Trazel, the Astral Prison
+    - Sporadic
     - Duration: [dice] rounds
     - Range: touch
     - An object is frozen in time and space within an invulnerable crystal shell.
@@ -275,8 +299,9 @@ Bart the Barbarian
     - No sound can be emitted in a 20m radius.
 1. Trigger memory lapse
     - Range: touch
-    - Target forgets everything that happened in the last [dice] rounds. WIL save.
+    - Target forgets everything that happened in the last [dice] rounds. WILL save.
 1. Seduce Water
+    - Sporadic
     - Divested of all equipment and clothing, the sorcerer bathes in a water, such as a river, lake, or pool (but not sea or ocean, as those old gods are wicked beyond measure) and in so doing communes with the spirit of the water. The water spirit will obey basic commands (though sometimes in fickle ways), and thus may be parted, lowered, or otherwise modified. Spirits often have requests of sorcerers.
 1. Create Fog Cloud
     - Duration: [dice] minutes
@@ -289,14 +314,14 @@ Bart the Barbarian
 1. Create Aversion
     - Duration: 1 day
     - Range: shouting
-    - Target WIL saves (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can't be something they're currently holding or touching.
+    - Target WILL saves (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can't be something they're currently holding or touching.
 1. Force Truth
     - Range: touch
     - Target must answer a question you give truthfully, or they take [dice] damage
 1. Hidden Huddle
-  - Duration: [dice] minutes
-  - Range: touch
-  - [dice] creatures are invisible until they move.
+    - Duration: [dice] minutes
+    - Range: touch
+    - [dice] creatures are invisible until they move.
 
 ## Mysticism
 
@@ -307,11 +332,12 @@ Bart the Barbarian
     - Ward a single area up to [sum] square feet in size. If any creature enters the area, you instantly know about it. If you so choose, a loud noise can also emanate when the alarm is triggered, heard up to [dice] x 100m from the area. You can designate up to [dice] creatures who will not set off the alarm. You are automatically excluded.
 2. Behest
     - Range: shouting
-    - Target WIL saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
+    - Target WILL saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
 3. Widdershins
     - Duration: [dice] hours
     - You draw a circle with radius up to [dice] x 1m on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
 4. Ossein
+    - Profane & Rare
     - Target corpse returns to life as a skeleton with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Skeletons can wield weapons.
 5. Beseech
     - Casting Time: 1 minute
@@ -324,9 +350,10 @@ Bart the Barbarian
 7. Dream
     - Send a dream to any creature you have seen before & can name or clearly visualize (& which is capable of dreaming). The dream lasts up to [sum] minutes.
 1. Defacement
-  - Duration: [sum] days
-  - Range: shouting
-  - Your finger shoots a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
+    - Sorid
+    - Duration: [sum] days
+    - Range: shouting
+    - Your finger shoots a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
 
 ## Sacred
 
@@ -357,13 +384,131 @@ Bart the Barbarian
     - Range: shouting
     - Affects up to [dice] creatures in your vicinity. Strong emotions (such as fear, hatred, excitement) are reduced to mildness and relaxation. Creatures may save to resist if they wish (with a penalty equal to [dice])
 1. Summon Idol
-  - Range: Touch
-  - A carved stone statue the size of a fridge rises from the ground. Gods may take offense at the irreverence treatment of their image.
+    - Sporadic
+    - Range: Touch
+    - A carved stone statue the size of a fridge rises from the ground. Gods may take offense at the irreverence treatment of their image.
 
-#### Spells to sort and make
+# Equipment
+
+## Weapons & Armor
+
+All weapon packages cost 1 gold piece
+
+|WEAPON|DAMAGE|NOTES|TYPE|
+|:---|:---|:---|:---|
+|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|Blunt/Slashing|
+|Spears & Shield|1d6|Thrown, Defensive, Brace|Piercing|
+|Rapier & Buckler|1d6|Parry, Defensive, Nimble|Slashing|
+|Twin Blades|1d6|Parry, Onslaught, Nimble|Slashing|
+|Small Daggers|1d6|Thrown, Conceal, Nimble|Piercing|
+|Hatchets & Hammers|1d6|Onslaught, Thrown|Slashing|
+|Claymore/Greataxe|2d6|Juggernaut|Slashing|
+|Polearm/Pike|2d6|Brace, Reach|Piercing/Slashing|
+|Maul/Warhammer|1d6 + 3|Overwhelming|Blunt|
+|Crossbow|1d6 + 3|Fired|Piercing|
+|Composite Bow|2d6|Fired|Piercing|
+|Sling & Bullets|1d6|Fired, Conceal|Blunt|
+
+- **Blunt** weapons deal double damage to fragile creatures (kitsune, skeletons, elves, etc)
+- **Slashing** weapons deal double damage to amorphous creatures (oozes, dwarves, ghosts etc)
+- **Piercing** weapons deal half damage to amorphous creatures (oozes, dwarves, ghosts etc) and ignore the creatures property 'soak' (gargoyles, giants, dragons, etc)
+
+### Keywords
+
+- **Thrown**: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
+- **Fired**: The weapon may be fired at an enemy. You must roll to hit with agility. Enemies have advantage to hit you with melee attacks while you wield this weapon.
+- **Brace**: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
+- **Reach**: If your brace attack misses or kills an enemy it does not use a reaction.
+- **Defensive**: Ignore attacks that deal 2 damage or less.
+- **Parry**: If an enemy's attack against you deals no damage, you may counter attack with disadvantage as a reaction.
+- **Nimble**: You may roll to hit with strength or agility.
+- **Overwhelming**: Roll twice for damage
+- **Shield Charge**: Ignore brace. You have advantage to hit when you move at least 5m.
+- **Juggernaut**: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
+- **Onslaught**: You may attack twice as part of a single action
+- **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you.
+
+## Spell Books
+
+Spell Books cost 1 gold coin, subject to availability.
+
+|FOCUS|NOTES|
+|:---|:---|
+|Tome of Transfiguration|Transfiguration spell books are always scribed on uterine or kitsune vellum|
+|Tome of Conjuration|Conjuration spell books are made from a series of engraved stone tables bound together with brass rings|
+|[Athame of Judgment](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIVMIs8I6o_vsHIZW5rVo0CXssGUBIuzuOUX40t39J1XksecvS)|Spells of judgment use an Athame, or ceremonial blade, as a spellcasting focus|
+|Tome of Illusion|Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish|
+|[Osteo Mysticism](https://skullappreciationsociety.com/wp-content/uploads/2012/07/Tibetan-Skull-Art.jpg)|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
+|Sacred Rosary & Prayer book|Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook|
+
+Scarcity: Spells which are uncommon or taboo are harder to obtain. Spells, unless stated otherwise are assumed to be common and clean. Spells with these traits have the following change to be found in any given city (chances are independent probabilities).
+
+|Scarcity|Acceptability|Chance|
+|:---|:---|:---|
+|Common|Clean|100%|
+|Sporadic|Sorid|50%|
+|Rare|Profane|25%|
+|Unique|Diabolical|5%|
+
+## Generic Items
+
+Each item pack counts as 1 for encumbrance and costs 40 silver pieces (sp)
+
+|ITEM|INCLUDES|
+|:---|:---|
+|Spelunking tools|Hammer, Piton (5), Rope (50 feet), Torch (5), etc|
+|Missionary Kit|Candle (10), Chalk, Flask of Lamp Oil, Holy symbol, Holy water (flask), Lantern, etc|
+|Burglar's bag|Crowbar, Grappling hook, Pole (10-foot), Rope (50 feet), Thieves' Tools (5), etc|
+|Bounty Hunters Satchel|Chain (10 feet), Chest, Lock, Manacles, Spyglass, etc|
+|Laborer's Bag|Crowbar, Shovel, Rope (50 feet), Torch (5), Work Tools, etc|
+|Scholars Wrap|Book, Glass bottle, Chalk, Ink & Quill, Magnifying glass, Vial (10), etc|
+|DIY magic kit|Ball bearings, Bell, Lock, Steel Mirror, String (100 feet), Thieves' Tools (5), etc|
+|Trappers Pack|Hammer, Large Sack, Pole (10-foot), String (100 feet), Spikes (10), etc|
+
+
+Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless otherwise stated
+
+> You can purchase individual items, but I wouldn't recommend it.
+
+|ITEM|NOTES|
+|:---|:---|
+|Bottle, glass|-|
+|Candle (10)|-|
+|Chalk|-|
+|Chest|-|
+|Crowbar|-|
+|Fishing tackle|-|
+|Flask of Burning Oil|5 seconds|
+|Flask of Lamp Oil|5 hours|
+|Grappling hook|-|
+|Hammer|-|
+|Holy symbol|25sp|
+|Holy water (flask)|25sp|
+|Ink & Quill|-|
+|Lantern|Uses lamp oil|
+|Large Sack|-|
+|Lock|-|
+|Magnifying glass|70 sp|
+|Manacles|-|
+|Mirror, steel|-|
+|Pole (10-foot)|-|
+|Rope, hempen (50 feet)|-|
+|Shovel|-|
+|Spikes, iron (10)|-|
+|Spyglass|2 gp|
+|String (100 feet)|-|
+|Thieves' Tools (5)|Failed checks destroy 1 tool|
+|Torch (5)|5 hours|
+|Vial (10)|-|
+|Waterskin|-|
+|Work Tools|-|
+
+
+
+# Spells to sort and make
 
 - Anthropomorphize: A touched animal either gains human intelligence
-- Catherine: A woman wearing a blue dress appears until end of spell. She will obey polite, safe requests.
+- Alice: A woman wearing a blue dress appears until end of spell. She will obey polite, safe requests.
 - Gate: A portal to a random plane opens. **Very very dangerous**
 - Invisible Tether: Two objects within 10ft of each other cannot be moved more than 10ft apart.
 - Manse: A sturdy, furnished cottage appears for L×12 hours.
@@ -421,109 +566,3 @@ Bart the Barbarian
 - light rune
 - arcane pocket
 - animate rope
-
-# Equipment
-
-## Weapons & Armor
-
-All weapon packages cost 1 gold piece
-
-|WEAPON|DAMAGE|NOTES|TYPE|
-|:---|:---|:---|:---|
-|Sword/Mace/Axe & Shield|1d6|Shield Charge, Defensive|Blunt/Slashing|
-|Spears & Shield|1d6|Thrown, Defensive, Brace|Piercing|
-|Rapier & Buckler|1d6|Parry, Defensive, Nimble|Slashing|
-|Twin Blades|1d6|Parry, Onslaught, Nimble|Slashing|
-|Small Daggers|1d6|Thrown, Conceal, Nimble|Piercing|
-|Hatchets & Hammers|1d6|Onslaught, Thrown|Slashing|
-|Claymore/Greataxe|2d6|Juggernaut|Slashing|
-|Polearm/Pike|2d6|Brace, Reach|Piercing/Slashing|
-|Maul/Warhammer|1d6 + 3|Overwhelming|Blunt|
-|Crossbow|1d6 + 3|Fired|Piercing|
-|Composite Bow|2d6|Fired|Piercing|
-|Sling & Bullets|1d6|Fired, Conceal|Blunt|
-
-- **Blunt** weapons deal double damage to fragile creatures (kitsune, skeletons, elves, etc)
-- **Slashing** weapons deal double damage to amorphous creatures (oozes, dwarves, ghosts etc)
-- **Piercing** weapons deal half damage to amorphous creatures (oozes, dwarves, ghosts etc) and ignore the creatures property 'soak' (gargoyles, giants, dragons, etc)
-
-### Keywords
-
-- **Thrown**: The weapon may be thrown at a nearby enemy. You may roll to hit with strength or agility.
-- **Fired**: The weapon may be fired at an enemy. You must roll to hit with agility. Enemies have advantage to hit you with melee attacks while you wield this weapon.
-- **Brace**: The first time an enemy enters your attack range you may make an attack with advantage against them as a reaction.
-- **Reach**: If your brace attack misses or kills an enemy it does not use a reaction.
-- **Defensive**: Ignore attacks that deal 2 damage or less.
-- **Parry**: If an enemy's attack against you deals no damage, you may counter attack with disadvantage as a reaction.
-- **Nimble**: You may roll to hit with strength or agility.
-- **Overwhelming**: Roll twice for damage
-- **Shield Charge**: Ignore brace. You have advantage to hit when you move at least 5m.
-- **Juggernaut**: Either a) you have advantage to hit with this weapon or b) your target must move one step back every time you attack
-- **Onslaught**: You may attack twice as part of a single action
-- **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you.
-
-## Spell Books
-
-Spell Books cost 1 gold coin, subject to availability.
-
-|FOCUS|NOTES|
-|:---|:---|
-|Tome of Transfiguration|Transfiguration spell books are always scribed on uterine or kitsune vellum|
-|Tome of Conjuration|Conjuration spell books are made from a series of engraved stone tables bound together with brass rings|
-|[Athame of Judgment](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIVMIs8I6o_vsHIZW5rVo0CXssGUBIuzuOUX40t39J1XksecvS)|Spells of judgment use an Athame, or ceremonial blade, as a spellcasting focus|
-|Tome of Illusion|Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish|
-|[Osteo Mysticism](https://skullappreciationsociety.com/wp-content/uploads/2012/07/Tibetan-Skull-Art.jpg)|The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power|
-|Sacred Rosary & Prayer book|Sacred spells are prayers and chants and use large prayer beads as an implement in addition to a small onehanded prayerbook|
-
-## Generic Items
-
-Each item pack counts as 1 for encumbrance and costs 40 silver pieces (sp)
-
-|ITEM|INCLUDES|
-|:---|:---|
-|Spelunking tools|Hammer, Piton (5), Rope (50 feet), Torch (5), etc|
-|Missionary Kit|Candle (10), Chalk, Flask of Lamp Oil, Holy symbol, Holy water (flask), Lantern, etc|
-|Burglar's bag|Crowbar, Grappling hook, Pole (10-foot), Rope (50 feet), Thieves' Tools (5), etc|
-|Bounty Hunters Satchel|Chain (10 feet), Chest, Lock, Manacles, Spyglass, etc|
-|Laborer's Bag|Crowbar, Shovel, Rope (50 feet), Torch (5), Work Tools, etc|
-|Scholars Wrap|Book, Glass bottle, Chalk, Ink & Quill, Magnifying glass, Vial (10), etc|
-|DIY magic kit|Ball bearings, Bell, Lock, Steel Mirror, String (100 feet), Thieves' Tools (5), etc|
-|Trappers Pack|Hammer, Large Sack, Pole (10-foot), String (100 feet), Spikes (10), etc|
-
-
-Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless otherwise stated
-
-> You can purchase individual items, but I wouldn't recommend it.
-
-|ITEM|NOTES|
-|:---|:---|
-|Bottle, glass|-|
-|Candle (10)|-|
-|Chalk|-|
-|Chest|-|
-|Crowbar|-|
-|Fishing tackle|-|
-|Flask of Burning Oil|5 seconds|
-|Flask of Lamp Oil|5 hours|
-|Grappling hook|-|
-|Hammer|-|
-|Holy symbol|25sp|
-|Holy water (flask)|25sp|
-|Ink & Quill|-|
-|Lantern|Uses lamp oil|
-|Large Sack|-|
-|Lock|-|
-|Magnifying glass|70 sp|
-|Manacles|-|
-|Mirror, steel|-|
-|Pole (10-foot)|-|
-|Rope, hempen (50 feet)|-|
-|Shovel|-|
-|Spikes, iron (10)|-|
-|Spyglass|2 gp|
-|String (100 feet)|-|
-|Thieves' Tools (5)|Failed checks destroy 1 tool|
-|Torch (5)|5 hours|
-|Vial (10)|-|
-|Waterskin|-|
-|Work Tools|-|
