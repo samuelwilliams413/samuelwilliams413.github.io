@@ -1,52 +1,52 @@
 # Christmas
 
-|Date			|Leave |Doing?								|
-|:-				|:-	   |:-									|
-|Dec - Tu - 17 	|-     |									|
-|Dec - We - 18 	|-     |	Emily goes to noosa				|
-|Dec - Th - 19 	|-     |	Emily goes to noosa				|
-|Dec - Fr - 20 	|L     |	Xmas Noosa, take leave			|
-|Dec - Sa - 21 	|-     |	Xmas Noosa						|
-|Dec - Su - 22 	|-     |	Fowle Breakfast					|
-|Dec - Mo - 23 	|-     |	Hethorn Lunch					|
-|Dec - Tu - 24 	|-     |									|
-|Dec - We - 25 	|L     |	Christmas						|
-|Dec - Th - 26 	|L     |									|
-|Dec - Fr - 27 	|L     |									|
-|Dec - Sa - 28 	|L     |									|
-|Dec - Su - 29 	|L     |									|
-|Dec - Mo - 30 	|L     |									|
-|Dec - Tu - 31 	|L     |									|
-|Jan - We - 1  	|L     |	**JANUARY** 					|
-|Jan - Th - 2  	|L     |									|
-|Jan - Fr - 3  	|L     |									|
-|Jan - Sa - 4  	|L     |									|
-|Jan - Su - 5  	|L     |									|
-|Jan - Mo - 6  	|L     |	Buy Coochie						|
-|Jan - Tu - 7  	|L     |									|
-|Jan - We - 8  	|L     |									|
-|Jan - Th - 9  	|L     |									|
-|Jan - Fr - 10 	|L     |									|
-|Jan - Sa - 11 	|L     |									|
-|Jan - Su - 12 	|L     |									|
-|Jan - Mo - 13 	|L     |									|
-|Jan - Tu - 14 	|L     |									|
-|Jan - We - 15 	|L     |									|
-|Jan - Th - 16 	|-     |	Sam goes back to work			|
-|Jan - Fr - 17 	|-     |									|
-|Jan - Sa - 18 	|-     |	Emily Birthday					|
-|Jan - Su - 19 	|-     |									|
-|Jan - Mo - 20 	|-     |									|
-|Jan - Tu - 21 	|-     |	Em goes back to school			|
-|Jan - We - 22 	|-     |									|
-|Jan - Th - 23 	|-     |									|
-|Jan - Fr - 24 	|-     |									|
-|Jan - Sa - 25 	|-     |									|
-|Jan - Su - 26 	|-     |									|
-|Jan - Mo - 27 	|-     |									|
-|Jan - Tu - 28 	|-     |									|
-|Jan - We - 29 	|-     |									|
-|Jan - Th - 30 	|-     |									|
-|Feb - Fr - 1  	|-     |	**FEBRUARY**					|
-|Feb - Sa - 2  	|-     |									|
-|Feb - Su - 3  	|-     |									|
+|Date        |Work/Leave/Holiday |Doing                                                                                                             |
+|:-          |:-    |:-                                                                                                                             |
+|Tu - 17     |-     |                                                                                                                               |
+|We - 18     |-     |    Emily goes to noosa                                                                                                        |
+|Th - 19     |-     |    Emily goes to noosa                                                                                                        |
+|Fr - 20     |**L** |    Xmas @ Noosa                                                                                                               |
+|Sa - 21     |-     |    Xmas @ Noosa                                                                                                               |
+|Su - 22     |-     |    Breakfast @ McFowle's, Evening church                                                                                      |
+|Mo - 23     |**L** |    Lunch @ Hethorn                                                                                                            |
+|Tu - 24     |**L** |                                                                                                                               |
+|We - 25     |H     |    Christmas @ Laura                                                                                                          |
+|Th - 26     |H     |                                                                                                                               |
+|Fr - 27     |L     |                                                                                                                               |
+|Sa - 28     |L     |                                                                                                                               |
+|Su - 29     |L     |                                                                                                                               |
+|Mo - 30     |L     |                                                                                                                               |
+|Tu - 31     |L     |    New years @ ?                                                                                                              |
+|We - 1      |H     |    **JANUARY**                                                                                                                |
+|Th - 2      |L     |                                                                                                                               |
+|Fr - 3      |L     |                                                                                                                               |
+|Sa - 4      |L     |                                                                                                                               |
+|Su - 5      |L     |                                                                                                                               |
+|Mo - 6      |L     |    Buy Coochie                                                                                                                |
+|Tu - 7      |L     |                                                                                                                               |
+|We - 8      |L     |                                                                                                                               |
+|Th - 9      |L     |                                                                                                                               |
+|Fr - 10     |L     |                                                                                                                               |
+|Sa - 11     |L     |                                                                                                                               |
+|Su - 12     |L     |                                                                                                                               |
+|Mo - 13     |L     |                                                                                                                               |
+|Tu - 14     |L     |                                                                                                                               |
+|We - 15     |L     |                                                                                                                               |
+|Th - 16     |-     |    Sam goes back to work                                                                                                      |
+|Fr - 17     |-     |                                                                                                                               |
+|Sa - 18     |-     |    Emily Birthday                                                                                                             |
+|Su - 19     |-     |                                                                                                                               |
+|Mo - 20     |-     |                                                                                                                               |
+|Tu - 21     |-     |    Em goes back to school                                                                                                     |
+|We - 22     |-     |                                                                                                                               |
+|Th - 23     |-     |    SPDD                                                                                                                       |
+|Fr - 24     |-     |    SPDD                                                                                                                       |
+|Sa - 25     |-     |    Lillian Lease Expires                                                                                                      |
+|Su - 26     |-     |                                                                                                                               |
+|Mo - 27     |H     |    Australia Day                                                                                                              |
+|Tu - 28 - W1|-     |    Kids go back to school                                                                                                     |
+|We - 29 - W1|-     |                                                                                                                               |
+|Th - 30 - W1|-     |                                                                                                                               |
+|Fr - 1  - W1|-     |    **FEBRUARY**                                                                                                               |
+|Sa - 2      |-     |                                                                                                                               |
+|Su - 3      |-     |                                                                                                                               |

@@ -186,18 +186,21 @@ Bart the Barbarian
 1. Bird Dog:
     - Duration: [dice] minutes
     - Range: touch
-    - Target has the sight of a hawk & the scenting ability of a hound for the duration
+    - Target has the sight of a hawk & the scenting ability of a hound for the duration.
+    > The target's eyes turn golden, whiskers burst from their cheeks, and their jaw warps forming a small snout.
 1. Monkey Fish:
     - Duration: [dice] minutes
     - Range: touch
-    - Target can climb like a monkey and swim like a fish.
+    - Target can climb like a monkey and swim like a fish. The target must remove their shoes and gloves to recieve any benefit from this spell.
+    > The target fingers and toes elogate, webbing joins then, forming skin flippers reminicent of batwings. 
 1. Grease:
     - Range: shouting
-    - Vomit a blob of slippery, flammable grease. Enough to cover one 1m square per [dice].
+    - You vomit a blob of slippery, flammable grease. Enough to cover one 1m square per [dice]. The grease is flamable, slipperly, and smells horid.
 1. Ear Send:
     - Duration: [dice] minutes
     - Range: [dice] x 25m
     - Your ear detaches and flies away. You can't see through it but you can still hear through it clearly, and you can telepathically direct it to fly. When the duration expires, the ear teleports back to its proper place on your head.
+    > Transfiguration sorcerers have the best party tricks. 
 1. Gasbag:
     - Duration: [dice] minutes
     - Range: touch
@@ -210,11 +213,17 @@ Bart the Barbarian
 1. Dragon's Breath
     - Duration: [dice] rounds
     - Range: 5m cone
-    - You can breathe fire for the duration. Each breath of fire deals [sum] fire damage. The horribly hot breath deals [dice] fire damage to you each time it is used
+    - You can breathe fire for the duration. Each breath of fire deals [sum] fire damage. The horribly hot breath deals [dice] fire damage to you each time it is used.
 1. Objectify
     - Duration: [dice] minutes
     - You become any inanimate object between the size of a grand piano and an apple.
-
+    > Many witch's curses directed at oneself serve as the basis for popular transfiguration spells.
+1. Polymorph
+    - Duration: [dice] hours
+    - You tansform yourself into an animal. You retain your WILL and skills while in animal form. If you take any damage while polymorphed you transform back into a human. All creatures have POWR 1, FINE 5, HARD 1. Polymorphed creatures have distinctive indigo eyes.
+        - Rabbit: roll stealth with advantage, fast
+        - Frog: amphibious, can climb, small
+        - Owl: flying, night vision, perfect sight
 
 ## Conjuration
 
@@ -237,6 +246,7 @@ Bart the Barbarian
     - Duration: [dice] hours
     - Range: shouting
     - Summon a swarm of wasps (about 50x[sum]) in number). They won't leave the approximate area in which they are summoned, but they ruthlessly harass anything within.
+    > Barbra was a terrible neighbour to annoy
 1. Gates of Babylon
     - Casting time: 1 minute
     - Duration: [dice] hours
@@ -246,14 +256,24 @@ Bart the Barbarian
     - Duration: [dice] rounds
     - Range: shouting
     - Black tentacles surge from the ground. Affects one 1m square per [dice]. Victims must save vs... STR to escape, with a penalty equal to [dice], and the tentacles deal 1d6 damage to each victim per round.
+    > We don't talk about Henshin
 1. Barbra's Call Vermin
     - Casting time: 1 minute
     - Duration: [dice] hours
     - A swarm of [sum] rats or similar vermin are magically called to you from the surrounding area. They will obey simple spoken commands you issue for the spell's duration
+    > Rumour has it that Barbra invented this spell to escape getting out of bed when she wanted a glass of water in the evening
 1. Marvin's Marble Madness
     - Duration: [sum] rounds
     - Your pockets are full of marbles, and will refill every round.
-
+    > Marvin wanted a handful of marbles, this is a close as he got
+1. Summon Comfort
+    - Duration: [dice] hours
+    - You may summon any two of the following items. If they are damage or consumed they disappear.
+        - A cold tankard of beer or water
+        - A hot tea and a scone (with cream and jam)
+        - A blanket or towel
+        - A plate of bacon and eggs, or beef and potatoes; with cultery.
+        - A parasol or umbrella
 
 ## Judgment
 
@@ -288,6 +308,9 @@ Bart the Barbarian
     - Duration: [dice] rounds
     - Range: touch
     - An object is frozen in time and space within an invulnerable crystal shell.
+1. Step Aside
+    - Range: touch
+    - Move a creature either 2 meters to your left or right
 
 ## Illusion
 
@@ -297,16 +320,20 @@ Bart the Barbarian
     - Duration: [dice] minutes
     - Range: Shouting
     - No sound can be emitted in a 20m radius.
+    - Fairies love to mime, and if a sorcerer is getting uppity they'll sometimes just shut them up 
 1. Trigger memory lapse
     - Range: touch
     - Target forgets everything that happened in the last [dice] rounds. WILL save.
+    > Its said that powerful elves walk among man and are forgotten as soon as they leave our sight
 1. Seduce Water
     - Scarcity: Sporadic
     - Divested of all equipment and clothing, the sorcerer bathes in a water, such as a river, lake, or pool (but not sea or ocean, as those old gods are wicked beyond measure) and in so doing communes with the spirit of the water. The water spirit will obey basic commands (though sometimes in fickle ways), and thus may be parted, lowered, or otherwise modified. Spirits often have requests of sorcerers.
+    > The jealousy of river spirits has widowed many ferrymen
 1. Create Fog Cloud
     - Duration: [dice] minutes
     - Range: shouting
     - Summon a cloud of opaque fog with radius [dice]x5m.
+    > Some say that all clouds are made by old spirits of the ocean telling stories to each other
 1. Share Senses
     - Duration: [dice] minutes
     - Range: touch
@@ -322,6 +349,9 @@ Bart the Barbarian
     - Duration: [dice] minutes
     - Range: touch
     - [dice] creatures are invisible until they move.
+1. Juke
+    - Duration: [dice] rounds
+    - Creates an illusionary copy of yourself that behaves as you would and either a) stays in exactly the same spot or b) runs away as quickly as possible. If it is harmed it disappears. 
 
 ## Mysticism
 
@@ -331,17 +361,20 @@ Bart the Barbarian
     - Duration: [dice] hours
     - Ward a single area up to [sum] square feet in size. If any creature enters the area, you instantly know about it. If you so choose, a loud noise can also emanate when the alarm is triggered, heard up to [dice] x 100m from the area. You can designate up to [dice] creatures who will not set off the alarm. You are automatically excluded.
 2. Behest
+    - Scarcity: Sorid
     - Range: shouting
     - Target WILL saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
 3. Widdershins
     - Duration: [dice] hours
     - You draw a circle with radius up to [dice] x 1m on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
+    > Used to bind and protect. Many paranoid sorcerers sleep in a circle to keep everything out and to keep themselves in.
 4. Ossein
     - Scarcity: Profane & Rare
     - Target corpse returns to life as a skeleton with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Skeletons can wield weapons.
 5. Beseech
     - Casting Time: 1 minute
     - Consult the gods to learn whether an action will result in weal or woe. The chance of a meaningful answer is equal to 50% + [sum]%, rolled in secret.
+    > You never know who might answer...
 6. Conduit
     - Casting Time: 1 minute
     - Duration: [dice] hours
@@ -354,6 +387,12 @@ Bart the Barbarian
     - Duration: [sum] days
     - Range: shouting
     - Your finger shoots a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
+1. Sticks to snakes
+    - When you cast this spell lock a die and select a staff or stick that you can touch. Once per turn you may transform the staff into a snake or back. The snake shares your will and hostile intent. If the snake is killed or the staff is destroyed the spell ends.
+    - Snake:
+        - 3 Health, 1 in all stats
+        - The snake may bite a target on a 5+ and its poison deals 1d3 damage each day for 1d6 days. Repeated bites are cumulative
+    > The prefered way for wisemen to get the crowds attention
 
 ## Sacred
 
@@ -363,15 +402,17 @@ Bart the Barbarian
     - Range: touch
     - The target is healed for [sum] points of hit point damage
 1. Dying Hard
-    - Duration: [dice] rounds
+    - Duration: [dice] minutes
     - Range: touch
-    - The target can't be killed by hit point damage while the spell persists - their hp can be reduced to zero, but any blow that would kill them thereafter mysteriously misses or otherwise fails.
+    - The next time you take damage, if the amount of damage is less than [sum] points you take no damage.
+    > A favourite among teenage boys
 1. Holy Smite
     - You indicate an undead/demonic/obviously evil creature you can see to be the target of your holy smite. Until that creature dies, you add +[dice] to all attack and damage rolls against them. You can only smite one creature at a time.
 1. Burning Bright
     - Duration: [dice] days
     - Range: touch
     - A heatless flame is created at the point you touch. It can only be put out by magical means. It illuminates an area of diameter equal to [dice] x 5m. If at least 4 dice are invested, the light has all the properties of natural sunlight.
+    > A daylight lantern effectively protects a sleeping town from vampires, werewolves, and wraiths
 1. Beast Tongue
     - Duration: [dice] hours
     - Range: touch
@@ -379,14 +420,19 @@ Bart the Barbarian
 1. Carry Companion
     - Duration: [dice] hours
     - Range: touch
-    - A target person or animal turns into a stone statue about 6 inches high. Target must be willing.
+    - A target person or animal turns into a stone statue about 6 inches high. Target must be willing
+    > Given to humanity to aid parents with tired children and old dogs
 1. Calm Down
     - Range: shouting
     - Affects up to [dice] creatures in your vicinity. Strong emotions (such as fear, hatred, excitement) are reduced to mildness and relaxation. Creatures may save to resist if they wish (with a penalty equal to [dice])
+    > Given to humanity to aid teachers with excited and unruly children
 1. Summon Idol
     - Scarcity: Sporadic
     - Range: Touch
     - A carved stone statue the size of a fridge rises from the ground. Gods may take offense at the irreverence treatment of their image.
+1. Alice
+    - Duration: [dice] minutes
+    - A blonde woman wearing a blue dress appears until end of spell. She will obey polite, safe requests.
 
 # Equipment
 
@@ -521,7 +567,6 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 - Visual Illusion: A silent, immobile, illusion of your choice appears, up to the size of a bedroom.
 - [ Bone Fists ]   D: [dice] minutes R: self Struts of bone burst from your fists - for the spell's duration, you can punch for d6 damage (d8 if 3 dice are invested, and d10 if 5 are invested). You can lock the dice to make the spell permanent.
 - [ Decollate ]  D: [dice] days    R: touch The target can safely remove their own head. They can still see through their own eyes, & can move their body around as usual. If you spend at least 4 dice on this spell, you can lock them to make the spell permanent.
-- [ Polymorph ]    D: [dice] minutes R: touch Target is transformed into another type of creature. They can save if they wish. The polymorph form must be of a type you've seen before.
 - [ Barrier of Force ] D: [dice] rounds  R: touch A barrier of force surrounds the target. Nothing (except for air) can pass inward through the barrier, though anything can pass outward. The barrier can be attacked; it breaks when [sum] points of damage are dealt to it.
 - [ Blink ]  R: 10' x [dice] You teleport in a straight line to a point you can see. You can't move through solid obstacles.
 - [ Call Object ]    R: 10' x [dice] Summon an object you've touched within the last 10 minutes to your hand. (It must fit in your hand to be eligible.)
@@ -533,28 +578,21 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 - [ Freedom of Movement ] D: [dice] minutes R: touch Target is immune to any effect that restricts movement for the duration, unless the effect has more dice invested than were used in this spell.
 - [ Invisibility ]   D: [dice] minutes R: touch Target is invisible. Unless 4 or more dice are invested, the invisibility ends as soon as the creature attacks.
 - [ Reveal Illusions ] R: 30' Strips away all illusions within 30' of you, unless more [dice] were used in their casting than you invested in this spell.
-- [ Dream ] Send a dream to any creature you have seen before & can name or clearly visualize (& which is capable of dreaming). The dream lasts up to [sum] minutes.
 - [ Eagle Eye ]    D: [dice] minutes Creates a magical floating eye in the sky 200' above you. It follows you around. You can look through it with the clarity of an eagle's vision.
 - Read Mind/Object Range: touch; Target: creature or object; Duration: instant You can ask (dice) short questions about the target creature's current mental state or the target object's history, and the GM will answer truthfully, if cryptically. Creatures get saves against future casts at equal or lesser (sum)s after the first time you read their mind.
-- Conduit A sorcerer may use another person or thing as a relay for spells. The sorcerer's conduit sigil must be placed on the conduit. As long as the sigil remains, the sorcerer may meditate and perceive the surroundings of the sigil.
 - [ Comprehend Language ]  D: [dice] hrs R: self You understand, speak, read, & write one language perfectly for the duration. You must have an example of the language present (e.g. a written sample or a speaker).
 - Belief: basically suggestion, but with the added bonus of convincing yourself (i.e. don't be afraid)
 - Alchemy: Change one type of metal into another (brass, steel, lead, sodium?, alluminium, gallium)
-- Sticks to snakes
 - Enlarge on a diamond
 - Light rain
 - Cool glass of water
 - Summon towel
-- STEP ASIDE: move 5ft to the left or right (relative to you)
-- Yolo: bonus health until damaged
 - Don/Doff
 - Potato gun
 - tug of war (opposed strength, loser is moved)
 - Self portait, can speak, see, and hear (lock dice, 1 damage if destroyed)
 - corpse bomb
-- duplicate illusion that either a) runs away b) stays in the same place (JUKE)
 - ward of healing/font
-- become animal (from a finite list)
 - a bunch of spells that explode catherine
 - Curse of Keeping
 - line in the sand
