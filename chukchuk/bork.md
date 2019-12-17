@@ -392,6 +392,7 @@ Bart the Barbarian
     - Snake:
         - 3 Health, 1 in all stats
         - The snake may bite a target on a 5+ and its poison deals 1d3 damage each day for 1d6 days. Repeated bites are cumulative
+
     > The prefered way for wisemen to get the crowds attention
 
 ## Sacred
@@ -553,7 +554,6 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 # Spells to sort and make
 
 - Anthropomorphize: A touched animal either gains human intelligence
-- Alice: A woman wearing a blue dress appears until end of spell. She will obey polite, safe requests.
 - Gate: A portal to a random plane opens. **Very very dangerous**
 - Invisible Tether: Two objects within 10ft of each other cannot be moved more than 10ft apart.
 - Manse: A sturdy, furnished cottage appears for L×12 hours.
