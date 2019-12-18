@@ -389,11 +389,10 @@ Bart the Barbarian
     - Your finger shoots a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
 1. Sticks to snakes
     - When you cast this spell lock a die and select a staff or stick that you can touch. Once per turn you may transform the staff into a snake or back. The snake shares your will and hostile intent. If the snake is killed or the staff is destroyed the spell ends.
+     > The prefered way for wisemen to get the crowds attention
     - Snake:
         - 3 Health, 1 in all stats
         - The snake may bite a target on a 5+ and its poison deals 1d3 damage each day for 1d6 days. Repeated bites are cumulative
-
-    > The prefered way for wisemen to get the crowds attention
 
 ## Sacred
 
