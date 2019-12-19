@@ -107,13 +107,13 @@ Every character always has with them (this does not contribute to encumbrance):
 
 In addition they start with:
 
-- a single spellbook
+- a single spell codex
 - two weapon sets
 - 100 silver pieces (sp)
 
 You may carry in total 4 items plus your strength.
 
-From your avaliable spellbooks, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn/shealthed without requiring an action.
+From your avaliable spell codices, items, and weapon sets pick two to be 'readied'. Your readied weapons can be drawn/shealthed without requiring an action.
 
 > Note: every 100 coins excluding the first 100 coins counts as 1 item
 >
@@ -156,7 +156,7 @@ Characters should have a list of 5 goals that they are attempting to accomplish.
 Example character goals include:
 
 - Scribing a scroll
-- Obtaining a new spell book or weapon set
+- Obtaining a new spell codex or weapon set
 - Train at apprentice at something
 - Entertain a child or crowd
 - Recovering a certain treasure
@@ -189,7 +189,7 @@ Each round of combat you may:
 
 - Move up to 10m
 - Perform one significant action
-- Draw an avaliable item (specify up to two weapons or spell books that can be drawn quickly)
+- Draw an avaliable item (specify up to two weapons or spell codices that can be drawn quickly)
 - Perform a reaction
 
 Examples of significant actions include:
@@ -527,14 +527,14 @@ All weapon packages cost 1 gold piece
 - **Onslaught**: You may attack twice as part of a single action
 - **Conceal**: This weapon can be hidden and will bypass most security checks. The first weapon you conceal does not encumber you.
 
-## Spell Books
+## Spell Codices
 
-Spell Books cost 1 gold coin, subject to availability.
+Spell codices cost 1 gold coin, subject to availability.
 
 |FOCUS                          |NOTES                                                                                                                                          |
 |:---                           |:---                                                                                                                                           |
-|Tome of Transfiguration        |Transfiguration spell books are always scribed on uterine or kitsune vellum                                                                    |
-|Tome of Conjuration            |Conjuration spell books are made from a series of engraved stone tables bound together with brass rings                                        |
+|Tome of Transfiguration        |Transfiguration spell codices are always scribed on uterine or kitsune vellum                                                                    |
+|Tome of Conjuration            |Conjuration spell codices are made from a series of engraved stone tables bound together with brass rings                                        |
 |Athame of Judgment             |Spells of judgment use an Athame, or ceremonial blade, as a spellcasting focus                                                                 |
 |Tome of Illusion               |Tomes of Illusion are living creatures of moss, leather, and vine. They heal, grow, and require watering or perish                             |
 |Osteo Mysticism                |The school of Mysticism does not use tomes, instead they use 'Osteos' - femurs and skulls are inscribed with sigils and seals that hold power  |
