@@ -182,6 +182,8 @@ Example character goals include:
 - Kill a new creature
 - Gain an affliction/blessing
 - Have some bespoke equipment commissioned
+- Make the guiard captain laugh
+- Find someone willing to buy the weird thing you found
 
 # Combat
 
