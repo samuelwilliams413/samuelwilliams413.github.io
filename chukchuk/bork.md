@@ -1,6 +1,7 @@
 - [MAGIC](#magic)
 - [EQUIPMENT](#equipment)
 - [COMBAT](#combat)
+- [ADVANCEMENT](#advancement)
 
 **Resolution**: When you are asked to roll a check, roll 1d6 and add your stat. If the value is 7 or higher you succeed.
 
@@ -12,6 +13,7 @@ The process for character creation is as follows:
 2. [Determine your magical talents](#determine-your-magical-talents)
 4. [Purchase equipment](#purchase-equipment)
 3. [State your beliefs](#state-your-beliefs)
+3. [Define some goals](#define-your-goals)
 
 ## Generate your stats
 
@@ -129,6 +131,57 @@ From each of the pairs of beliefs select one that represents the views of you ch
 - **Productivism**: privileges human needs notably by supporting the increase of the production or the use of methods that have an uncertain impact on the environment. <br> <br>
 - **Revolutionaries** have a tendency to privilege direct action to reach their goal: replace the current political organization for totally different one.
 - **Reformists** have a tendency to privilege legal action to reach their goal: reform the political organization step by step. <br> <br>
+
+
+## Define Your Goals
+
+[DETAILS FOR ADVANCEMENT AND GOALS](#advancement))
+
+Define 4 or 5 goals for you character. Try a mix or big and small. Long term and short. Discuss with the DM how many advancement points they are worth.
+
+# Advancement
+
+Characters gain advancement points by completing character goals. Advancement points may be spend to:
+
+- Increase a stat (4 points)
+- Increase a skill (2 points)
+- Increase gnosis in a school (3 points)
+
+For each advancement point that you use you must spend a day focused on study and improvement.
+
+## Character Goals
+
+Characters should have a list of 5 goals that they are attempting to accomplish. When the complete a goal a new one should be added. Where appropriate a character may change their goals without completing them. Goals are normally worth a single advancement point. Exceptionally difficult goals may be worth more than one advancement point. 
+
+Example character goals include:
+
+- Scribing a scroll
+- Obtaining a new spell book or weapon set
+- Train at apprentice at something
+- Entertain a child or crowd
+- Recovering a certain treasure
+- Outdo or humiliate a rival
+- Slaying a foe
+- Steal a certain item
+- Winning someone's affections
+- Have a hireling survive an adventure
+- Talk with a new creature
+- Train with an idol and mentor
+- Establishing an outpost
+- Thwart a plan
+- Sell or destroy a certain item
+- Prove someone wrong
+- Eat something exotic
+- Pull off a darling maneuver/attack/plan
+- Doing a good deed
+- Repaying a debt
+- Plan/Throw a celebration/festival
+- Restore a shrine
+- Reconnect with an old friend
+- Be admitted to an organisation
+- Kill a new creature
+- Gain an affliction/blessing
+- Have some bespoke equipment commissioned
 
 # Combat
 
@@ -600,3 +653,6 @@ Each item counts as 1 for encumbrance and costs 10 silver pieces (sp), unless ot
 - light rune
 - arcane pocket
 - animate rope
+
+
+

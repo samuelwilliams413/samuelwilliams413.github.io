@@ -12,6 +12,15 @@
 * Audiobook
 * Throw away shit
 * Chess
+* Paint or Draw
+* Learn something
+	* Music
+	* Auslan
+	* Arabic
+	* Spanish
+	* Guitar
+	* Math
+	* Econ
 * Call someone
   * Gran
   * Mum
