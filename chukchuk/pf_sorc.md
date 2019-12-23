@@ -1,87 +1,92 @@
-Dragonborn Sorcerer
+# Human Red Dragonblood Sorcerer (level 3)
 
-+2 to One Ability Score: Human characters gain a +2 racial bonus to one ability score of their choice at creation to represent their varied nature.
-Bonus Feat: Humans select one extra feat at 1st level.
-Skilled: Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
-Sorcerer: Add one spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast.
-Bonus Spells: mage armor (3rd)
-Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled.
-Claws (Su): Starting at 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks deals 1d4 points of damage plus your Strength modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming DR. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of damage of your energy type on a successful hit. You can use your claws for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive.
-Dragon Resistances (Ex): At 3rd level, you gain resist 5 against your energy type and a +1 natural armor bonus.
+|att|score|bon|
+|:-|:-|:-|
+|Str |10 |+0|
+|Dex |16 |+3|
+|Con |12 |+1|
+|Int |13 |+1|
+|Wis |8  |-1|
+|Cha |16 |+3|
+
+- Fort: +2
+- Ref +4
+- Will: 2
+- Base Atk: +1
+- CMB: +1
+- CMD: 14
+- Init: +7
+- Perception: +5
+
+**Languages**
+
+- Common
+- Nith (or draconic)
+
+**Special**
+
+- Resist fire 5
+- Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled.
+- Feat H: [Spell Focus](https://www.d20pfsrd.com/feats/general-feats/spell-focus) (evocation) > +1 to DCs
+- Feat 1: Improved Initiative > +4 to init
+- Feat 3: [Spell Specialization](https://www.d20pfsrd.com/feats/general-feats/spell-specialization/) (burning hands) > +2 to CL
+- Claws (Su): Starting at 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks deals 1d4 points of damage plus your Strength modifier
+
+## Skills
+
+- Bluff = 9 (3 t + 3 l + 3 a)
+- intimidate = 9 (3 t + 3 l + 3 a)
+- spellcraft = 7 (3 t + 3 l + 1 a)
+- perception = 5 (3 t + 3 l - 1 a)
+
+## Combat
+
+- AC = 18 (10 + 3 dex + 4 mage + 1 nat)
+- HP = 16 (3d6 + 3)
+- Init = +7 (3 dex + 4 improved)
+
+Attacks
+
+- 2 claws +1 (1d4/x2) (6rnds)
+- mwk morning star +2 (1d8/x2)
+- Sling +3 (1d4/x2)
+
+## Magic (CL 3, Conc +1)
+
+- DC = 10 + 3 (CHA) + Spell Level + 1 (if evoc)
+
+**8 x level 0 known**
+
+- [Detect Magic](http://legacy.aonprd.com/coreRulebook/spells/detectMagic.html#detect-magic)
+- [Read Magic](http://legacy.aonprd.com/coreRulebook/spells/readMagic.html#read-magic)
+- [Presdigitation](http://legacy.aonprd.com/coreRulebook/spells/prestidigitation.html#prestidigitation)
+- [Light](http://legacy.aonprd.com/coreRulebook/spells/light.html#light)
+- [Mending](http://legacy.aonprd.com/coreRulebook/spells/mending.html#mending)
+- [Ray of frost +4 (1d3)](http://legacy.aonprd.com/coreRulebook/spells/rayOfFrost.html#ray-of-frost)
+- [Spark](http://legacy.aonprd.com/advancedPlayersGuide/spells/spark.html#spark-)
+- [Disrupt undead +4 (1d6)](http://legacy.aonprd.com/coreRulebook/spells/disruptUndead.html#disrupt-undead)
+
+**3 x level 1 known**
+
+- [burning hands (5d4 + 5) [ref DC 15]](http://legacy.aonprd.com/coreRulebook/spells/burningHands.html#burning-hands)
+- [mage armour](http://legacy.aonprd.com/coreRulebook/spells/mageArmor.html#mage-armor)
+- [magic missle (2 x 1d4 + 1)](http://legacy.aonprd.com/coreRulebook/spells/magicMissile.html#magic-missile)
+- [silent image [wil DC 15]](http://legacy.aonprd.com/coreRulebook/spells/silentImage.html#silent-image)
+
+|Spells|per day|
+|:-|:-|
+|1|6 (5+1)|
+|2|~(0+1)~|
+|3|~(0+1)~|
+
+> Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled.
 
 
-Level	Base Attack Bonus	Fort Save	Ref Save	Will Save
-3rd		+1					+1			+1			+3
-
-
-Fort: 	+2
-Ref: 	+4
-Will: 	+2
-Base Atk +1
-CMB +1
-CMD 14
-Resist: fire 5
-init: +7
-perception  +5
-languages: Common, Nith
-
-
-
-AC = 10 + 3 + 4 + 1 = 18 or 14
-HP = 19
-
-
-+1 1st, 2nd, 3rd level / day
-
-S 10 +0
-D 16 +3
-C 12 +1
-I 13 +1
-W 8  -1
-C 16 +3
-
-6 x 1st / day
-Skill points = 1 + 1 + 2 = Bluff, intimidate, spellcraft, perception
-Bluff 			3 + 3 + 3 = 9
-intimidate 		3 + 3 + 3 = 9
-spellcraft 		3 + 3 + 1 = 7
-perception 		3 + 3 - 1 = 5
-
-
-Level 3
-
-CL 3, Conc +1
-
-
-8 level 0 known
-- Detect Magic
-- Read Magic
-- Presdigitation
-- Light
-- Mending
-- Ray of frost (1d3)
-- Spark
-- Disrupt undead (1d6)
-
-3 level 1 known
-- burning hands (5d4 + 5)
-- mage armour
-- magic missle (2 x 1d4 + 1)
-- silent image
-
-Feat H: Spell Focus (evocation) > +1 to DCs
-Feat 1: Improved Initiative > +4 to init
-Feat 3: Spell Specialization (burning hands) > +2 to CL
-
-2 claws +1 (1d4/x2)
-mwk morning star +2 (1d8/x2)
-Sling +3 (1d4/x2)
-
-Gear
-potion of cure light wounds
-potion of fly
-scrolls of bull's strength (2)
-scroll of fog cloud
-Sling with 20 bullets
-masterwork morning star
-85 gp
+## Gear
+- potion of cure light wounds
+- potion of fly
+- scrolls of bull's strength (2)
+- scroll of fog cloud
+- Sling with 20 bullets
+- masterwork morning star
+- 85 gp
