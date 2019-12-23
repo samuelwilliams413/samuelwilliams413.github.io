@@ -83,10 +83,10 @@ Attacks
 
 
 ## Gear
-- potion of cure light wounds
-- potion of fly
-- scrolls of bull's strength (2)
-- scroll of fog cloud
+- [potion of cure light wounds](http://legacy.aonprd.com/coreRulebook/spells/cureLightWounds.html#cure-light-wounds)
+- [potion of fly](http://legacy.aonprd.com/coreRulebook/spells/fly.html)
+- [scrolls of bull's strength (2)](http://legacy.aonprd.com/coreRulebook/spells/bullSStrength.html#bull-s-strength)
+- [scroll of fog cloud](http://legacy.aonprd.com/coreRulebook/spells/fogCloud.html)
 - Sling with 20 bullets
 - masterwork morning star
 - 85 gp
