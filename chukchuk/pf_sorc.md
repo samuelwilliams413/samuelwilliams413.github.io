@@ -55,7 +55,7 @@ Attacks
 
 - DC = 10 + 3 (CHA) + Spell Level + 1 (if evoc)
 
-**8 x level 0 known**
+**8 x level 0 known (5 + 3 human)**
 
 - [Detect Magic](http://legacy.aonprd.com/coreRulebook/spells/detectMagic.html#detect-magic)
 - [Read Magic](http://legacy.aonprd.com/coreRulebook/spells/readMagic.html#read-magic)
@@ -66,7 +66,7 @@ Attacks
 - [Spark](http://legacy.aonprd.com/advancedPlayersGuide/spells/spark.html#spark-)
 - [Disrupt undead +4 (1d6)](http://legacy.aonprd.com/coreRulebook/spells/disruptUndead.html#disrupt-undead)
 
-**3 x level 1 known**
+**4 x level 1 known (3 + 1 dragon)**
 
 - [burning hands (5d4 + 5) [ref DC 15]](http://legacy.aonprd.com/coreRulebook/spells/burningHands.html#burning-hands)
 - [mage armour](http://legacy.aonprd.com/coreRulebook/spells/mageArmor.html#mage-armor)
