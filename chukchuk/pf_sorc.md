@@ -71,7 +71,7 @@ Attacks
 - [burning hands (5d4 + 5) [ref DC 15]](http://legacy.aonprd.com/coreRulebook/spells/burningHands.html#burning-hands)
 - [mage armour](http://legacy.aonprd.com/coreRulebook/spells/mageArmor.html#mage-armor)
 - [magic missle (2 x 1d4 + 1)](http://legacy.aonprd.com/coreRulebook/spells/magicMissile.html#magic-missile)
-- [silent image [wil DC 15]](http://legacy.aonprd.com/coreRulebook/spells/silentImage.html#silent-image)
+- [silent image [wil DC 14]](http://legacy.aonprd.com/coreRulebook/spells/silentImage.html#silent-image)
 
 |Spells|per day|
 |:-|:-|
