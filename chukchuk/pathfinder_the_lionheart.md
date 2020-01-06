@@ -19,13 +19,15 @@ w 8
 c 17
 
 
+
+
 |Skill|C|Pts|Bonus|
 |:-|:-|:-|:-|
 |Acrobatics||||
-|Appraise|C|||
-|Bluff|C|||
+|Appraise||||
+|Bluff||||
 |Climb||||
-|Craft|C|||
+|Craft||||
 |Diplomacy||||
 |Disable Device||||
 |Disguise||||
@@ -33,8 +35,8 @@ c 17
 |Fly|C|||
 |Handle Animal||||
 |Heal||||
-|Intimidate|C|||
-|Knowledge (arcana)|C|||
+|Intimidate||||
+|Knowledge (arcana)||||
 |Knowledge (dungeoneering)||||
 |Knowledge (engineering)||||
 |Knowledge (geography)	||||
@@ -47,15 +49,16 @@ c 17
 |Linguistics||||
 |Perception||||
 |Perform||||
-|Profession|C|||
+|Profession||||
 |Ride||||
 |Sense Motive||||
 |Sleight of Hand||||
-|Spellcraft|C|||
+|Spellcraft||||
 |Stealth||||
 |Survival||||
 |Swim||||
-|Use Magic Device|C|||
+|Use Magic Device||||
+
 
 
 Skills per level = 2 + 1 + 1 = 4
@@ -84,15 +87,16 @@ Skills per level = 2 + 1 + 1 = 4
 |Ref|+0|
 |Wil|+1|
 |Init|+6|
+|AC|+2|
 
 |Level|Spell|
 |0|[Detect Magic](http://legacy.aonprd.com/coreRulebook/spells/detectMagic.html#detect-magic)|
 |0|[Read Magic](http://legacy.aonprd.com/coreRulebook/spells/readMagic.html#read-magic)|
 |0|[Ray of Frost](http://legacy.aonprd.com/coreRulebook/spells/rayOfFrost.html#ray-of-frost)|
 |0|[Light](http://legacy.aonprd.com/coreRulebook/spells/light.html#light)|
-|0|[Me]()|
-|1|[]()|
-|1|[]()|
+|0|[Mending](http://legacy.aonprd.com/coreRulebook/spells/mending.html#mending)|
+|1|[Burning Hands](http://legacy.aonprd.com/coreRulebook/spells/burningHands.html#burning-hands)|
+|1|[Floating Disk](http://legacy.aonprd.com/coreRulebook/spells/floatingDisk.html#floating-disk)|
 
 |SL|Castings|
 |:-|:-|
