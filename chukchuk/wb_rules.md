@@ -1,6 +1,6 @@
 # House Rules
 
-The system is the whitebox. A link to the rules book can be found [here](https://drive.google.com/open?id=1269DaFe0J2VCMP8O9RRjVl6KFCSdRgdl) (its also in the group chat)
+The system is sword and wizardry (whitebox edition) which is distillation of the first D&D books (LBB). A link to the rules book can be found [here](https://drive.google.com/open?id=1269DaFe0J2VCMP8O9RRjVl6KFCSdRgdl) (its also in the group chat)
 
 - [Misc](#misc)
 - [Skills](#skills)
