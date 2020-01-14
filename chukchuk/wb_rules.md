@@ -48,6 +48,7 @@ Skills are activities not fully encompassed by attributes. Skills are rated at a
 - Humanities
 - Larceny (lockpicking, disable trap, pick pocket)
 - Medicine (first aid, surgery, humanoid biology)
+- Parkour
 - Perception
 - Search (investigation, careful study)
 - Stealth
