@@ -21,7 +21,7 @@ The system is the whitebox. A link to the rules book can be found [here](https:/
     - **Barbarian**: Fighter
     - **Monk**: Get that weeb shit out of here
     - **EK/Battlemage**: Fighter/MU (Runespeaker)
-    - **AT/assassin/spellblade/**: Fighter/MU (Illusionist)
+    - **AT/assassin/spellblade/jedi**: Fighter/MU (Illusionist)
 
 ## Skills
 
