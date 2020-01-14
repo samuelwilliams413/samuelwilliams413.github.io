@@ -17,7 +17,7 @@ The system is the whitebox. A link to the rules book can be found [here](https:/
     - **Ranger**: Fighter/Cleric (green)
     - **Blackguard**: Fighter/Cleric (black)
     - **Barbarian**: Fighter
-    - **Monk**: Get that weeb shit out of her
+    - **Monk**: Get that weeb shit out of here
 
 ## Skills
 
