@@ -23,6 +23,17 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
     - **EK/Battlemage**: Fighter/MU (Wizard or Runespeaker)
     - **AT/assassin/spellblade/jedi**: Fighter/MU (Illusionist)
 
+**Languages**
+
+The following languages exist:
+
+- **Common**: common is the lingua franca, spoken by not only humans, but also dwarves, kitsune, valkyrie, and ghosts. All characters start speaking, reading, and writing common.
+- **Arcane**: technically a dead language, arcane is used in magical treatise and academic documents. Arcane uses a modified helios script
+- **Runic**: rarely spoken, runic is used dwarves and enchanters for the creation of monuments, records, and magical items. Its clean straight lines and absence of curves make it well suited to chiseling and engraving
+- **Vulgate**: the language of goblins, ogres, and necromancers. The language is guttural and harsh. Many common words in vulgate sounds like obscenities in helios
+- **Helios**: spoken by all outsides (angels, demons, and djinn) helios is incredibly precise in its grammar and syntax. Helios script is constructed of intricate circular sigils and seals.
+- **Sylvan**: sylvan is the language of poets, elves, and nature spirits. The sylvan script doubles as a musical notation, giving indications how words can by sung or played on an instrument
+
 ## Skills
 
 > All skills are 6+ by default. Only bother writing down the skills you have improved.
