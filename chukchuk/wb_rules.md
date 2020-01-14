@@ -7,6 +7,8 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
 - [Gods](#gods)
 - [Spell Lists](#spells)
 
+> If you have an idea for a spell, race, class, etc that you think could be neat let me know. Gimmie an idea of what it is, the concept, and how it might work and we'll see if we can work it into the game :)
+
 ## Misc
 
 - **Demihumans**: The starting xp requirements for demihumans is 500xp higher.
