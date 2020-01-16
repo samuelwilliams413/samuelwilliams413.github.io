@@ -238,13 +238,13 @@ This spell creates a thick magical fog in the area. Every creature, except the D
 
 - Duration: 1 round per caster level
 
-For the duration of this spell the magic-user receives a +2 bonus on all “to-hit” rolls when making a missile attack and can be quite stealthy when not engaged in combat or performing other obvious actions (such as casting spells) rendering them almost hard to spot and almost totally silent (3+ on stealth).
+For the duration of this spell the magic-user receives a +2 bonus on all “to-hit” rolls when making a missile attack and can be quite stealthy when not engaged in combat or performing other obvious actions (such as casting spells) rendering them almost hard to spot and almost totally silent (ADV on stealth).
 
 #### Sharpen Senses
 
 - Duration: 6 hours
 
-The target of this spell can detect secret and concealed doors on 4+ simply by passing within 10' of them. If actively searching, the chance of success increases to 2+. They may even attempt to search for traps with a 5+ chance of success, though they are not able todisarm them.
+The target of this spell can detect secret and concealed doors on WIS simply by passing within 10' of them. If actively searching, the chance of success is improved by +5. They may even attempt to search for traps with a +5 chance of success, though they are not able to disarm them.
 
 #### Wall crawling
 
