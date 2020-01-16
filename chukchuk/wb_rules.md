@@ -30,6 +30,26 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
     - a tinderbox
     - two sets of clothes
 
+**quick loadout**
+
+> Cause I'm nice lets assume this weighs 10 lbs
+
+|Item|Cost (25gp)|
+|:-|:-|
+|Backpack|5|
+|Crowbar|5|
+|Hammer|2|
+|Holy Symbol, wooden|2|
+|Mirror (small), steel|5|
+|Pole, 10 ft.|1|
+|Rope (50 ft.), hemp|1|
+|Sack (15 lb. capacity)|1|
+|Spikes (12), Iron|1|
+|Torches (6)|1|
+|Waterskin|1|
+
+
+
 **Languages**
 
 The following languages exist:
@@ -55,7 +75,7 @@ The following roll twice and take the better result for the listed kind of check
 - Humans - Fellowship, a *hobby*, and a *profession*
 - Dwarves - Searching, appraising, mining, and masonry
 - Elves - Listening, seeing, and the arts
-- Halflings - Sneaking, hiding, and cooking
+- Halflings - Sneaking, blending in, and cooking
 
 ## Gods
 
