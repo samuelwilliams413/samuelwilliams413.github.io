@@ -25,10 +25,10 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
     - **EK/Battlemage**: Fighter/MU (Wizard or Runespeaker)
     - **AT/assassin/spellblade/jedi**: Fighter/MU (Illusionist)
 - **Staring equipment**: Every character always has with them (this does not contribute to encumbrance):
-        - camping equipment
-        - a utility knife
-        - a tinderbox
-        - two sets of clothes
+    - camping equipment
+    - a utility knife
+    - a tinderbox
+    - two sets of clothes
 
 **Languages**
 
