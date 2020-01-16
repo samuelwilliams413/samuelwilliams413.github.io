@@ -120,11 +120,11 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
         - Hold portal > [Obscuring fog](#obscuring-fog)
         - Protection from chaos > [Blinding flash](#blinding-flash)
     - Level 2
-        - Detect Chaos > [Halfling's Luck](#halflings-luck])
+        - Detect Chaos > [Halfling's Luck](#halflings-luck)
         - Web > [Wall crawling](#wall-crawling)
 - **Warlock**: Pacts, summoning, and dark powers
     - Level 1
-        - Light > [Bind Familiar (basic)](#bind-familiar-basic))
+        - Light > [Bind Familiar (basic)](#bind-familiar-basic)
         - Sleep > [Summon Servant](#summon-servant)
     - Level 2
         - Phantasmal Force > [Acid Beam](#acid-beam)
