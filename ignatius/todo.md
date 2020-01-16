@@ -12,6 +12,7 @@
     - plants
     - driveway vut
 3. Organise session
+    - Fix up skills
 1. **Make the thank you cards for the wedding**
 4. Reach out
     - Brandon
@@ -20,32 +21,16 @@
     - Connor
     - Tom
 5. Bunnings
-    - Stuff to fix the chopping board:
-        - food safe glue
-        - mineral oil
     - mint + pot
     - coriander + pot
-    - Extra soil (not the shit stuff this time)
 6. Aldi
-    - Tuna
-    - Tomato
-    - Cucumber
-    - Lettuce
-    - Wraps
-    - Sour Cream
-    - Ice Cream
-    - Roasting Pieces
-    - Toilet Cleaner
     - Super Glue
-    - Milk
-7. Chemist
-    - Pore Strips
 7. Officeworks
-    - THANK YOU CARDS
+    - **THANK YOU CARDS**
     - Draughtsmans Clips
-    - More black pens
-    - Water colours
-    - Prints for:
-        - Rankins
-        - Mum
-        - Gran
+1. Get people jobs
+    - Smilie
+    - Bradley
+    - John
+    - Connor
+2. Start disciple group

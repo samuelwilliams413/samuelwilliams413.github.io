@@ -11,7 +11,7 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
 
 ## Misc
 
-- **Demihumans**: The starting xp requirements for demihumans is 500xp higher.
+- **Fighting men improvement**: At each level, including the first fighting men may increase a single ability score by 1.
 - **Dual wielding**: Like a sword and shield, except instead of +1 to AC, the player gains +1 to hit.
 - **Identifying**: Make a Esoterica check. For each day spent researching in a suitable location reroll the check with a cumulative +1.
 - **Multiclassing**: Advance as per the steepest XP progression of all your intended classes. When you gain enough to level select a single of you classes to level.  If you decide to multiclass into a class with a steeper XP progression you must gain XP to the appropriate level before gaining additional levels. The most restrictive feature set is always chosen (e.g. a fighter 2/Cleric 1 may not use edged weapons).
@@ -24,6 +24,11 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
     - **Monk**: Get that weeb shit out of here
     - **EK/Battlemage**: Fighter/MU (Wizard or Runespeaker)
     - **AT/assassin/spellblade/jedi**: Fighter/MU (Illusionist)
+- **Staring equipment**: Every character always has with them (this does not contribute to encumbrance):
+        - camping equipment
+        - a utility knife
+        - a tinderbox
+        - two sets of clothes
 
 **Languages**
 
@@ -38,32 +43,19 @@ The following languages exist:
 
 ## Skills
 
-> All skills are 6+ by default. Only bother writing down the skills you have improved.
-
-Skills are activities not fully encompassed by attributes. Skills are rated at a number. If a player rolls 1d6 equal to or above the number they pass the check. All skills by default start at 6+. Races and classes may improve certain skills.
-
-- Divinities (gods, spirits, cults)
-- Esoterica (magic, magical beasts)
-- Homesteading (animal husbandry, bushcraft, tracking and trapping)
-- Humanities
-- Larceny (lockpicking, disable trap, pick pocket)
-- Medicine (first aid, surgery, humanoid biology)
-- Parkour
-- Perception
-- Search (investigation, careful study)
-- Stealth
-- STEM
-
+To pass a skill check roll under the relevant ability score. All skills by default start at +0. Races and classes may improve certain skills.
 
 **Skill bonuses**
 
-- Fighting Men start with 4+ in Parkour. At every level (starting at level 1) fighting men may improve two of their skills by 1 (e.g. 6+ to 5+).
-- Clerics start with 4+ in Divinities
-- Magic Users start with 4+ in Esoterica
-- Dwarves start with 4+ in Search
-- Elves start with 4+ in Perception
-- Halflings start with 4+ in Sneak
+The following roll twice and take the better result for the listed kind of checks
 
+- Fighting Men - Gross motor skills, feats of strength, jury rigging, spelunking and sneaking
+- Clerics - Cults, religions, extraplanar beings, and undead
+- Magic Users - Magic and unnatural phemonomen and items
+- Humans - Fellowship, a *hobby*, and a *profession*
+- Dwarves - Searching, appraising, mining, and masonry
+- Elves - Listening, seeing, and the arts
+- Halflings - Sneaking, hiding, and cooking
 
 ## Gods
 
@@ -100,54 +92,50 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
     - Favoured Weapon: Bardiche
     - Holy color: Black
 
-> I'll put together the black and green spell lists if anyone asks. The white spell list is the standard cleric list with chaotic spell variants forbidden.
-
 - **Horror Cults**: *Players may not be members of Horror cults. All player characters believe that horror cults are evil and should be annihilated.* Some vile humans worship the 'beings from outside'. These dark gods demand profane sacrifices and blaspheme existence itself. Worshipers often defile animals, children, virgins, and themselves in exchange for power, longevity, and revenge. Horror cults are universally evil, outlawed, and hunted. It is said worshippers of Leviathoth are sympathetic to cultists.
 
 
 ## Spells
 
-**Clerics**
-
 > I've only done level 1 and 2 but all levels will be affected, ask me if there is anything you'd like to know about higher levels
 
-- **White spell list**: Casters of white magic must always choose the lawful variant of a spell
-- **Black spell list**: Casters of black magic must always choose the chaotic variant of a spell
+**Clerics**
+
+- **White spell list**: Casters of white magic **must** always choose the lawful variant of a spell
+- **Black spell list**: Casters of black magic **must** always choose the chaotic variant of a spell
 - **Green spell list**: Casters of green magic swap the following spells from the white spell list
     - Level 1
-        - Cure light wounds > Berries
-        - Detect Chaos > Charm Animal
-        - Protection from chaos > Blinding flash
+        - Cure light wounds > [Berries](#berries)
+        - Detect Chaos > [Charm Animal](#charm-animal)
+        - Protection from chaos > [Blinding flash](#blinding-flash)
     - Level 2
-        - Bless > Animal Messenger
-        - Find Traps > Fog
-        - Hold Person > Warp Wood
+        - Bless > [Animal Messenger](#animal-messenger)
+        - Find Traps > [Fog](#fog)
+        - Hold Person > [Warp Wood](#warp-wood)
 
 **Magic Users**
 
-> I've only done level 1 and 2 but all levels will be affected, ask me if there is anything you'd like to know about higher levels
-
 - **Illusionist**: Sneaking, deception, trickery, and mindcontrol
     - Level 1
-        - Hold portal > Obscuring fog
-        - Protection from chaos > Blinding flash
+        - Hold portal > [Obscuring fog](#obscuring-fog)
+        - Protection from chaos > [Blinding flash](#blinding-flash)
     - Level 2
-        - Detect Chaos > Halfling's Luck
-        - Web > Wall crawling
+        - Detect Chaos > [Halfling's Luck](#halflings-luck])
+        - Web > [Wall crawling](#wall-crawling)
 - **Warlock**: Pacts, summoning, and dark powers
     - Level 1
-        - Light > Bind Familiar (basic)
-        - Sleep > Summon Servant
+        - Light > [Bind Familiar (basic)](#bind-familiar-basic))
+        - Sleep > [Summon Servant](#summon-servant)
     - Level 2
-        - Phantasmal Force > Acid Beam
-        - Knock > Sharpen Senses
+        - Phantasmal Force > [Acid Beam](#acid-beam)
+        - Knock > [Sharpen Senses](#sharpen-senses)
 - **Runespeaker**: Enchantments, transfiguration, and warding
     - Level 1
-        - Charm person > Circle of protection
-        - Light > Summon bound object
+        - Charm person > [Circle of protection](#circle-of-protection)
+        - Light > [Summon bound object](#summon-bound-object)
     - Level 2
-        - Invisibility > Defender's Ward
-        - Light, Continual > Disarm
+        - Invisibility > [Defender's Ward](#defenders-ward)
+        - Light, Continual > [Disarm](#disarm)
 - **Wizard**: Use the default list.
 
 
