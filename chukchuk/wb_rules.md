@@ -1,5 +1,7 @@
 # House Rules
 
+[**BOOK BOOK BOOK BOOK**](https://drive.google.com/open?id=1269DaFe0J2VCMP8O9RRjVl6KFCSdRgdl) (its also in the group chat)
+
 The system is sword and wizardry (whitebox edition) which is distillation of the first D&D books (LBB). A link to the rules book can be found [here](https://drive.google.com/open?id=1269DaFe0J2VCMP8O9RRjVl6KFCSdRgdl) (its also in the group chat)
 
 - [Misc](#misc)
@@ -24,7 +26,7 @@ The system is sword and wizardry (whitebox edition) which is distillation of the
     - **Monk**: Get that weeb shit out of here
     - **EK/Battlemage**: Fighter/MU (Wizard or Runespeaker)
     - **AT/assassin/spellblade/jedi**: Fighter/MU (Illusionist)
-- **Staring equipment**: Every character always has with them (this does not contribute to encumbrance):
+- **Starting equipment**: Every character always has with them (this does not contribute to encumbrance):
     - camping equipment
     - a utility knife
     - a tinderbox
@@ -244,7 +246,7 @@ For the duration of this spell the magic-user receives a +2 bonus on all “to-h
 
 - Duration: 6 hours
 
-The target of this spell can detect secret and concealed doors on WIS simply by passing within 10' of them. If actively searching, the chance of success is improved by +5. They may even attempt to search for traps with a +5 chance of success, though they are not able to disarm them.
+The target of this spell can detect secret and concealed doors on WIS simply by passing within 10' of them. If actively searching, the chance of success is improved by +10. They may even attempt to search for traps with a +5 chance of success, though they are not able to disarm them.
 
 #### Wall crawling
 
