@@ -63,7 +63,7 @@ The following languages exist:
 
 ## Skills
 
-To pass a skill check roll under the relevant ability score. All skills by default start at +0. Races and classes may improve certain skills.
+When you are asked to make a skill check roll 1d20. If the result is **under** the ability score associated with the check (e.g STR = 15), then you pass the check.
 
 **Skill bonuses**
 
