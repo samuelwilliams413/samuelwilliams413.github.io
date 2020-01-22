@@ -73,6 +73,50 @@
 
 
 
+## Gods
+
+In this setting there is a pantheon of 7 gods, and countless hidden cults to the sinister 'beings outside of creation'. The pantheon is as follows.
+
+Clerics are proficient and able to use their gods favored weapon (this supersedes other restrictions).
+
+- **Old Man Time**: Old Man Time is the grandfather of everything. His domains are time, sand, and age. His titles include: 'Lord of the Hourglass', 'Father of the Gods', 'The shifting sand'. Devotees of Old Man Time are forbidden from seeking immortality and consider attempts at legacy to be futile. Shrines to Old Man Time are typically obelisks in the desert. Traditionally dwarves have an antagonist relationship with Old Man Time.
+    - Spell list: White
+    - Favoured Weapon: Staff
+    - Holy color: Yellow.
+    - Totem: Coyote
+- **Hysteria**: Hysteria is the goddess of emotion, love, storms, and instinct. Her titles include: 'The bitch', 'Hysteria of Love and Lust', 'Queen of Hearts', 'Red Flag', 'The delicious Chaos'. Devotees are forbidden from marriage and any kind of oath that might conflict with their own desire. Young women seeking to escape the trappings of abusive marriages often pledge themselves to Hysteria, nullifying their marriage. Devotees to Hysteria are living temples her and remain fit, active, and slim into old age.
+    - Spell list: Green
+    - Favoured Weapon: Dagger
+    - Holy color: Scarlet
+    - Totem: Rabbit
+- **Anitoch the Crusader**: Antioch 'the cornerstone of civilization', 'order and law', 'the still', 'the bed rock of balance'. Antioch the Crusader seeks to bring order, unity, and peace to the world. His domains include law, construction, monarchy, and honor. Devotees of Antioch place tremendous importance on oaths, lineage, and honor. Antioch is the patron god of dwarves. His places of worship are gargantuan stone temples.
+    - Spell list: White
+    - Favoured Weapon: Warhammer
+    - Holy color: Blue
+    - Totem: Ox
+- **Lumen the Snail**: The creation myths say that the sun is the dazzling shell of 'Lumen the Joyful Steward'. Lumen's other titles include 'Bright shell', 'slow friend', and 'the watcher'. Its domains include joy, the sun, light, the sky, and patience. Lumen is the patron god of halfings. Devotees of Lumen are notable for their patience and contentedness, they are often community mediators. Devotees create small shines inside their homes to lumen.
+    - Spell list: White
+    - Favoured Weapon: Sling
+    - Holy color: Orange
+    - Totem: Snail
+- **Father Ossum**: Father Ossum is the god of death, loss, and the underworld. He is not an evil deity but a compassionate psychopomp. His titles include 'King of Loss', 'Final friend', 'Ossum of the Bone Throne'. Traditionally elves have an antagonist relationship with Father Ossum. His devotees are treated with great suspicion, but are also responsible for the euthanasia of animals, pest control, and care of the dead. Totem poles of marble are constructed in graveyards to honor Ossum.
+    - Spell list: Black
+    - Favoured Weapon: Battle Axe
+    - Holy color: White
+    - Totem: Leopard
+- **Mother Gentrix**: The titles of Mother Gentrix include 'God mother', 'Mother of Mankind', 'Warden of the Woods', 'Motherbear'. Her domains are fertility, life, forests, and motherhood. She is the patron god of Elves. Her devotees place utmost importance on family, culture, and the stewarding of natural resources. Gentrix is the most frequently worshipped god as her blessing are said to improve crops and protect children. All of the earth is her temple, desecration is a personal insult to her. Holy Color: Green.
+    - Spell list: Green
+    - Favoured Weapon: Natural Weapons (teeth, claws, fists)
+    - Holy color: Green
+    - Totem: Bear
+- **Leviathoth**: 'Leviathoth the betrayer', 'the Oathbreaker', 'the dreadwyrm', 'widowmaker', 'the darkness and the depth', 'the violent sea'. Leviathoth is nefarious god of darkness, the sea, despair, and the raging void. He is hated and hates Anitoch and Ossum. It is said that demons are the children of Hysteria and Leviathoth. Devotees do not worship openly as it is often a 25 year prison sentence to be caught worshipping the dreadwyrm.
+    - Spell list: Black
+    - Favoured Weapon: Bardiche
+    - Holy color: Black
+    - Totem: Penguin
+
+- **Horror Cults**: *Players may not be members of Horror cults. All player characters believe that horror cults are evil and should be annihilated.* Some vile humans worship the 'beings from outside'. These dark gods demand profane sacrifices and blaspheme existence itself. Worshipers often defile animals, children, virgins, and themselves in exchange for power, longevity, and revenge. Horror cults are universally evil, outlawed, and hunted. It is said worshippers of Leviathoth are sympathetic to cultists.
+
 
 # Links
 
@@ -102,6 +146,12 @@
 	- Dragonborn
 	- Tiefling
 
+
+# Items
+
+- Masks are a big deal
+- As are fetishes (weapons aren't enchanted they are possesed by a spirit)
+
 # Locations
 
 - Terrain
@@ -112,9 +162,11 @@
 	- Desert
 
 
-- *Bloodnexus* a grand ziggurat, covered in millions of small carvings, upon which two large stone bowls sit. The leaders gather and cast votes by letting their own blood. The blood is consumed by the ziggurat and the ammendment is wriiten in stone. A quorum of 37 is required for a valid vote (to mitigate a single member contributing too much).
 
-- *Aswan Statues*: easter island heads in the desert. The also sometimes have dungeons in them or talk to people. No one knows who made them. Probably dwarves.
+
+
+
+
 
 # Creatures
 
@@ -138,6 +190,12 @@
 	- low constant damage
 	- N (unintelligent)
 	- Weak (vulnerable to everything but hard to hit)
+
+- [*Grootslang*](https://en.wikipedia.org/wiki/Grootslang): *The Grootslang is to be a creature as old as the world. The gods made a mistake by giving too much strength, cunning and intelligence to the first creatures. They then divided said creatures, creating the first elephants and the first snakes in the process.*
+
+- [*Vampire*](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a50fed6-5f37-42b3-aba5-b48c99a0aa08/d9466ek-52a4a752-ab41-48ee-bfb5-b4a15f425661.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNTBmZWQ2LTVmMzctNDJiMy1hYmE1LWI0OGM5OWEwYWEwOFwvZDk0NjZlay01MmE0YTc1Mi1hYjQxLTQ4ZWUtYmZiNS1iNGExNWY0MjU2NjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HTp-YcclgcVewA7r7xl5qr4Fsimtc5q-5nqeuzorB7g) - http://vampireunderworld.com/african-vampires/
+
+- **But the greatest danger are the witches, as terrible and mighty as european dragons and devils. The countless legends tell of powers such as: causing storms, diseases and curses; create and control zombies and monsters; that a dead witch becomes an evil spirit; that witches can be identified by the small mouths full of sharp teeth in their backs; they may transform into or ride nocturnal creatures; are cannibals; use talking owls, hyenas and baboons as messengers; cause sleeping people to suffer nightmares full of demons that kill out of sheer terror. But the worst part may be that witches sell their services to whoever may pay for them.**
 
 - Animals
 	- Camel
@@ -228,6 +286,7 @@
 	- Day + Night = Redmorn
 	- Night + Day = Golmorn
 	- Day + Day = Dumorn
+- [the doom cloud](https://external-preview.redd.it/CN1jAmpkHUwH8zS81IBnfNvs_x_hoxxEPSx47pJkLKI.jpg?auto=webp&s=53d8205bb3fa2a43df39aed6b55aad01e732e5da)
 
 
 
@@ -259,12 +318,46 @@
 
 # Locations
 
-- Terrain
-	1. Rainforest
-	2. Tropical Season forest
-	3. Scrubland
-	5. Savanna
-	6. Desert
+- Pan Rainforest
+	- Hammersong Salt Mine - operating
+	- **Craghaven**
+		- Salt mining and political stronghold
+		- Mountains and Rainforest
+			- Seat of hammersong power
+- Fem Forest
+	- Being felled by Clark & Fisher, oppposed by Emerald Bazaar
+- Scrubland
+	- Clark & Fisher Farms
+	- *Bloodnexus* a grand ziggurat, covered in millions of small carvings, upon which two large stone bowls sit. The leaders gather and cast votes by letting their own blood. The blood is consumed by the ziggurat and the ammendment is wriiten in stone. A quorum of 37 is required for a valid vote (to mitigate a single member contributing too much).
+	- **Gardenfel**
+		- Agricultural and economic center (textile, livestock, leather)
+		- Scrublands bordering on forest
+	- **Vertun**
+		- Agricultural (grain) and timber
+		- Scrublands
+- Savanna
+	- Gold Vipers establishing dominion
+	- *Rock Hewn Churches*: carved from a single piece stone, either decending underground or receeding into a cliff.
+	- **Aeris**
+		- Iron mining and copper mine
+		- Savanna
+- Ossum Mountain
+	- Black Gold Mine - operating
+- Cronos Desert
+	- Two pyramids, one floating upside down, tip to tip. Stone slowly falls from the top to the bottom like a colossal hourglass
+	- Cronos Gold Mine - under construction
+	- *Aswan Statues*: easter island heads in the desert. The also sometimes have dungeons in them or talk to people. No one knows who made them. Probably dwarves.
+	- **Foxhole**
+		- Oasis and tradestop
+		- Desert oasis
+- Elysium River
+	- **Elysmouth**
+		- Port city and political power center
+		- Savanna, and start of river
+- Thoth Bay
+	- Elysium Island
+		- Elysium Ruins
+		- Hammersong Elysium Salt Mine - under construction
 
 # Factions
 
@@ -290,12 +383,12 @@ CASH
 	- *Block:* Insects are biting the cows (and locals) and ruining pelts
 	- *Do:* Attempting to clear rainforest to keep away bugs
 - **Black Salt Mine**
-	- The Black Family runs a series of gold mines in the desert
+	- The Black Family runs a series of gold mines in the desert. Strong sympathies with antioch.
 	- *Mindset:* LN, LAW, *we do what we say we will*
 	- *Goal:* Open a new mine in Cronos Desert
 	- *Block:* Can't get enough workers (no one wants to, its also dangerous to get there)
 	- *Do:* Make it a penal colony, pay people, endentured servants
-- **Green Dagger Society**
+- **The Copper Vipers**
 	- Crime guild who started taking money from peasants in the savanna to protect them from 'illegal crime'
 	- *Mindset:* CE, CASH, *gold, women, wine*
 	- *Goal:* End the persecution and go legit
@@ -319,6 +412,11 @@ CASH
 	- *Goal:* Protect the Elysium Ruins
 	- *Block:* Hammersong clan will destroy it
 	- *Do:* Make it too costly to continue
+
+## Minor Factions
+- **Gator Pact**
+	- Assassin mystery cult aligned with leviathoth. Use violence and murder as a means of gaining trancendece. Permitted to exist by equal parts fear and respect. Very professional.
+	- *Mindset:* NE
 
 Resources
 
@@ -356,3 +454,9 @@ Resources
 10. Leviathoth
 
 
+
+- Pious vs Impious
+- Cruel vs Kind
+- Impulsive vs Controlled
+- Foresight vs Desire
+- The Ideal vs the Real
