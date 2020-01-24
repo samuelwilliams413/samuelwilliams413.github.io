@@ -21,6 +21,12 @@
 	- > A hard test of their main abilities that gives a bonus if they pass.
 	- > An easy test so they feel badass. Reuse stuff from low level test 1. Like a fighter vs a gang of goblins. So they can see theyre more powerful.
 	- > A test against something theyre bad at, with no real penalties if they fail. Reminds them theyre not good at everything, gets the party working together, boosts role play and party, plus an opportunity for comedy. Think barbarian at elf prince masked ball, ice skating or unskilled horse riding
+- Monsters to consider
+	- The Boggle (loneliness), the Redcap (rage), the meenlock (envy/paranoia) etc they are all easy to stick into any spot and make engaging. I once had a Boggle steal a teddy bear from the party to give to the orphan boy that created it in his loneliness, great stuff.
+	- Ropers
+	- Shadows
+	- Bulette
+	- Animated objects are completely "wait WHAT!" when the players see them start moving while in the middle of being busy with something. Nothing says "let's get out of here" like flying swords soaring towards your throats.
 
 # Smol Plots
 
