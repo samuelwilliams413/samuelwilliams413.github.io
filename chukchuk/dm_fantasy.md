@@ -1,8 +1,26 @@
 
 
+
 # Big Plot
 
 - There is a lich, somewhere. Everytime they die you narrow down the location of their phylactery. They're actually kinds shit at fighting, but hard to kill permanently.
+
+## ROBUST DESIGN
+
+- THREE CLUE RULE
+- GOAL-ORIENTED OPPONENTS
+- DON’T PLAN SPECIFIC CONTINGENCIES
+- KNOW YOUR TOOLKIT
+
+## Other things
+
+- > I love telegraphing moves on a boss. So, I make custom bosses that are put to the test in oneshots. Instead of using Lair Actions on Initiative Count 20, I have them prepare a powerful boss action that then triggers on the next Initiative Count 20.
+
+
+- > three test system. Look at what your players can do and have put points / levels into. This is what they want to do, so help them do it. Try and figure into an adventure
+	- > A hard test of their main abilities that gives a bonus if they pass.
+	- > An easy test so they feel badass. Reuse stuff from low level test 1. Like a fighter vs a gang of goblins. So they can see theyre more powerful.
+	- > A test against something theyre bad at, with no real penalties if they fail. Reminds them theyre not good at everything, gets the party working together, boosts role play and party, plus an opportunity for comedy. Think barbarian at elf prince masked ball, ice skating or unskilled horse riding
 
 # Smol Plots
 
@@ -10,6 +28,21 @@
 - Deliver a love letter
 - Penetration test a castle
 - Make a trade with some gnomes
+- Get a goat to the ritual
+	- Chews through ropes/escapes
+	- Won't let them sleep at all
+	- Attracts large predator beasts
+	- Gives them fleas
+	- They get harassed by local animal rights activists
+	- Farmer is missing a goat that looks identical to it
+	- Eats their food
+	- Eats their clothing
+	- Gets loose in a crowded market
+	- Falls down a well
+	- Specifically dislikes the members of the party that don't want to let it be
+	- killed
+	- A local thug steps in its poop
+	- Someone offers to buy it for more than it's worth
 
 
 # Shin, the dragon
@@ -295,7 +328,6 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
 
 
 
-
 # Essential Elements
 
 - Decay is growing from the center of the desert
@@ -306,7 +338,8 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
 	- Halflings
 	- Gnones
 	- Humans
-	- Halfork
+	- Half-orc
+	- *Humans are indigenous to Sabulo and the continent*
 4. Elves
 	- Elves
 	- Half-Elf
@@ -320,44 +353,65 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
 
 - Pan Rainforest
 	- Hammersong Salt Mine - operating
-	- **Craghaven**
+	- **Craghaven** *, stomping on your soul*
 		- Salt mining and political stronghold
 		- Mountains and Rainforest
 			- Seat of hammersong power
+		- *Feel, smell*: Cool, echo-y, hard. There is always the distant clang and clatter of minework.
+		- *Architecture*: Grand chambers carved in stone. Thousands of small candles provide light. Everything is built to inspire awe and display power.
+		- *People*: Mixture of wealthy dwarves and officers supervising and lounging in the noble quarters. Humans (slaves, servants, peasant) work the mines.
+		- *Vibe*: Austere, oppressive, constrasted by opulence and wealth
+		- **Sam notes**: Order is mantained through a highly coordinated and organised guardforce (ordinators). Additionally porticullius can be used to separate and isolate any portion of the mine/city eliminating the capacity for organised resistance. **Rallyhammer**
 - Fem Forest
 	- Being felled by Clark & Fisher, oppposed by Emerald Bazaar
 - Scrubland
 	- Clark & Fisher Farms
-	- *Bloodnexus* a grand ziggurat, covered in millions of small carvings, upon which two large stone bowls sit. The leaders gather and cast votes by letting their own blood. The blood is consumed by the ziggurat and the ammendment is wriiten in stone. A quorum of 37 is required for a valid vote (to mitigate a single member contributing too much).
-	- **Gardenfel**
+	- **Gardenfel** *breadbasket of Sabulo*
 		- Agricultural and economic center (textile, livestock, leather)
 		- Scrublands bordering on forest
-	- **Vertun**
+	- **Vertun**, *the nicest backwater you've never heard of*
 		- Agricultural (grain) and timber
 		- Scrublands
 - Savanna
 	- Gold Vipers establishing dominion
 	- *Rock Hewn Churches*: carved from a single piece stone, either decending underground or receeding into a cliff.
-	- **Aeris**
+	- **Aeris** *the shithole*
 		- Iron mining and copper mine
-		- Savanna
+		- *Feel, smell*: Smoggy, dirty, dangerous. Smells like chemicals and smoke. Everything has soot on it.
+		- *Architecture*: Aeris was constructed with no regard for the geography or beauty. Drainage is poor. The water is foul. Bugs and pests infest the town. The buildings vary between warehouses and shacks.
+		- *People*: Sabulo once lived here but have been driven from the land. Gold vipers now wander the street. Crime flourishes. The people stay and keep coming because profits are high.
+		- *Vibe*: Dangerous, dirty, and cruel. The people are desperate and violent. Trust is non-existent
+		- **Sam notes**: All your worst sterotypes of an african city.
 - Ossum Mountain
 	- Black Gold Mine - operating
 - Cronos Desert
 	- Two pyramids, one floating upside down, tip to tip. Stone slowly falls from the top to the bottom like a colossal hourglass
 	- Cronos Gold Mine - under construction
 	- *Aswan Statues*: easter island heads in the desert. The also sometimes have dungeons in them or talk to people. No one knows who made them. Probably dwarves.
-	- **Foxhole**
-		- Oasis and tradestop
-		- Desert oasis
+	- **Foxhole** *an escape from the heat*
+		- Desert oasis and tradestop
+		- *Feel, smell*: Dry, hot, with the occatsional cool breeze. Smell's like camel
+		- *Architecture*: Yurts, tents, a single large mudbrick khasbah
+		- *People*: Prospectors, miners, and sabulo.
+		- *Vibe*: Dead and dry. Everyone is passing through and trying to avoid the heat. At night the men drink.
+		- *Social Structure*: The gold vipers maintain 'order' through draconian punishment and little oversight
+		- **Sam notes**: The gold vipers have established a barracks in the kasbah and charge a toll. While they protect the area from external threats they are a menace and regularily get into fights. Local businesses are unhappy but helpless.
+
 - Elysium River
-	- **Elysmouth**
+	- **Elysmouth** *gateway to Sabulo*
 		- Port city and political power center
 		- Savanna, and start of river
+		- *Bloodnexus* a grand ziggurat, covered in millions of small carvings, upon which two large stone bowls sit. The leaders gather and cast votes by letting their own blood. The blood is consumed by the ziggurat and the ammendment is wriiten in stone. A quorum of 37 is required for a valid vote (to mitigate a single member contributing too much).
 - Thoth Bay
 	- Elysium Island
 		- Elysium Ruins
 		- Hammersong Elysium Salt Mine - under construction
+
+		- *Feel, smell*:
+		- *Architecture*: 
+		- *People*: 
+		- *Vibe*: 
+		- **Sam notes**: 
 
 # Factions
 
@@ -382,7 +436,7 @@ CASH
 	- *Goal:* Want to massively increase production
 	- *Block:* Insects are biting the cows (and locals) and ruining pelts
 	- *Do:* Attempting to clear rainforest to keep away bugs
-- **Black Salt Mine**
+- **Black Gold Mining**
 	- The Black Family runs a series of gold mines in the desert. Strong sympathies with antioch.
 	- *Mindset:* LN, LAW, *we do what we say we will*
 	- *Goal:* Open a new mine in Cronos Desert
