@@ -1,6 +1,3 @@
-
-
-
 # Big Plot
 
 - There is a lich, somewhere. Everytime they die you narrow down the location of their phylactery. They're actually kinds shit at fighting, but hard to kill permanently.
@@ -15,6 +12,8 @@
 ## Other things
 
 - > I love telegraphing moves on a boss. So, I make custom bosses that are put to the test in oneshots. Instead of using Lair Actions on Initiative Count 20, I have them prepare a powerful boss action that then triggers on the next Initiative Count 20.
+- Roll initiative ahead of time (end of combat) 
+- BE JOHN WOO, JACK KIRBY, AND STEVE DITKO
 
 
 - > three test system. Look at what your players can do and have put points / levels into. This is what they want to do, so help them do it. Try and figure into an adventure
@@ -122,7 +121,7 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
     - Spell list: White
     - Favoured Weapon: Staff
     - Holy color: Yellow.
-    - Totem: Coyote
+    - Totem: Fly
 - **Hysteria**: Hysteria is the goddess of emotion, love, storms, and instinct. Her titles include: 'The bitch', 'Hysteria of Love and Lust', 'Queen of Hearts', 'Red Flag', 'The delicious Chaos'. Devotees are forbidden from marriage and any kind of oath that might conflict with their own desire. Young women seeking to escape the trappings of abusive marriages often pledge themselves to Hysteria, nullifying their marriage. Devotees to Hysteria are living temples her and remain fit, active, and slim into old age.
     - Spell list: Green
     - Favoured Weapon: Dagger
@@ -132,7 +131,7 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
     - Spell list: White
     - Favoured Weapon: Warhammer
     - Holy color: Blue
-    - Totem: Ox
+    - Totem: Horse (stallion)
 - **Lumen the Snail**: The creation myths say that the sun is the dazzling shell of 'Lumen the Joyful Steward'. Lumen's other titles include 'Bright shell', 'slow friend', and 'the watcher'. Its domains include joy, the sun, light, the sky, and patience. Lumen is the patron god of halfings. Devotees of Lumen are notable for their patience and contentedness, they are often community mediators. Devotees create small shines inside their homes to lumen.
     - Spell list: White
     - Favoured Weapon: Sling
@@ -142,7 +141,7 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
     - Spell list: Black
     - Favoured Weapon: Battle Axe
     - Holy color: White
-    - Totem: Leopard
+    - Totem: Viper
 - **Mother Gentrix**: The titles of Mother Gentrix include 'God mother', 'Mother of Mankind', 'Warden of the Woods', 'Motherbear'. Her domains are fertility, life, forests, and motherhood. She is the patron god of Elves. Her devotees place utmost importance on family, culture, and the stewarding of natural resources. Gentrix is the most frequently worshipped god as her blessing are said to improve crops and protect children. All of the earth is her temple, desecration is a personal insult to her. Holy Color: Green.
     - Spell list: Green
     - Favoured Weapon: Natural Weapons (teeth, claws, fists)
@@ -152,7 +151,7 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
     - Spell list: Black
     - Favoured Weapon: Bardiche
     - Holy color: Black
-    - Totem: Penguin
+    - Totem: Crab
 
 - **Horror Cults**: *Players may not be members of Horror cults. All player characters believe that horror cults are evil and should be annihilated.* Some vile humans worship the 'beings from outside'. These dark gods demand profane sacrifices and blaspheme existence itself. Worshipers often defile animals, children, virgins, and themselves in exchange for power, longevity, and revenge. Horror cults are universally evil, outlawed, and hunted. It is said worshippers of Leviathoth are sympathetic to cultists.
 
@@ -472,10 +471,19 @@ CASH
 	- *Goal:* Protect the Elysium Ruins
 	- *Block:* Hammersong clan will destroy it
 	- *Do:* Make it too costly to continue
+- **Emporium of Man (E.O.M)** 
+	-  (its the east india trading company, _duh_)
+	- *Mindset:* N, CONTROL, *We own it, so you don't have to*
+	- *Goal:* Find the source of the ??? pelts
+	- *Block:* Don't know which creature it came from, or how to prepare it
+	- *Do:* Slash n burn, expeditions to the heart of darkness, bribe the locals.
 
 ## Minor Factions
 - **Gator Pact**
 	- Assassin mystery cult aligned with leviathoth. Use violence and murder as a means of gaining trancendece. Permitted to exist by equal parts fear and respect. Very professional.
+	- *Mindset:* NE
+- **T.H.O.T (The Haven of Temptation)**
+	- The whores guild. Basically the continental plus fast travel. Safety and comfort for a price. 
 	- *Mindset:* NE
 
 Resources
