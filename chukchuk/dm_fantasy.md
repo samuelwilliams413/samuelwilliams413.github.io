@@ -200,8 +200,49 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
 	- Desert
 
 
-
-
+# Drawings
+- Items
+	- Rallyhammer
+- Maps
+	- Sabulo
+	- Camp
+		- Forest
+		- Desert
+		- Savana
+		- River
+		- Cave
+	- Cities
+		- Craghaven
+		- Gardenfel
+		- Vertun
+		- Aeris
+		- Foxhole
+		- Elysmouth
+- Heralds
+	- Clark & Fisher
+	- Black Gold Mining
+	- The Copper Vipers
+	- Emerald Bazaar
+	- Hammersong Clan
+	- Red Accord
+	- mporium of Man (E.O.M)*
+	- Gator Pact
+	- T.H.O.T (The Haven of Temptation)
+	- Craghaven
+	- Gardenfel
+	- Vertun
+	- Aeris
+	- Elysmouth
+	- Old Man Time
+	- Hysteria
+	- Anitoch the Crusader
+	- Lumen the Snail
+	- Father Ossum
+	- Mother Gentrix
+	- Leviathoth
+- Monsters
+	- Galeans
+	- Bramblegeist
 
 
 
