@@ -199,50 +199,55 @@ Clerics are proficient and able to use their gods favored weapon (this supersede
 	- Savanna
 	- Desert
 
-
-# Drawings
-- Items
-	- Rallyhammer
-- Maps
-	- Sabulo
-	- Camp
-		- Forest
-		- Desert
-		- Savana
-		- River
-		- Cave
-	- Cities
+# ToDo
+- Sabulo Lore
+	- Culture
+	- Religion
+	- Tribes
+- Drawings
+	- Items
+		- Masks
+		- Rallyhammer
+	- Maps
+		- Sabulo
+		- Camp
+			- Forest
+			- Desert
+			- Savana
+			- River
+			- Cave
+		- Cities
+			- Craghaven
+			- Gardenfel
+			- Vertun
+			- Aeris
+			- Foxhole
+			- Elysmouth
+	- Heralds
+		- Clark & Fisher
+		- Black Gold Mining
+		- The Copper Vipers
+		- Emerald Bazaar
+		- Hammersong Clan
+		- Red Accord
+		- mporium of Man (E.O.M)*
+		- Gator Pact
+		- T.H.O.T (The Haven of Temptation)
 		- Craghaven
 		- Gardenfel
 		- Vertun
 		- Aeris
-		- Foxhole
 		- Elysmouth
-- Heralds
-	- Clark & Fisher
-	- Black Gold Mining
-	- The Copper Vipers
-	- Emerald Bazaar
-	- Hammersong Clan
-	- Red Accord
-	- mporium of Man (E.O.M)*
-	- Gator Pact
-	- T.H.O.T (The Haven of Temptation)
-	- Craghaven
-	- Gardenfel
-	- Vertun
-	- Aeris
-	- Elysmouth
-	- Old Man Time
-	- Hysteria
-	- Anitoch the Crusader
-	- Lumen the Snail
-	- Father Ossum
-	- Mother Gentrix
-	- Leviathoth
-- Monsters
-	- Galeans
-	- Bramblegeist
+		- Old Man Time
+		- Hysteria
+		- Anitoch the Crusader
+		- Lumen the Snail
+		- Father Ossum
+		- Mother Gentrix
+		- Leviathoth
+	- Monsters
+		- Galeans
+		- Bramblegeist
 
 
 
@@ -476,56 +481,80 @@ NATURE
 GOOD
 CASH
 
+## Factions
+
 - **Clark & Fisher**
-	- Two humans (Charles Clark & Elliot Fisher) formed a leather company in the scrubland. 
-	- *Mindset:* N, PRAGMATISM, *we've got a job to do*
-	- *Goal:* Want to massively increase production
-	- *Block:* Insects are biting the cows (and locals) and ruining pelts
-	- *Do:* Attempting to clear rainforest to keep away bugs
+	- Two humans (Charles Clark & Elliot Fisher) formed a leather company in the scrubland. It grew into a successful agricultural conglomerate. Anthony Fisher (a grandson of both) now runs the corporation, but shares in the operation have been sold.
+	- *Mindset:* PRAGMATISM, *we've got a job to do*
+		- *Goal:* Want to massively increase production
+		- *Block:* Recently insects have started swarming and biting the livestock (and locals) and ruining pelts
+		- *Do:* Attempting to clear rainforest to keep away bugs
+	- Clark & Fisher is headquarted in the agricultural settlement of Gardenfel (breadbasket of Sabulo).
 - **Black Gold Mining**
-	- The Black Family runs a series of gold mines in the desert. Strong sympathies with antioch.
+	- The Black Family runs a series of gold mines in the desert. The have strong sympathies with antioch.
 	- *Mindset:* LN, LAW, *we do what we say we will*
-	- *Goal:* Open a new mine in Cronos Desert
-	- *Block:* Can't get enough workers (no one wants to, its also dangerous to get there)
-	- *Do:* Make it a penal colony, pay people, endentured servants
+		- *Goal:* Open a new mine in Cronos Desert
+		- *Block:* Can't get enough workers (no one wants to, its also dangerous to get there)
+		- *Do:* Make it a penal colony, pay people, endentured servants
+	- Their headquarters is in Elysmouth, but their current mine is locatted in the Ossum Mountains. They are attempting to start a mine in the Cronos Desert.
 - **The Copper Vipers**
 	- Crime guild who started taking money from peasants in the savanna to protect them from 'illegal crime'
 	- *Mindset:* CE, CASH, *gold, women, wine*
-	- *Goal:* End the persecution and go legit
-	- *Block:* They need to be pardoned and legitimized
-	- *Do:* Overthrow the police and hold everyone hostage
+		- *Goal:* End the persecution and go legit
+		- *Block:* They need to be pardoned and legitimized
+		- *Do:* Overthrow the police and hold everyone hostage
+	- The Copper Vipers run Aeris and are headquarted there. They have also begun to expand and 'police' foxhole. 
 - **Emerald Bazaar**
 	- A decentralised collective of blackmarkets providing mutual support. Leadership is elven
 	- *Mindset:* CN, FREEDOM, *live free from the man*
-	- *Goal:* Make a health profit
-	- *Block:* Someone is hunting down their cells (war on drugz)
-	- *Do:* Go underground (this is causing shortages of medicine, alchemical herbs, and drugs)
+		- *Goal:* Make a health profit
+		- *Block:* Someone is hunting down their cells (war on drugz)
+		- *Do:* Go underground (this is causing shortages of medicine, alchemical herbs, and drugs)
+	- There is no formal leadership of the Bazaar, however many default to the leadership of ????. There is no headquaters, but the bazaar has a vested interest in protecting the ecosystems with the Pan Rainforest and Fem Forest as they are a source of ingredients and sanctuary.
 - **Hammersong Clan**
 	- Banking and salt mining family of dwarves.
 	- *Mindset:* LE, EVIL, *come out on top*
-	- *Goal:* Create a mine on Elysium Island
-	- *Block:* Sabotage
-	- *Do:* Wipe them out, enslave them, depopulate
+		- *Goal:* Create a mine on Elysium Island
+		- *Block:* Sabotage
+		- *Do:* Wipe them out, enslave them, depopulate. Trade the natives alcohol, tobacco, and opium to destroy and enslave them. Poison the wells with reagents to increase their magical suggestibility.
+	- Real bad guys doing bad guy shit. Imagine the worst, most greediest, fithiest, backstabing corporation and take it to the extreme. Every anti big business sentiment is justfied.  The Hammersong Clan are dwarven chauvenists, but they also respect talent and pay well (the best). The already run the police city state of Craghaven and intend to create an island of slave miners on Elysium Island. 
+	- Evil, straight up. However, the Clan does have rules:
+		- Don't do anything that will get you arrested
+		- Don't lose money
+		- Follow contracts, to the legal letter
+		- When morality contradicts orders, follow the orders
+		- You are held accountable for you failure to follow orders ('Just following orders' is a legitimate reason)
+		- Don't steal from the Clan
 - **Red Accord**
 	- Secret society dedicated to fighting evil. Operates in cells to protect itself from tyranny (within and without), but features a strong constitution.
 	- *Mindset:* NG, NATURE, *protect the defenseless*
-	- *Goal:* Protect the Elysium Ruins
-	- *Block:* Hammersong clan will destroy it
-	- *Do:* Make it too costly to continue
+		- *Goal:* Protect the Elysium Tribes & Ruins
+		- *Block:* Hammersong clan will destroy it
+		- *Do:* Make it too costly to continue
+	- Organised institutions become the targets of organised evil. To thwart corruption and tyrany it can become neccesary to work within the shadows. Currently the Hammersong Clan intends to use all manner of evil to enslave the indigenous peoples of Elysium Island and destroy the Elysium Ruins. Through legal and guerilla means the Accord seeks to thwart them. Some cells are arming and training tribemen. Some expose the illegal actions of the Clan. And other plot to force the Clan to create a pretext for violent resistance. _(Imagine if the CIA was trying to be good guys)_
+	- The Accord (internal consitituion) outlines the following rights and responsibilities within the organisation:
+		- Doing good and the destruction of evil are the prime directive; orders, safety, and all else are secondar
+		- The role of a recruiter is to spread information and resources, they do not have any formal authority
+		- Members are not to seek out other cells
+		- Members are to conceal their identity and use codenames for all communication (codenames are often themed on weather and environmental phenomenon)
+		- The organisation is to limit cross cell communication and act in a [_tertarray_ structure](https://www.ics.uci.edu/~eppstein/junkyard/robertd/tetrarray.gif). _(each member recruits up to 3, and knows their recruiter)_
 - **Emporium of Man (E.O.M)** 
 	-  (its the east india trading company, _duh_)
 	- *Mindset:* N, CONTROL, *We own it, so you don't have to*
-	- *Goal:* Find the source of the ??? pelts
-	- *Block:* Don't know which creature it came from, or how to prepare it
-	- *Do:* Slash n burn, expeditions to the heart of darkness, bribe the locals.
+		- *Goal:* Find the source of the ??? pelts
+		- *Block:* Don't know which creature it came from, or how to prepare it
+		- *Do:* Slash n burn, expeditions to the heart of darkness, bribe the locals.
+
 
 ## Minor Factions
 - **Gator Pact**
-	- Assassin mystery cult aligned with leviathoth. Use violence and murder as a means of gaining trancendece. Permitted to exist by equal parts fear and respect. Very professional.
+	- Assassin mystery cult aligned with leviathoth. Use violence and murder as a means of gaining trancendece. Permitted to exist by equal parts fear and respect. Very professional. Sabulo whisper that powerful cultist tranform into invulnerable giant black crocodiles on full moons and devour anyone foolish enough to be on the river
 	- *Mindset:* NE
 - **T.H.O.T (The Haven of Temptation)**
 	- The whores guild. Basically the continental plus fast travel. Safety and comfort for a price. 
 	- *Mindset:* NE
+- I feel like I want some AnPrim separatists
+
 
 Resources
 
