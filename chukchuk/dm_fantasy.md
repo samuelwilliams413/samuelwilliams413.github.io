@@ -26,6 +26,7 @@
 	- Shadows
 	- Bulette
 	- Animated objects are completely "wait WHAT!" when the players see them start moving while in the middle of being busy with something. Nothing says "let's get out of here" like flying swords soaring towards your throats.
+- Floor held together by a gooey monster. Eats you and you fall through the floor
 
 # Smol Plots
 
