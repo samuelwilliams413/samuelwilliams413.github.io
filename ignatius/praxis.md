@@ -13,6 +13,8 @@
 * Throw away shit
 * Chess
 * Paint or Draw
+* Blacksmith
+* Policical compass
 * Learn something
 	* Music
 	* Auslan
