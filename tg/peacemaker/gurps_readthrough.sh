@@ -98,3 +98,23 @@ Flophouse
 
 
 Uncanny
+
+
+
+Disease outbreak
+Indian Burial ground
+Unclean Spirits
+
+You can rule the world, like god. Deciding good and evil.
+
+The unnamed accusor
+
+I am insane > The world is insane
+
+
+# Giant Warrior Bandit King: Nimrod the Rebel
+
+Sex, money, power
+
+
+Two towns on either side of a river (zagreb)
