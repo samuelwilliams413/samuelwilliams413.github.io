@@ -8,11 +8,11 @@ int		10		0		0
 wis		12		1		1
 cha		13		1		1
 
-HP				31
-AC (no shield)	14
-AC (shield)		15	Doning/doffing a shield takes 1 action
-Initiative		+3
-Speed			30ft
+HP                31
+AC (no shield)    14
+AC (shield)       15	Doning/doffing a shield takes 1 action
+Initiative        +3
+Speed             30ft
 
 ```
 
