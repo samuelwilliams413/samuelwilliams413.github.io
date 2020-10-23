@@ -104,3 +104,27 @@
 - Lawrence Krauss, A Universe from Nothing
 - Reinhard Breuer, The Anthropic Principle
 - Thomas Nagel, Mind and Cosmos
+
+
+
+
+
+### Where did Jesus say "I am God, worship me"?
+
+- I am only a prophet, don't worship me?
+
+- Rev 1:17: Alpha omega
+- Mark 2:5-12 Forgiveness of sins
+- Mathew 25:31 Final Judge
+- John 14:6 The truth
+- John 17:5 glorify me in your presence with the glory I had with you before the world began.
+
+- Matthew 28
+
+### Bible has been corrupted
+
+### 3 verse
+
+Quran 4:157
+Quran 5:47
+Quran 9:29
