@@ -2,9 +2,9 @@
 
 ## Lore
 
-Tartarus is a prison realm created by the wizard Hadrian. The demiplane syphons the dreams of its inhabitants to fuel the arcane monstrosities of the wizard.
+Tartus is a prison realm created by the wizard Hadrian. The demiplane syphons the dreams of its inhabitants to fuel the arcane monstrosities of the wizard.
 
-At the centre of Tartarus is a red sun that illuminates the dyson sphere that surrounds it. The sphere, in a perpetual twilight, is home to all kinds of denizens. Some were banished here, some were born here, and many creatures are native to this realm. Beyond the sphere is the dreaded outer darkness.
+At the centre of Tartus is a red sun that illuminates the dyson sphere that surrounds it. The sphere, in a perpetual twilight, is home to all kinds of denizens. Some were banished here, some were born here, and many creatures are native to this realm. Beyond the sphere is the dreaded outer darkness.
 
 The sphere is dimly lit, forgotten, and mouldy. Pockets of civilisation are built upon the scarce bedrock between the vast and desolate wastes of mud, swamp, and decay. Building upwards through the fog these megacities of civilization are called Megablocks. Megablocks are ruled by the magewrights.
 
