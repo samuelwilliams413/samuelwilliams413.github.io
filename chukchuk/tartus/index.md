@@ -1,5 +1,9 @@
 # Tartus
 
+- [Balrax](balrax.md)
+- [Baritone Crime Family](baritone.md)
+- [House rules](houserules.md)
+
 ## Lore
 
 Tartus is a prison realm created by the wizard Hadrian. The demiplane syphons the dreams of its inhabitants to fuel the arcane monstrosities of the wizard.
@@ -10,7 +14,7 @@ The sphere is dimly lit, forgotten, and mouldy. Pockets of civilisation are buil
 
 ![Balrax](https://i.pinimg.com/originals/e4/48/ed/e448eddd1f9120175c492e1ff065369a.jpg)
 
-Magewrights are the vanquished nemesis of Hadrian. Immortal ghosts, they vie for control and power. Their great magical might ensures a cold war where any attack that can be anticipated can be nullified. Instead proxies, surprise, and forbidden secrets are used to find the slightest edge. The party finds themselves in the megablock of Balrax, the dominion of Balrax the Eye of Rot. Its closest neighbours are the dominion of Doolut the Spine of Torment and Vol'gol the Finger of Pain.
+Magewrights are the vanquished nemeses of Hadrian. Immortal ghosts, they vie for control and power. Their great magical might ensures a cold war where any attack that can be anticipated can be nullified. Instead proxies, surprise, and forbidden secrets are used to find the slightest edge. The party finds themselves in the megablock of Balrax, the dominion of Balrax the Eye of Rot. Its closest neighbours are the dominion of Doolut the Spine of Torment and Vol'gol the Finger of Pain.
 
 Lastly, there is the curse of slow death. This naturally occurring magic causes any being who dies on the plane to rise again after a short time, cursed with insatiable hunger and an irresistible drive to attack the living. Desiccated mummies created by the curse of slow death fill the wasteland that dominates the plane, constantly threatening what little life remains. But the people of Megablocks do not fear the threat of attack as much as they dread the knowledge that all who live will one day die and fall under the same curse. Death under the effect of the curse of slow death is a terrifying afterlife filled with endless suffering. The only hope is to pledge yourself to the service of a Magewright or to make arrangements for your body’s quick disposal at the hands of a priest.
 
@@ -21,8 +25,9 @@ Tartus is a rotten apple core filled with maggots and men; wet, cold, dreary, an
 I expect that the players before we start will:
 - Have characters created
 - Have read this page, the page on [Balrax](balrax.md), and the page on the [Baritone Crime Family](baritone.md)
+- Have skimmed the [house rules](houserules.md)
 
-I will be experimenting with a new way of DMing that I have not 
+I will be experimenting with a new way of DMing that I have not tried before
 
 ## Character creation
 
