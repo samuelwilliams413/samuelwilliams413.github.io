@@ -1,5 +1,7 @@
 # House Rules
 
+- [Back to tartus](index.md)
+
 ## Alternative initiative
 
 Instead of rolling 1d20 + DEX for initiative instead we will be trying an alternative system. It works like this.
