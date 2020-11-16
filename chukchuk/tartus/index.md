@@ -20,7 +20,7 @@ Lastly, there is the curse of slow death. This naturally occurring magic causes 
 
 ## Meta-level comments
 
-Tartus is a rotten apple core filled with maggots and men; wet, cold, dreary, and mouldy. Technologically it's a mash up of magitech and the roaring twenties, strongly influenced by Eberron and the Legend of Korra. Governmentally think of tyrannical dictators too paranoid to govern, somewhere between the sorcerkings of Darksun and Judge Dredd. The wild and waste is a swampy Mad Max mixed with the Mournland. I hope that the waste takes on a feel similar to S.T.A.L.K.E.R.
+> Tartus is a rotten apple core filled with maggots and men; wet, cold, dreary, and mouldy. Technologically it's a mash up of magitech and the roaring twenties, strongly influenced by Eberron and the Legend of Korra. Governmentally think of tyrannical dictators too paranoid to govern, somewhere between the sorcerkings of Darksun and Judge Dredd. The wild and waste is a swampy Mad Max mixed with the Mournland. I hope that the waste takes on a feel similar to S.T.A.L.K.E.R.
 
 I expect that the players before we start will:
 - Have characters created
