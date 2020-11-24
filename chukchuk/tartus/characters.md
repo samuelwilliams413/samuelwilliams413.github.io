@@ -10,6 +10,7 @@
 ## Magewrights
 
 - [Balrax](balrax.md)
+- [Doolut](doolut.md)
 
 ## Factions
 

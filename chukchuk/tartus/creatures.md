@@ -10,3 +10,4 @@
 ## Wastelands
 
 - [Wanderers](wanderer.md)
+- [Masked Ones](masked_ones.md)
