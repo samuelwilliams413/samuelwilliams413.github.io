@@ -1,5 +1,7 @@
 # Obtain Gf
 
+> approx. 18 minute read
+
 So, firstly I'm unable to really give any advice on short-term relationships. I've never really had any so I don't have much to say. There are other people better suited to that. Instead, I'll give advice on finding a long term romantic partner with the intention of a life long relationship.
 
 I think I'll write something later about why I think long-term relationships are the best course of action, but for now, let's treat this as a given.
