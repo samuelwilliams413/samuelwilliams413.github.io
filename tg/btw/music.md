@@ -4,9 +4,17 @@
 
 ## Tracks
 
+- [Balmoroa Ambiance](https://youtu.be/nqTnre-CLmc) - https://youtu.be/nqTnre-CLmc
+- [Prophesy theme](https://youtu.be/3qsUvCmA7PI) - https://youtu.be/3qsUvCmA7PI
+
+### Threats
+
 - [Blighted land theme](https://youtu.be/WEEltzTwbE4) - https://youtu.be/WEEltzTwbE4
 - [Vengeful Wyrm theme](https://youtu.be/eZFxKqXGHFc) - https://youtu.be/eZFxKqXGHFc
 - [Fae theme](youtu.be/muG-Zrta8sY) - https://youtu.be/muG-Zrta8sY
+
+### Generic
+
 - [Town](youtu.be/JN8nj2-7G34) - https://youtu.be/JN8nj2-7G34
 - [Dungeon](youtu.be/pv7sc85UZ-4) - https://youtu.be/pv7sc85UZ-4
 - [Forest](https://youtu.be/HAw37tUHcOo) - https://youtu.be/HAw37tUHcOo
