@@ -1,9 +1,9 @@
 # Beyond the Wall
 
-- [rulebooks](https://drive.google.com/drive/folders/1LvKRIIj6ch4KsJYzU681bkZP8RKtMvQw?usp=sharing)
-- [cheatsheet](cheatsheet.md)
-- [music](music.md)
+- [Rulebooks](https://drive.google.com/drive/folders/1LvKRIIj6ch4KsJYzU681bkZP8RKtMvQw?usp=sharing)
+- [Cheatsheet](cheatsheet.md)
 
-DM Only:
+## DM Only
 
 - [Threatpacks](threats.md)
+- [Music](music.md)
