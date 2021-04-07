@@ -1,6 +1,6 @@
 # Beyond the Wall Cheat Sheet
 
-- [back](index.md)
+[back](index.md)
 
 ## Ability Checks (roll low for success)
 
