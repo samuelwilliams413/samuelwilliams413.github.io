@@ -24,3 +24,23 @@
 STAKE
 UNI
 SPI
+
+
+122
+
+
+
+BTC ***
+ETH **
+DOT **
+ADA **
+AVAX *
+ENJ *
+LINK *
+
+ENJ
+DOT
+ETH
+AVAX
+AAVE
+ADA
