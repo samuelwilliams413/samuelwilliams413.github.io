@@ -4,5 +4,6 @@
 - [cheatsheet](cheatsheet.md)
 - [music](music.md)
 
+DM Only:
 
-- [DM only](dm.md)
+- [Threatpacks](threats.md)
