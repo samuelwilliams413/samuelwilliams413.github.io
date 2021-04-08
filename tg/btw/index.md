@@ -8,6 +8,4 @@
 
 ## DM Only
 
-- [Reminders](reminders.md)
-- [Threatpacks](threats.md)
-- [Music](music.md)
+- [DM ONLY](dm.md)

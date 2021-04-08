@@ -45,6 +45,7 @@ Rogues start the adventure with 5 Fortune Points; other characters start with 3.
 - Help a Friend: You can lend a helping hand to a friend, giving them a +2 bonus, even if you don’t havea relevant skill.
 - Second Chance: You may spend a fortune point to reroll an ability check, saving throw, or to hit roll.
 - Cheat Death: You may spend a fortune point if you reach 0 to -9 hit points. Doing so stabilizes you at 0 hit points for 24 hours (provided you don’t take additional damage).
+- _Houserule > Plot Armor: You may spend a fortune point to force an enemy reroll an ability check, saving throw, or to hit roll._
 
 Fortune points typically replenish at the end of an adventure.
 

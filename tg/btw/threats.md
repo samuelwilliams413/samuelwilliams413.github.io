@@ -22,3 +22,4 @@
 - Looks like pale, greasy, rotten, long haired, long nailed
 - Craven coward, spiteful and mean
 - Talks like an edgelord
+
