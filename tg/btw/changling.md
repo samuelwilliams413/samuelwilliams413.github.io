@@ -5,14 +5,14 @@
 Changling characters have the following special rules:
 
 - Weakness to iron, steel, and silver
-	- You will not die or bleed out from damage done by non iron, steel, or silver. If your hitpoints are reduced to zero by non iron, steel, or silve you return to 1 hitpoint at dawn.
-	- You do not bleed out, but instead die immediately when our hitpoints are reduced to zero by iron, steel, or silver.
-	- Your magic does not function while in close proximity to iron, steel, or silver
+	- You will not die or bleed out from damage done by not iron, steel, or silver. If your hitpoints are reduced to zero by not iron, steel, or silver you return to 1 hitpoint at dawn.
+	- When our hitpoints are reduced to zero by iron, steel, or silver you do not bleed out, but instead die immediately.
+	- Your magic does not function while in close proximity to iron, steel, or silver.
 - Of the wild
 	- You have +2 on all Dex and Int based checks while in healthy vibrant natural areas.
 	- You have -2 on all Dex and Int based checks while in areas of death, decay, corruption, and unnaturalness.
 - Whimiscal and alien
-	- You know the _fools gold_ cantrip
+	- You know the [_fools gold_ cantrip](#fools-gold-int)
 	- You hate bread, it's super gross. If you try to eat it you will vomit.
 	- You have a strong psychological aversion to walking over salt or touch salt. To do so requires a wisdom check
 
