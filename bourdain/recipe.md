@@ -9,6 +9,7 @@
 - [Shakshouka](shakshouka.md)
 - [Garlic Naan](naan.md)
 - [Butter Chicken](butter_chicken.md)
+- [Teriyaki Chicken](t_chicken.md)
 
 ## Drank
 
