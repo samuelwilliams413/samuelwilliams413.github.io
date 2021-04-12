@@ -35,6 +35,8 @@
 - Phantom cursed the tribe, now diseased
 - Gnomes healed Grong, said they would heal the tribe if they kidnapped the ???? (opposed gnome trade)
 
+Kinslayer Cleaver: +1 to hit and damage, +3 vs relatives. Has a notch in the blade, the notch weaps blood when in danger.
+
 ### Grong (1)
 - hp: 15
 - AC: 15
