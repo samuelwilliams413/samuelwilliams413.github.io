@@ -3,6 +3,6 @@
 [back](index.md)
 
 - [Reminders](reminders.md)
-- [Threatpacks](threats.md)
+- [Threats](threats.md)
 - [Music](music.md)
 - [Items](items.md)
