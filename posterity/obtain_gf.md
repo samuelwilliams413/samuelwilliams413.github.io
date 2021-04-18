@@ -1,8 +1,10 @@
 # Obtain Gf
 
+I'm happily married with a white picket fence, two dogs, and a baby on the way. My wife and I are happy, don't fight, have frequent satisfying sex, and enjoy each others company. I grew up not knowing how to find a partner and never saw positive fulfilling relationships. For posterity I thought it wise to write something for a future son. 
+
 > approx. 18 minute read
 
-So, firstly I'm unable to really give any advice on short-term relationships. I've never really had any so I don't have much to say. There are other people better suited to that. Instead, I'll give advice on finding a long term romantic partner with the intention of a life long relationship.
+Firstly, I'm unable to really give any advice on short-term relationships. I've never really had any so I don't have much to say. There are other people better suited to that. Instead, I'll give advice on finding a long term romantic partner with the intention of a life long relationship.
 
 I think I'll write something later about why I think long-term relationships are the best course of action, but for now, let's treat this as a given.
 
@@ -108,8 +110,6 @@ Absent from this entire process are tips to make her like you. Or get her to put
   -	 Understand your own values and the criteria by which you make decisions. Do some soul searching and figure out what you could swear a life-long oath to living.
   -	 Through the course of normal conversation with an attractive woman try and understand the values that fuel her actions. **Stop pursuing women whose values are incompatible with yours.**
   -	 Figure out how she expresses love, affection, and gratitude. Figure out how she likes love, affection and gratitude expressed to her. This will make being nice to her much easier.
-
-As an aside, standard advice given to spergs is that they should just find something that they have in common with other people and just make small talk. I tried this, and every conversation was effort and boring. When I raised this with my more social friends they just gave me the same advice. They seemed incapable of understanding. Once I got a dog, garden, house, and a job this became 3000% easier. Turns out that normal people have lots of common interests with other normal people. I didn't. I would meet people with whom I had nothing in common with and I could not have a standard normal conversation. Once I started doing more normal stuff I found that I could always fall back on my normal stuff. I could make small talk. This is why I recommend taking up one of the most common hobbies.  It will always be a crutch in a bland conversation.
 
 ## Dressing & Gutting
 At this stage, you've got a girl in your life who you can't stop thinking about. She's sexy and fun. You like talking to her and she wants the same things in life (kids, marriage, work life). The two of you are probably spending more and more time together. You're both looking for excuses to be around each other. You might even be hanging out alone. You're probably talking or messaging like crazy.
