@@ -2,6 +2,7 @@
 
 [back](index.md)
 
+- do the long history
 - Keep a list of locations and NPCs as they're created
 - Get players to each create a magical item
 - use a lap timer or record the session
