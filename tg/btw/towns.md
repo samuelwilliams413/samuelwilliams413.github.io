@@ -1,0 +1,36 @@
+- Redlake
+  - Site of the crazed nymph Lena
+  - Dried out blighted lake
+- Greenwatch
+  - Old farming town near the river/lake
+  - Blight killed crops and now the place is dead
+  - Features library with notes of the blighted one
+- Stonehome
+  - Home of the scorched stone
+- Big Rock
+  - Big monolyth
+  - Home to the aurelius farm
+  - Filled with tunnels
+- Blackmoor
+  - Trade city on the iron road
+- Byron Barrow
+  - Old lords barrow
+- Balthu
+  - Gnome outpost
+- Nyx Hut
+  - Witch house
+- Blackstone
+  - Site of the black stone
+  - Intersection of trade routes
+- Mt Rabia
+  - Fey mountain
+- Longbridge
+  - Safest river crossing
+  - This is where Daz and Sadine took supplies
+- Whitestead
+  - Trade town
+  - Fantastic Stables
+- Stormhaven
+  - Port city, lots of trade
+- Zeynep Island
+  - Fey island
